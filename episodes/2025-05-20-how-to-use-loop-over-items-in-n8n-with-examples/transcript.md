@@ -1,15 +1,16 @@
 ---
-title: "Unknown"
+title: "How to Use Loop Over Items in n8n (With Examples)"
 video_id: "f5AerjPEn-A"
 youtube_url: "https://www.youtube.com/watch?v=f5AerjPEn-A"
-publish_date: "unknown"
+publish_date: "2025-05-20"
 duration: "unknown"
 duration_seconds: 0
 view_count: 0
-author: "Deep Dive With The AI Automators"
+author: "Deep Dive with The AI Automators"
 
 yt_tags:
   []
+
 
 
 # AI-enriched metadata
@@ -41,6 +42,7 @@ keywords:
   - "make"
   - "n8n"
   - "prompting"
+  - "tutorials"
   - "workflows"
 ---
 

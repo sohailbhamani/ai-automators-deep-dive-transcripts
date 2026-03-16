@@ -1,126 +1,22 @@
 {
-  "total_videos": 5,
+  "total_videos": 15,
   "date_range": {
-    "newest": "unknown",
-    "oldest": "unknown"
+    "newest": "2026-03-12",
+    "oldest": "2025-03-05"
   },
   "videos": [
     {
-      "title": "Unknown",
-      "video_id": "53-EgGYBswg",
-      "youtube_url": "https://www.youtube.com/watch?v=53-EgGYBswg",
-      "publish_date": "unknown",
-      "duration": "unknown",
-      "duration_seconds": 0,
-      "view_count": 0,
-      "author": "Deep Dive With The AI Automators",
-      "yt_tags": [],
-      "content_type": "Tutorial",
-      "primary_topic": "AI Tools",
-      "difficulty": "Intermediate",
-      "audience": [
-        "Engineers",
-        "Executives"
-      ],
-      "entities": {
-        "companies": [],
-        "people": [],
-        "products": [
-          "Claude",
-          "Make",
-          "MCP",
-          "Model Context Protocol"
-        ],
-        "models": [
-          "Flux"
-        ]
-      },
-      "concepts": [],
-      "summary": [
-        "com's new MCP feature allows you to connect external agents like Claude Desktop directly to your Make"
-      ],
-      "transcript_chars": 14354,
-      "folder": "unknown-53-eggybswg"
-    },
-    {
-      "title": "Unknown",
-      "video_id": "f5AerjPEn-A",
-      "youtube_url": "https://www.youtube.com/watch?v=f5AerjPEn-A",
-      "publish_date": "unknown",
-      "duration": "unknown",
-      "duration_seconds": 0,
-      "view_count": 0,
-      "author": "Deep Dive With The AI Automators",
-      "yt_tags": [],
-      "content_type": "Case Study",
-      "primary_topic": "AI Strategy",
-      "difficulty": "Intermediate",
-      "audience": [
-        "Engineers"
-      ],
-      "entities": {
-        "companies": [
-          "Google"
-        ],
-        "people": [],
-        "products": [
-          "Make",
-          "n8n"
-        ],
-        "models": []
-      },
-      "concepts": [],
-      "summary": [
-        "# Unknown\nIn this video, I'll be explaining the flow of data and looping within NM"
-      ],
-      "transcript_chars": 15668,
-      "folder": "unknown-f5aerjpen-a"
-    },
-    {
-      "title": "Unknown",
-      "video_id": "fMVwGoMyTgg",
-      "youtube_url": "https://www.youtube.com/watch?v=fMVwGoMyTgg",
-      "publish_date": "unknown",
-      "duration": "unknown",
-      "duration_seconds": 0,
-      "view_count": 0,
-      "author": "Deep Dive With The AI Automators",
-      "yt_tags": [],
-      "content_type": "Case Study",
-      "primary_topic": "AI Strategy",
-      "difficulty": "Intermediate",
-      "audience": [
-        "Engineers"
-      ],
-      "entities": {
-        "companies": [],
-        "people": [],
-        "products": [
-          "Claude",
-          "Make",
-          "MCP"
-        ],
-        "models": []
-      },
-      "concepts": [],
-      "summary": [
-        "# Unknown\nWhat if external agents like Claw Desktop were able to automatically discover, understand, and execute your make"
-      ],
-      "transcript_chars": 1298,
-      "folder": "unknown-fmvwgomytgg"
-    },
-    {
-      "title": "Unknown",
+      "title": "Claude Code Can Now Run On AUTOPILOT. But /loop Is Not Always The Best Way.",
       "video_id": "G7u9_oocPmM",
       "youtube_url": "https://www.youtube.com/watch?v=G7u9_oocPmM",
-      "publish_date": "unknown",
+      "publish_date": "2026-03-12",
       "duration": "unknown",
       "duration_seconds": 0,
       "view_count": 0,
-      "author": "Deep Dive With The AI Automators",
+      "author": "Deep Dive with The AI Automators",
       "yt_tags": [],
       "content_type": "News Roundup",
-      "primary_topic": "AI Strategy",
+      "primary_topic": "AI Tools",
       "difficulty": "Intermediate",
       "audience": [
         "Engineers",
@@ -145,19 +41,123 @@
         "# Unknown\nA new feature just dropped within clawed code that allows you to run tasks on autopilot"
       ],
       "transcript_chars": 7671,
-      "folder": "unknown-g7u9_oocpmm"
+      "folder": "2026-03-12-claude-code-can-now-run-on-autopilot-but-loop-is-not-always-"
     },
     {
-      "title": "Unknown",
-      "video_id": "wWcqUdCBYCo",
-      "youtube_url": "https://www.youtube.com/watch?v=wWcqUdCBYCo",
-      "publish_date": "unknown",
+      "title": "How to Use Loop Over Items in n8n (With Examples)",
+      "video_id": "f5AerjPEn-A",
+      "youtube_url": "https://www.youtube.com/watch?v=f5AerjPEn-A",
+      "publish_date": "2025-05-20",
       "duration": "unknown",
       "duration_seconds": 0,
       "view_count": 0,
-      "author": "Deep Dive With The AI Automators",
+      "author": "Deep Dive with The AI Automators",
       "yt_tags": [],
       "content_type": "Case Study",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers"
+      ],
+      "entities": {
+        "companies": [
+          "Google"
+        ],
+        "people": [],
+        "products": [
+          "Make",
+          "n8n"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# Unknown\nIn this video, I'll be explaining the flow of data and looping within NM"
+      ],
+      "transcript_chars": 15668,
+      "folder": "2025-05-20-how-to-use-loop-over-items-in-n8n-with-examples"
+    },
+    {
+      "title": "MCP is Make's Most Underrated New Feature",
+      "video_id": "fMVwGoMyTgg",
+      "youtube_url": "https://www.youtube.com/watch?v=fMVwGoMyTgg",
+      "publish_date": "2025-05-11",
+      "duration": "unknown",
+      "duration_seconds": 0,
+      "view_count": 0,
+      "author": "Deep Dive with The AI Automators",
+      "yt_tags": [],
+      "content_type": "Case Study",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers"
+      ],
+      "entities": {
+        "companies": [],
+        "people": [],
+        "products": [
+          "Claude",
+          "Make",
+          "MCP"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# Unknown\nWhat if external agents like Claw Desktop were able to automatically discover, understand, and execute your make"
+      ],
+      "transcript_chars": 1298,
+      "folder": "2025-05-11-mcp-is-make-s-most-underrated-new-feature"
+    },
+    {
+      "title": "NEW Make.com MCP Update: Connect Anything in Minutes! (No-Code)",
+      "video_id": "53-EgGYBswg",
+      "youtube_url": "https://www.youtube.com/watch?v=53-EgGYBswg",
+      "publish_date": "2025-05-09",
+      "duration": "unknown",
+      "duration_seconds": 0,
+      "view_count": 0,
+      "author": "Deep Dive with The AI Automators",
+      "yt_tags": [],
+      "content_type": "News Roundup",
+      "primary_topic": "AI Tools",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives"
+      ],
+      "entities": {
+        "companies": [],
+        "people": [],
+        "products": [
+          "Claude",
+          "Make",
+          "MCP",
+          "Model Context Protocol"
+        ],
+        "models": [
+          "Flux"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "com's new MCP feature allows you to connect external agents like Claude Desktop directly to your Make"
+      ],
+      "transcript_chars": 14354,
+      "folder": "2025-05-09-new-make-com-mcp-update-connect-anything-in-minutes-no-code"
+    },
+    {
+      "title": "How to Bulk Add Rows to Google Sheets with Make.com",
+      "video_id": "wWcqUdCBYCo",
+      "youtube_url": "https://www.youtube.com/watch?v=wWcqUdCBYCo",
+      "publish_date": "2025-04-28",
+      "duration": "unknown",
+      "duration_seconds": 0,
+      "view_count": 0,
+      "author": "Deep Dive with The AI Automators",
+      "yt_tags": [],
+      "content_type": "Tutorial",
       "primary_topic": "AI Strategy",
       "difficulty": "Intermediate",
       "audience": [
@@ -178,7 +178,405 @@
         "# Unknown\nIn this video, I'm going to show you how you can bulk add rows to a Google sheet in one operation in make"
       ],
       "transcript_chars": 6243,
-      "folder": "unknown-wwcqudcbyco"
+      "folder": "2025-04-28-how-to-bulk-add-rows-to-google-sheets-with-make-com"
+    },
+    {
+      "title": "Understanding Bundles, Arrays & Collections in Make.com",
+      "video_id": "R0z5hzfWfVQ",
+      "youtube_url": "https://www.youtube.com/watch?v=R0z5hzfWfVQ",
+      "publish_date": "2025-04-25",
+      "duration": "13:10",
+      "duration_seconds": 790,
+      "view_count": 4486,
+      "author": "Deep Dive with The AI Automators",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Google",
+          "Slack"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Make"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# Understanding Bundles, Arrays & Collections in Make"
+      ],
+      "transcript_chars": 15191,
+      "folder": "2025-04-25-understanding-bundles-arrays-collections-in-makecom"
+    },
+    {
+      "title": "How to Auto-Post to All Your Socials (AI + Make.com + Airtable)",
+      "video_id": "1GPcLpus_0k",
+      "youtube_url": "https://www.youtube.com/watch?v=1GPcLpus_0k",
+      "publish_date": "2025-04-23",
+      "duration": "20:37",
+      "duration_seconds": 1237,
+      "view_count": 4686,
+      "author": "Deep Dive with The AI Automators",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Agents",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Executives"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Box",
+          "Perplexity",
+          "LinkedIn",
+          "Twitter"
+        ],
+        "people": [],
+        "products": [
+          "Perplexity",
+          "Make",
+          "Operator"
+        ],
+        "models": [
+          "Flux"
+        ]
+      },
+      "concepts": [
+        "You only want to set this to one"
+      ],
+      "summary": [
+        "com + Airtable)\nIn this video, I'll show you an automation that allows you to generate and schedule your social media posts across all platforms from one air table base"
+      ],
+      "transcript_chars": 24593,
+      "folder": "2025-04-23-how-to-auto-post-to-all-your-socials-ai-makecom-airtable"
+    },
+    {
+      "title": "How to Use Iterators & Aggregators in Make.com (Beginner's Guide)",
+      "video_id": "Gp-jRn86E8g",
+      "youtube_url": "https://www.youtube.com/watch?v=Gp-jRn86E8g",
+      "publish_date": "2025-04-21",
+      "duration": "14:32",
+      "duration_seconds": 872,
+      "view_count": 13085,
+      "author": "Deep Dive with The AI Automators",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Beginner",
+      "audience": [
+        "General"
+      ],
+      "entities": {
+        "companies": [
+          "Anthropic",
+          "Google",
+          "Slack"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Make"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "com (Beginner's Guide)\nIn this video, I'm hoping to demystify iterators and aggregators within make"
+      ],
+      "transcript_chars": 16871,
+      "folder": "2025-04-21-how-to-use-iterators-aggregators-in-makecom-beginners-guide"
+    },
+    {
+      "title": "Make.com's HUGE New Feature (I Got Early Access)",
+      "video_id": "xd0XdoErKZ8",
+      "youtube_url": "https://www.youtube.com/watch?v=xd0XdoErKZ8",
+      "publish_date": "2025-04-18",
+      "duration": "10:02",
+      "duration_seconds": 602,
+      "view_count": 1437,
+      "author": "Deep Dive with The AI Automators",
+      "yt_tags": [],
+      "content_type": "Framework",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Google"
+        ],
+        "people": [],
+        "products": [
+          "Make",
+          "Projects"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "com's HUGE New Feature (I Got Early Access)\nIn this video, I'm going to show you a major new make"
+      ],
+      "transcript_chars": 12113,
+      "folder": "2025-04-18-makecoms-huge-new-feature-i-got-early-access"
+    },
+    {
+      "title": "How to Auto-post to X/Twitter from Make.com (2025 Methods)",
+      "video_id": "ZSnkr8KMAjY",
+      "youtube_url": "https://www.youtube.com/watch?v=ZSnkr8KMAjY",
+      "publish_date": "2025-04-17",
+      "duration": "24:40",
+      "duration_seconds": 1480,
+      "view_count": 8794,
+      "author": "Deep Dive with The AI Automators",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives"
+      ],
+      "entities": {
+        "companies": [
+          "Box",
+          "Zapier",
+          "Twitter",
+          "X"
+        ],
+        "people": [
+          "Elon Musk"
+        ],
+        "products": [
+          "Zapier",
+          "Make",
+          "n8n"
+        ],
+        "models": [
+          "Llama"
+        ]
+      },
+      "concepts": [
+        "We're providing offline"
+      ],
+      "summary": [
+        "com issued a statement saying that they were removing the X app or the Twitter app from their platform due to X's API policy requirements and pricing"
+      ],
+      "transcript_chars": 28640,
+      "folder": "2025-04-17-how-to-auto-post-to-xtwitter-from-makecom-2025-methods"
+    },
+    {
+      "title": "Automate ANYTHING with Make.com + Replit Agent v2",
+      "video_id": "JKnSy8L0YUI",
+      "youtube_url": "https://www.youtube.com/watch?v=JKnSy8L0YUI",
+      "publish_date": "2025-04-14",
+      "duration": "36:52",
+      "duration_seconds": 2212,
+      "view_count": 1443,
+      "author": "Deep Dive with The AI Automators",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Agents",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives"
+      ],
+      "entities": {
+        "companies": [
+          "Anthropic",
+          "Perplexity",
+          "Replit",
+          "LinkedIn",
+          "Twitter",
+          "Lovable"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Perplexity",
+          "Make",
+          "Anthropic API"
+        ],
+        "models": [
+          "Flux"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "com + Replit Agent v2\nWith the recent rise of AI coding or vibe coding tools, I've set out to see if it's possible to use these to do the heavy lifting within our automation scenarios and potentially"
+      ],
+      "transcript_chars": 45235,
+      "folder": "2025-04-14-automate-anything-with-makecom-replit-agent-v2"
+    },
+    {
+      "title": "How to Automate Your Blog with Make.com (Beginner Guide)",
+      "video_id": "ui_92ouGqJU",
+      "youtube_url": "https://www.youtube.com/watch?v=ui_92ouGqJU",
+      "publish_date": "2025-04-04",
+      "duration": "14:28",
+      "duration_seconds": 868,
+      "view_count": 21181,
+      "author": "Deep Dive with The AI Automators",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Agents",
+      "difficulty": "Beginner",
+      "audience": [
+        "Engineers",
+        "Executives"
+      ],
+      "entities": {
+        "companies": [
+          "Anthropic",
+          "Google",
+          "Slack",
+          "Box",
+          "Perplexity",
+          "YouTube"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Gemini",
+          "Perplexity",
+          "Make"
+        ],
+        "models": [
+          "Gemini",
+          "Flux"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "1 Ultra and then upload that image and then pass it when we're creating the post so we're going to use a service called file"
+      ],
+      "transcript_chars": 15879,
+      "folder": "2025-04-04-how-to-automate-your-blog-with-makecom-beginner-guide"
+    },
+    {
+      "title": "How to Automate Your Email Newsletter With AI",
+      "video_id": "A0XCzKMIsZQ",
+      "youtube_url": "https://www.youtube.com/watch?v=A0XCzKMIsZQ",
+      "publish_date": "2025-04-01",
+      "duration": "25:32",
+      "duration_seconds": 1532,
+      "view_count": 919,
+      "author": "Deep Dive with The AI Automators",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Agents",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "Anthropic",
+          "Google",
+          "Box",
+          "Perplexity",
+          "X"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Perplexity",
+          "Make",
+          "Sonnet"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "com v4b broadcasts the method for this is going to be post to get your kit API key go to kit"
+      ],
+      "transcript_chars": 28518,
+      "folder": "2025-04-01-how-to-automate-your-email-newsletter-with-ai"
+    },
+    {
+      "title": "\ud83e\udd2b I Built an Advanced Backlink Report Tool Using Make.com",
+      "video_id": "U7bOf7cKdE4",
+      "youtube_url": "https://www.youtube.com/watch?v=U7bOf7cKdE4",
+      "publish_date": "2025-03-26",
+      "duration": "11:12",
+      "duration_seconds": 672,
+      "view_count": 463,
+      "author": "Deep Dive with The AI Automators",
+      "yt_tags": [],
+      "content_type": "News Roundup",
+      "primary_topic": "AI Agents",
+      "difficulty": "Advanced",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "Google"
+        ],
+        "people": [],
+        "products": [
+          "Make"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# \ud83e\udd2b I Built an Advanced Backlink Report Tool Using Make"
+      ],
+      "transcript_chars": 13279,
+      "folder": "2025-03-26-i-built-an-advanced-backlink-report-tool-using-makecom"
+    },
+    {
+      "title": "How to Poll APIs in Make.com (Step-by-Step Guide!)",
+      "video_id": "-JDb190rRvc",
+      "youtube_url": "https://www.youtube.com/watch?v=-JDb190rRvc",
+      "publish_date": "2025-03-05",
+      "duration": "12:15",
+      "duration_seconds": 735,
+      "view_count": 800,
+      "author": "Deep Dive with The AI Automators",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "Career",
+      "difficulty": "Intermediate",
+      "audience": [
+        "General"
+      ],
+      "entities": {
+        "companies": [
+          "Google"
+        ],
+        "people": [],
+        "products": [
+          "Make",
+          "n8n",
+          "Operator",
+          "Projects"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        ")\nin this video I'm going to show you how you can Implement polling of a web service in make"
+      ],
+      "transcript_chars": 14739,
+      "folder": "2025-03-05-how-to-poll-apis-in-makecom-step-by-step-guide"
     }
   ]
 }

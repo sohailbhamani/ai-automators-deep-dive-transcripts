@@ -1,19 +1,20 @@
 ---
-title: "Unknown"
+title: "How to Bulk Add Rows to Google Sheets with Make.com"
 video_id: "wWcqUdCBYCo"
 youtube_url: "https://www.youtube.com/watch?v=wWcqUdCBYCo"
-publish_date: "unknown"
+publish_date: "2025-04-28"
 duration: "unknown"
 duration_seconds: 0
 view_count: 0
-author: "Deep Dive With The AI Automators"
+author: "Deep Dive with The AI Automators"
 
 yt_tags:
   []
 
 
+
 # AI-enriched metadata
-content_type: "Case Study"
+content_type: "Tutorial"
 primary_topic: "AI Strategy"
 difficulty: "Intermediate"
 audience:
@@ -38,6 +39,7 @@ keywords:
   - "google"
   - "make"
   - "product-management"
+  - "tutorials"
   - "workflows"
 ---
 

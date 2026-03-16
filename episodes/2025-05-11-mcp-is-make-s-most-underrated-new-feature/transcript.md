@@ -1,15 +1,16 @@
 ---
-title: "Unknown"
+title: "MCP is Make's Most Underrated New Feature"
 video_id: "fMVwGoMyTgg"
 youtube_url: "https://www.youtube.com/watch?v=fMVwGoMyTgg"
-publish_date: "unknown"
+publish_date: "2025-05-11"
 duration: "unknown"
 duration_seconds: 0
 view_count: 0
-author: "Deep Dive With The AI Automators"
+author: "Deep Dive with The AI Automators"
 
 yt_tags:
   []
+
 
 
 # AI-enriched metadata
@@ -43,6 +44,7 @@ keywords:
   - "coding"
   - "make"
   - "mcp"
+  - "product-management"
 ---
 
 # Unknown

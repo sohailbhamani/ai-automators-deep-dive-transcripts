@@ -2,4 +2,4 @@
 
 Episodes discussing **Opus** (1 episodes):
 
-- [Unknown](../episodes/unknown-g7u9_oocpmm/transcript.md) (unknown)
+- [Claude Code Can Now Run On AUTOPILOT. But /loop Is Not Always The Best Way.](../episodes/2026-03-12-claude-code-can-now-run-on-autopilot-but-loop-is-not-always-/transcript.md) (2026-03-12)

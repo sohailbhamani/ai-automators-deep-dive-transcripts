@@ -1,20 +1,21 @@
 ---
-title: "Unknown"
+title: "Claude Code Can Now Run On AUTOPILOT. But /loop Is Not Always The Best Way."
 video_id: "G7u9_oocPmM"
 youtube_url: "https://www.youtube.com/watch?v=G7u9_oocPmM"
-publish_date: "unknown"
+publish_date: "2026-03-12"
 duration: "unknown"
 duration_seconds: 0
 view_count: 0
-author: "Deep Dive With The AI Automators"
+author: "Deep Dive with The AI Automators"
 
 yt_tags:
   []
 
 
+
 # AI-enriched metadata
 content_type: "News Roundup"
-primary_topic: "AI Strategy"
+primary_topic: "AI Tools"
 difficulty: "Intermediate"
 audience:
   - "Engineers"

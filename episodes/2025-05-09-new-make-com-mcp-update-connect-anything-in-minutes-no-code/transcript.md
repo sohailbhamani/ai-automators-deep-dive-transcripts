@@ -1,19 +1,20 @@
 ---
-title: "Unknown"
+title: "NEW Make.com MCP Update: Connect Anything in Minutes! (No-Code)"
 video_id: "53-EgGYBswg"
 youtube_url: "https://www.youtube.com/watch?v=53-EgGYBswg"
-publish_date: "unknown"
+publish_date: "2025-05-09"
 duration: "unknown"
 duration_seconds: 0
 view_count: 0
-author: "Deep Dive With The AI Automators"
+author: "Deep Dive with The AI Automators"
 
 yt_tags:
   []
 
 
+
 # AI-enriched metadata
-content_type: "Tutorial"
+content_type: "News Roundup"
 primary_topic: "AI Tools"
 difficulty: "Intermediate"
 audience:
@@ -37,9 +38,11 @@ summary:
   - "com's new MCP feature allows you to connect external agents like Claude Desktop directly to your Make"
 keywords:
   - "ai-agents"
+  - "ai-news"
   - "ai-tools"
   - "anthropic"
   - "claude"
+  - "coding"
   - "frameworks"
   - "leadership"
   - "make"
