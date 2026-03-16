@@ -7,6 +7,42 @@ duration: "20:37"
 duration_seconds: 1237
 view_count: 4686
 author: "Deep Dive with The AI Automators"
+description: |
+  👉 Get all of our blueprints, courses, and resources here: https://www.theaiautomators.com/?utm_source=youtube&utm_medium=video&utm_campaign=tutorial&utm_content=c2_social_media_system_airtable
+  
+  https://www.youtube.com/watch?v=JD48oemRUJk
+  https://www.youtube.com/watch?v=yoSCQHCej1Y
+  https://www.youtube.com/watch?v=j8K78QXjtPI
+  https://www.youtube.com/watch?v=j8K78QXjtPI
+  https://www.youtube.com/watch?v=ZSnkr8KMAjY
+  https://www.youtube.com/watch?v=K1VwNCfBYE8
+  https://www.youtube.com/watch?v=om6KpSzTTlc
+  https://www.youtube.com/watch?v=6wJaqpJyswA
+  
+  Chapters:
+  0:00 - Overview
+  1:20 - Demo
+  2:56 - Detailed Airtable Base Setup
+  3:33 - How the Airtable Button Triggers Make.com 
+  6:04 - Handling URL vs. Topic Inputs in Make.com
+  6:43 - Scraping URLs with Jina.ai & Processing with OpenAI
+  8:57 - Detailed fal.ai Image Generation Setup (API & Prompting)
+  10:38 - Updating the Airtable Record with Generated Content
+  11:41 - Content Generation Path: Using Perplexity API for Topics
+  13:14 - Alternative Trigger: Status Change (Free Airtable Workaround)
+  14:17 - Scheduling Workflow: Finding Ready Posts in Airtable (Filters & Sorting)
+  15:39 - Posting Logic: Routing to Selected Platforms (Facebook, Twitter/Buffer, LinkedIn, Instagram)
+  19:44 - Customizing the Automation & Final Thoughts
+  
+  In this video, I demonstrate an automation that lets you generate and schedule your social media posts across various platforms, all managed from a single Airtable base. You'll learn how to set up a system where you can either input a URL for the automation to scrape and create content from, or provide a topic for the system to research using Perplexity and then generate posts. I walk you through viewing the generated content, choosing the platforms for publication, and setting the desired publishing date.
+  
+  I begin by showing you how the automation works using an Airtable base. You can trigger the content generation process either by clicking a button or, potentially, by changing a status field if you have a paid Airtable plan (though I focus on the button method). This trigger activates a Make.com scenario. I explain the initial steps in Make.com, including capturing the Airtable record ID via a webhook and retrieving the full record details.
+  
+  The core of the automation involves content generation. I show two paths: if you provide a topic, the automation uses Perplexity to research it, followed by OpenAI to draft posts for multiple social networks simultaneously using JSON mode for efficiency. If you provide a URL, I demonstrate using a service like Jina.ai to get clean markdown content from the page before feeding it to OpenAI. I also incorporate an image generation step using fal.ai, including a helper prompt to OpenAI to create a concise image description first. Once generated, the text variations and the image URL are sent back to update the corresponding Airtable record.
+  
+  After the content is generated and populated in Airtable, I show you how to review it, select which social media platforms you want to post to (using a multi-select field), and set the publication date and status (e.g., 'Ready for Posting'). I then explain a second Make.com scenario designed for scheduling. This scenario runs periodically, searches for Airtable records marked 'Ready for Posting' and scheduled for the current day (or earlier), and picks one record to process. It uses filters to check which platforms were selected in Airtable and routes the content accordingly. I cover posting text and photos to Facebook and LinkedIn, using Buffer for Twitter (due to Make.com's discontinued native support), and posting photos and captions to Instagram, including error handling for Instagram if no photo is present. I also detail the specific Airtable field types used in the base setup, such as auto-number, button, date, multi-select, attachment, and long text fields.
+  
+  Finally, I emphasize that this automation serves as a powerful, customizable foundation. While I demonstrate using specific AI tools (fal.ai for images) and workflows for text generation, you can adapt every part to fit your specific needs, whether it's changing the AI models, adjusting the tone of voice in the prompts, using product images instead of AI-generated ones, or streamlining the fields. I encourage you to take this framework and enhance it for your own business or client work.
 
 yt_tags:
   []

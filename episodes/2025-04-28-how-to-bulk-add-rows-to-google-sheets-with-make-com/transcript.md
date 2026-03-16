@@ -7,6 +7,27 @@ duration: "unknown"
 duration_seconds: 0
 view_count: 0
 author: "Deep Dive with The AI Automators"
+description: |
+  👉 Get all of our blueprints, courses, and resources here: https://www.theaiautomators.com/?utm_source=youtube&utm_medium=video&utm_campaign=tutorial&utm_content=c2_bulk_add_rows
+  
+  Chapters:
+  0:00 - Introduction to Bulk Adding Rows
+  0:27 - Simple Example Setup
+  0:42 - The Inefficient "Add a Row" Method
+  1:53 - The Efficient "Bulk Add Rows" Method
+  2:27 - Using the Array Aggregator
+  3:51 - Configuring the "Bulk Add Rows" Module
+  4:13 - Running the Automation and Observing Results
+  
+  In this video, I'm going to show you how you can bulk add rows to a Google Sheet in one operation in make.com. This massively saves on the number of operations used while also being a lot more efficient and quicker to run the automations if you're working with a lot of data within your scenarios in Google Sheets. The operations could stack up quite a lot, and by using a more efficient method that I'm about to show you, you could save a lot of money on your make.com plan. Also, the method I'm about to show you may also be relevant to other apps.
+  
+  I'll illustrate using a very simple example where I have a Google Sheet with a list of orders, and I want to export the rows across to another sheet. If you're doing this using a standard "add rows" module, it's going to have to call the Google Sheets API for every single row added. I'll start off by showing you the slow way of doing this and then afterward show you the better bulk add method.
+  
+  Next, I'll demonstrate how to use the "Bulk add rows" module in Google Sheets to achieve this in a single operation. To prepare the data for this module, I'll introduce the Array Aggregator, explaining how it takes multiple bundles (representing individual rows from the initial Google Sheet search) and consolidates them into one bundle containing an array of all the rows. I'll also touch upon a useful feature in make.com where you can define the target structure based on a subsequent module.
+  
+  Finally, I'll configure the "Bulk add rows" module to map the data from the Array Aggregator correctly and then run the automation to show how all the rows are added to the destination Google Sheet in one go. This method is not only more cost-effective for large datasets but also more efficient and less prone to API rate limiting errors.
+  
+  If you're dealing with significant amounts of data in your make.com automations, understanding and implementing bulk operations like this can be a game-changer for efficiency and cost savings.
 
 yt_tags:
   []

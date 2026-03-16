@@ -7,6 +7,25 @@ duration: "unknown"
 duration_seconds: 0
 view_count: 0
 author: "Deep Dive with The AI Automators"
+description: |
+  👉 Check out our main channel @TheAIAutomators for way more deep n8n tutorials.
+  👉 Get all of our blueprints, courses, and resources here: https://www.theaiautomators.com/?utm_source=youtube&utm_medium=video&utm_campaign=tutorial&utm_content=c2_n8n_loop_over_items
+  
+  Chapters:
+  0:00 - Overview
+  0:43 - Arrays & Split Out
+  3:31 - Processing with LLM
+  5:22 - Loop Over Items Node
+  8:20 - Advanced Loop Settings
+  9:14 - More Looping Scenarios
+  
+  In this video, I'll be explaining the essential concepts of data flow and looping within n8n. When you're building workflows, you'll often deal with multiple items at once, whether they're rows from a spreadsheet or data points from an API. I'll show you how n8n handles these and how you can control the processing.
+  
+  I start by demonstrating n8n's built-in capability to handle multiple items. For instance, when a Google Sheets node fetches several rows, n8n automatically processes these as individual data items in the background, meaning there's often an internal looping mechanism at play without needing explicit loop nodes. However, I also address a common scenario where you might receive data as a single array of items, for example, from a manual trigger or an API. If you try to map this array directly into a node like Google Sheets, it often doesn't work as expected. Here, I introduce the "Split Out" node, a crucial tool for taking an overall array and separating it into distinct items that n8n can then process one by one. I'll also clarify an important aspect of n8n's logic: it processes all items at a specific node before moving on to the subsequent node in the workflow.
+  
+  Then, I dive into the "Loop over items" node. While not always necessary, it becomes very useful in specific situations. I illustrate its use by expanding a workflow to include an LLM chain to categorize tasks. A primary use case for the "Loop over items" node is rate limiting; I show you how to set a batch size (e.g., to process one item at a time) and incorporate a "Wait" node within the loop to control the speed of calls to external APIs. I also cover advanced settings for this loop node, such as error handling options (like continuing on error or using a separate error output) and the "always output data" setting to prevent your workflow from stopping unexpectedly. To solidify these concepts, I walk through an n8n template example involving a list of URLs, demonstrating various looping behaviors: how a Code node handles arrays versus individual items, the effect of using "Loop over items" with or without a preceding "Split Out" node, and when the "Loop over items" node is genuinely required versus when a node's inherent capabilities or n8n's default item handling is sufficient.
+  
+  Understanding these data flow and looping mechanisms is key to building efficient and robust automations in n8n. I encourage you to open up some n8n scenarios and experiment with these concepts yourself!
 
 yt_tags:
   []

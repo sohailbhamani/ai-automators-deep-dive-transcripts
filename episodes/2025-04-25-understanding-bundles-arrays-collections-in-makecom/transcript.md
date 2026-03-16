@@ -7,6 +7,27 @@ duration: "13:10"
 duration_seconds: 790
 view_count: 4486
 author: "Deep Dive with The AI Automators"
+description: |
+  👉 Get all of our blueprints, courses, and resources here: https://www.theaiautomators.com/?utm_source=youtube&utm_medium=video&utm_campaign=tutorial&utm_content=c2_bundles_arrays_collections
+  
+  Chapters:
+  0:00 - Overview
+  0:14 - Bundles Explained
+  1:25 - Individual Data Items, Collections, and Arrays
+  2:41 - Understanding Arrays in Detail
+  4:19 - Collections vs. Arrays vs. Bundles
+  4:36 - Iterators and Aggregators
+  6:19 - Array Aggregators and Functions
+  7:44 - Using array functions
+  9:24 - JSON structures
+  
+  In this video, I dive into the essential data structures within make.com: bundles, collections, and arrays. Understanding these concepts is crucial for building more sophisticated automation scenarios.
+  
+  I begin by explaining what a bundle is in the context of make.com and how it processes individual records. Then, I differentiate between individual data items, collections (groupings of fields), and arrays (ordered lists of items) using practical examples from an email parsing scenario. I further explore arrays, demonstrating how to access specific items using their index.
+  
+  Next, I clarify the relationship and differences between bundles, collections, and arrays, highlighting that bundles are a make.com-specific concept related to scenario execution. Then, I introduce iterators and aggregators, explaining how they handle arrays and bundles for more complex data processing, including examples of iterating through email attachments and aggregating order prices. I also show how array aggregators can combine bundles into a single array for efficient processing and demonstrate useful array functions like map and join.
+  
+  Finally, I touch upon the underlying JSON format that make.com uses to represent these data structures and how understanding this can be beneficial when interacting with external APIs.
 
 yt_tags:
   []

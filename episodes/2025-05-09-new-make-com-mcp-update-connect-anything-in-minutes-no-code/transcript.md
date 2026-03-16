@@ -7,6 +7,27 @@ duration: "unknown"
 duration_seconds: 0
 view_count: 0
 author: "Deep Dive with The AI Automators"
+description: |
+  👉 Get all of our blueprints, courses, and resources here: https://www.theaiautomators.com/?utm_source=youtube&utm_medium=video&utm_campaign=tutorial&utm_content=c2_make_mcp
+  
+  https://www.youtube.com/watch?v=sb5hCcFYPIE
+  https://www.youtube.com/watch?v=P58OvNdpPYk
+  https://www.youtube.com/watch?v=LVm3Et4HZO8
+  https://www.youtube.com/watch?v=M6SuOXuMBgk
+  
+  Chapters:
+  0:00 - MCP in Make.com Explained
+  4:37 - Setting up Make.com MCP
+  6:17 - Practical Examples
+  11:41 - Access Control & Further Learning
+  
+  In this video, I explore Make.com's new MCP (Model Context Protocol) feature, which allows you to connect external agents like Claude Desktop directly to your Make.com account. I'll show you how this enables AI agents to discover, understand, and execute your Make.com scenarios with remarkable ease. You'll learn how to get this set up in just a few minutes and see examples of how I've given Claude access to scenarios for creating ClickUp tasks, generating AI images, and posting to WordPress.
+  
+  I start by explaining what MCP is – think of it as a USB connector for tools and services, allowing AI agents to interact with them without needing individual, complex integrations. I then walk you through the process of setting up the connection. This involves going to your Make.com profile under API MCP access, creating an MCP token, and copying the provided URL. This URL is what allows Claude Desktop to ask Make.com about available scenarios. You'll see how Claude can instantly discover any scenarios marked as "on demand" in your Make.com account. I explain the importance of scenario inputs and outputs; for instance, how to define an "image prompt" input for an image generation scenario or a "task title" and "description" for creating a ClickUp task. I detail how these inputs are passed from Claude to Make.com and how scenario outputs, like a task URL or an image URL, are returned to Claude.
+  
+  Next, I demonstrate configuring Claude Desktop. This involves copying a JSON configuration example from Make.com, opening Claude's settings, editing the config file, pasting in the configuration, and restarting Claude. Once connected, Claude can discover your "on demand" Make.com scenarios. I show practical examples, such as asking Claude to create a ClickUp task about AI agents, generate an AI image, and then publish an article to WordPress using that image. I also touch upon refining scenario inputs for better results, like specifying that WordPress content should be in HTML format and not include the title. Finally, I cover how you can control which scenarios external systems can access by defining specific organization, team, or scenario IDs in the Claude configuration, ensuring you have granular control.
+  
+  By the end of this video, you'll understand the core concepts of connecting Claude Desktop to Make.com using MCP and have a good grasp of how this protocol works, empowering you to connect other MCP-compatible external agents and assistants.
 
 yt_tags:
   []

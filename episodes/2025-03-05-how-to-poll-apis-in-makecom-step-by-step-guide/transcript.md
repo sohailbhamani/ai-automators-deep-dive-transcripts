@@ -7,6 +7,17 @@ duration: "12:15"
 duration_seconds: 735
 view_count: 800
 author: "Deep Dive with The AI Automators"
+description: |
+  👉 Get all of our Make.com & n8n templates, courses, and resources here:
+  https://www.theaiautomators.com/?utm_source=youtube&utm_medium=video&utm_campaign=tutorial&utm_content=polling
+  
+  Polling web services is essential when webhooks aren’t available—but do it wrong, and you could overload an API, hit rate limits or waste your operations budget. In this video, I’ll show you how to set up API polling in Make.com the right way! 🚀
+  
+  🔗 Tools & Links Mentioned:
+  Make.com: https://theaiautomators.com/go/make
+  
+  👋 Connect with Us:
+  Have questions or want to discuss more about AI automation? Drop your thoughts in the comments or join our community of automation enthusiasts! 🚀
 
 yt_tags:
   []

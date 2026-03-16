@@ -7,6 +7,33 @@ duration: "14:32"
 duration_seconds: 872
 view_count: 13085
 author: "Deep Dive with The AI Automators"
+description: |
+  👉 Get all of our Make.com & n8n templates, courses, and resources here:
+  https://www.theaiautomators.com/?utm_source=youtube&utm_medium=video&utm_campaign=tutorial&utm_content=c2_iterators_aggregators
+  
+  https://www.youtube.com/watch?v=sJ4QrtWwkBA
+  
+  Chapters:
+  0:00 - Overview of Iterators and Aggregators
+  0:04 - Bundles in Make.com
+  1:45 - Combining Data with Aggregators
+  2:28 - Using the Text Aggregator
+  3:45 - Practical Use Cases for Aggregators
+  4:27 - Numeric Aggregator
+  5:15 - Understanding Arrays and Collections
+  7:11 - Using iterators
+  10:00 - Converging Bundles with Aggregators: Blog Post Example
+  11:07 - Efficient Data Handling with Array Aggregators
+  
+  In this video, I aim to demystify iterators and aggregators within make.com when processing data. You'll learn how make.com handles data from sources like Google Sheets as individual bundles and how these bundles are processed in scenarios. I demonstrate how each row of data is treated separately and the implications for module execution. Discover how to combine individual data rows instead of processing them separately using aggregators.
+  
+  I explore the text aggregator, one of the simplest to understand, which combines multiple data entries into a single text string. See how it iterates through bundles and separates them as needed. We also discuss practical use cases for aggregators, such as creating daily summary reports.
+  
+  Before diving deeper into array aggregators, I explain the data structures of arrays and collections, using Gmail attachments as a practical example. Understand the difference between data items, arrays (numbered lists), and collections (groupings of data items). Learn how to iterate through arrays, such as uploading each Gmail attachment to Google Drive. I also cover a trick to access the first item in an array directly.
+  
+  I illustrate how iterators process each item in an array individually and the concept of forking out the flow for each bundle. Learn how to converge these multiple bundles back into one using aggregators, referencing a blogging system example where article sections are generated and then combined.
+  
+  Finally, we delve into the array aggregator, a powerful tool for efficiently handling multiple bundles. See a practical example of taking data from Google Sheets and using the array aggregator with the "Bulk add rows" module to update another sheet efficiently, saving operations and API calls.
 
 yt_tags:
   []

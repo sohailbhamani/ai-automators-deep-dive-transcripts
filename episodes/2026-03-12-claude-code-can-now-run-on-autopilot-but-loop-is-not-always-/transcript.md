@@ -7,6 +7,20 @@ duration: "unknown"
 duration_seconds: 0
 view_count: 0
 author: "Deep Dive with The AI Automators"
+description: |
+  👉 Get ALL of our courses, systems and resources: https://www.theaiautomators.com/?utm_source=youtube&utm_medium=video&utm_campaign=tutorial&utm_content=c2_claude_loops
+  
+  Agentic RAG Series: https://www.youtube.com/watch?v=xgPWCuqLoek
+  
+  In this video, I break down the four main ways you can run recurring tasks inside Claude’s ecosystem and explain which one actually makes sense depending on what you’re trying to automate. We look at the new /loop feature in Claude Code, Desktop scheduled tasks, Claude Cowork scheduled tasks, and GitHub Actions, so you can quickly understand the trade-offs between speed, persistence, and technical complexity.
+  
+  You’ll see why Claude Code loops are the easiest place to start if you want something running in seconds with almost no setup. I explain how /loop lets you describe a recurring task in plain English, how one-time reminders work, and why it’s such a useful option for testing automations like inbox summaries, reminders, deployment checks, recurring research, and status updates. I also cover the important limitations, including session scope, the three-day expiry, the need to keep your terminal open, and the fact that missed runs do not catch up.
+  
+  From there, I compare loops with scheduled tasks in the Claude Code Desktop app, which are much better suited for daily or weekly automations that you want to keep running over time. I walk through how these tasks differ from loops, why they persist across restarts, how catch-up behaviour works after sleep or downtime, and the kinds of workflows they’re ideal for, such as morning briefings, weekly competitor research, file organisation, recurring finance summaries, and social content generation.
+  
+  I also touch on Claude Cowork as an alternative for less technical users, along with some of the current quirks worth being aware of. Then I explain where GitHub Actions fits into the picture, especially for developer-focused workflows that need to run in the cloud without relying on your own machine being awake. If you’re using Claude to support pull requests, repository updates, or shared engineering processes, this is where GitHub Actions becomes the better option.
+  
+  By the end of the video, you’ll know when to use /loop for quick temporary automation, when to promote a task into a persistent Desktop scheduled task, and when GitHub Actions is the better long-term choice for cloud-based development workflows.
 
 yt_tags:
   []

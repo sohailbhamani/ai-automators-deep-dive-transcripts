@@ -7,6 +7,29 @@ duration: "36:52"
 duration_seconds: 2212
 view_count: 1443
 author: "Deep Dive with The AI Automators"
+description: |
+  👉 Get all of our blueprints and learn how to customize them https://www.theaiautomators.com/?utm_source=youtube&utm_medium=video&utm_campaign=tutorial&utm_content=c2_automate_anything_replit_make
+  
+  Chapters:
+  0:00 - Introduction to AI Coding for Automation
+  1:32 - Creating Replit App
+  5:18 - Building UI, API Endpoint & WordPress
+  16:53 - Integrating with make.com & First API Call
+  20:52 - Adding Image Generation with fal.ai
+  29:19 - Adding Authorization
+  31:25 - End-to-end test
+  32:22 - Final updates
+  33:12 - Verdict and Lessons Learned
+  
+  In this video, we explore the potential of vibe coding tools, specifically Replit, to simplify and enhance complex automation scenarios, focusing on an article generation system.
+  
+  We begin by outlining our existing three-step blogging automation and the goal of simplifying it using Replit's agent v2. We then detail the initial creation of a Replit app designed to generate articles with Anthropic Claude and publish them to WordPress.
+  
+  The video progresses through building the user interface for testing and the creation of a REST API endpoint for integration with make.com. We troubleshoot initial connection issues with WordPress and demonstrate the first attempts at calling the Replit API from make.com.
+  
+  A significant portion covers enhancing the app with image generation using the fal.ai service, including providing API documentation and resolving integration challenges. We also implement authorization for the app and API for security.
+  
+  Finally, we showcase a successful end-to-end automation where triggering a make.com scenario results in the Replit app generating and publishing a full article with relevant images to WordPress, updating Airtable with the article link and social media prompts.
 
 yt_tags:
   []

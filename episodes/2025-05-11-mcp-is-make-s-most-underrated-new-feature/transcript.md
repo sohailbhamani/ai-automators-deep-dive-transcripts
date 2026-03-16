@@ -7,6 +7,8 @@ duration: "unknown"
 duration_seconds: 0
 view_count: 0
 author: "Deep Dive with The AI Automators"
+description: |
+  MCP is Make.com's most underrated new feature. This new Model Context Protocol Server feature allows you to connect external agents like Claude Desktop directly to your Make.com account. I'll show you how this enables AI agents to discover, understand, and execute your Make.com scenarios with remarkable ease. You'll learn how to get this set up in just a few minutes and see examples of how I've given Claude access to scenarios for creating ClickUp tasks, generating AI images, and posting to WordPress.
 
 yt_tags:
   []

@@ -7,6 +7,30 @@ duration: "10:02"
 duration_seconds: 602
 view_count: 1437
 author: "Deep Dive with The AI Automators"
+description: |
+  👉 Get all of our blueprints, courses, and resources here: https://www.theaiautomators.com/?utm_source=youtube&utm_medium=video&utm_campaign=tutorial&utm_content=c2_make_grid
+  
+  Chapters:
+  0:00 - Overview
+  1:45 - Filtering and Navigation
+  2:05 - Active Scenarios View
+  2:44 - Benefits and Use Cases
+  5:06 - Mixed Feelings and Disadvantages
+  8:50 - Verdict
+  
+  Welcome to this in-depth look at Make.com's new feature, Grid! I recently gained access to this beta tool that provides a bird's-eye view of all your organization's scenarios. We'll explore exactly how Grid works, who stands to benefit the most from it, and I'll also share my honest, mixed opinions on this new system.
+  
+  If you get access to Grid, you'll first encounter a brief onboarding process that highlights how Grid effectively visualizes the interconnections between your scenarios. You'll see how triggers (represented by purple links) initiate actions and how data flows between different assets (blue links). While the color contrast could be improved for clarity, this overview provides a foundational understanding of the interconnectedness.
+  
+  Clicking on any asset within the grid reveals a read-only pop-up menu with key information, including what the scenario is triggering, reading, and writing data to, the apps being used, and other general details. Grid intelligently detects popular assets like Google Sheets, Airtable, and ClickUp within your scenarios, offering a quick snapshot of your integrations. While not all assets are currently supported, this list will likely expand as the feature develops.
+  
+  The top-left filter allows you to search for specific automations, enabling you to zoom in on its interconnections. While viewing all scenarios can result in a complex map, focusing on "active" scenarios and using the "auto align" mode provides a much clearer perspective. This is particularly useful for seeing how multiple scenarios connect to a single service, such as ClickUp, allowing you to navigate between related automations across different projects.
+  
+  The biggest advantage of Grid is its ability to serve as an exploratory tool, allowing you to understand the relationships between your scenarios and the services they interact with. This can be invaluable for automation agencies explaining workflows to clients or for team members onboarding new projects. While the detailed view within a scenario can be complex, Grid offers an abstracted overview, showing data flow and triggers, potentially making it easier for those less familiar with Make.com to grasp the connections. For those building modular scenarios with interconnected individual functions, Grid can be particularly useful in visualizing this microservices-like architecture. You can even directly access linked data sources like Google Drive folders for closer examination. This makes Grid a powerful tool for team collaboration and understanding complex automation landscapes.
+  
+  Despite its impressive interface and functionality, I have some reservations about Grid's impact on day-to-day efficiency for building scenarios, especially as it's currently read-only. While it excels as an analysis and communication tool, I question if the development effort might have been better directed towards enhancing the existing interface or Make AI agents. Although Grid showcases the Make.com team's development prowess, I see it more as a "nice-to-have" rather than a core feature that significantly speeds up the building process. It's possible that Make.com envisions Grid as the future of their platform interface, but that transition seems distant. Additionally, while Grid represents AI agents within scenarios, it doesn't currently show the tools those agents have access to, which would be a valuable addition.
+  
+  Ultimately, Grid's utility may scale with team and organization size, offering significant benefits for understanding and communicating complex automation flows. While larger organizations might hesitate due to the lack of self-hosting options, reasonably sized teams could find this a valuable tool.
 
 yt_tags:
   []

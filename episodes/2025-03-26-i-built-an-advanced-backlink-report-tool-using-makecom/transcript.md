@@ -7,6 +7,28 @@ duration: "11:12"
 duration_seconds: 672
 view_count: 463
 author: "Deep Dive with The AI Automators"
+description: |
+  👉 Get all of our Make.com & n8n templates, courses, and resources here:
+  https://www.theaiautomators.com/?utm_source=youtube&utm_medium=video&utm_campaign=tutorial&utm_content=c2_backlink_reports
+  
+  https://www.youtube.com/watch?v=zn6Qiqkhf98
+  https://www.youtube.com/watch?v=6Dza9qf5Ny8
+  
+  Chapters:
+  0:00 - Overview
+  1:37 - Demo
+  2:06 - Automation walkthrough
+  4:45 - Using BuildShip for bulk data transformation
+  9:00 - Google Sheets bulk update
+  9:37 - Updating the main Google sheet
+  
+  In this video, I show you a fully automated system that generates scalable backlink and site metric reports using Make.com, DataForSEO, Google Sheets, and BuildShip. All you need to do is input your target URLs into a Google Sheet, and the automation will take care of the rest—retrieving site metrics like rankings, backlink counts, referring domains, and broken pages, then generating both summary and detailed backlink reports for each URL.
+  
+  The video begins by demonstrating how to leverage DataForSEO's powerful API at a low cost by integrating it with Make.com, which waives the usual $100/month commitment. Using batch processing with the Google Sheets API, the automation efficiently updates the sheet in one go rather than row-by-row, significantly saving on operations.
+  
+  You’ll also see how to create both high-level backlink summaries and in-depth backlink reports. The latter involves using BuildShip to transform the backlink data into a format suitable for batch updating Google Sheets.
+  
+  Additional features include creating individual spreadsheets for each backlink report, organizing them within Google Drive folders, and appending data in Google Sheets using proper JSON formatting. The automation ends by updating the main report sheet with relevant metrics and a link to the detailed report.
 
 yt_tags:
   []

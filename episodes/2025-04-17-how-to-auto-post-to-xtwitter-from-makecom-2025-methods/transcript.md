@@ -7,6 +7,34 @@ duration: "24:40"
 duration_seconds: 1480
 view_count: 8794
 author: "Deep Dive with The AI Automators"
+description: |
+  👉 Get all of our blueprints and learn how to customize them https://www.theaiautomators.com/?utm_source=youtube&utm_medium=video&utm_campaign=tutorial&utm_content=twitter_alternatives
+  
+  Last Thursday, Make.com announced the removal of its Twitter/X integration due to new API pricing and policy changes — leaving thousands of automators scrambling for solutions. 
+  
+  In this video, I walk you through three robust ways to keep your X scenarios running on Make, even after the hard deadline of May 30th.
+  
+  🔗 Related Videos & Links:
+  Buffer: https://buffer.com/
+  n8n: https://theaiautomators.com/go/n8n
+  Original X Setup Video - https://www.youtube.com/watch?v=cFfJATte6-M
+  
+  ✅ Option 1: Buffer Integration
+  A quick and easy replacement for most Twitter posting tasks — free plan available, and super straightforward to set up within Make.com.
+  
+  ✅ Option 2: Direct X API Integration
+  For advanced users — I show how to use HTTP modules in Make to hit the X API directly, including how to build an OAuth2 PKCE flow to generate access tokens securely (well… semi-securely 😅).
+  
+  ✅ Option 3: n8n + Make Hybrid Workflow
+  Leverage n8n’s built-in support for Twitter’s API (including PKCE) and trigger your tweets via Make.com using webhooks — best of both worlds.
+  
+  Whether you're a casual poster or running a full-on social media agent, there’s a solution here for you.
+  
+  Timestamps
+  00:00 It's Over
+  02:10 Buffer Option
+  07:05 Native HTTP Option
+  19:26 N8N Webhook Option
 
 yt_tags:
   []

@@ -7,6 +7,31 @@ duration: "25:32"
 duration_seconds: 1532
 view_count: 919
 author: "Deep Dive with The AI Automators"
+description: |
+  👉 Get all of our Make.com & n8n templates, courses, and resources here:
+  https://www.theaiautomators.com/?utm_source=youtube&utm_medium=video&utm_campaign=tutorial&utm_content=c2_email_newsletter_deep_research
+  
+  https://www.youtube.com/watch?v=LTMvHKyrzLg
+  https://www.youtube.com/watch?v=iQF2U3pKPIM
+  https://www.youtube.com/watch?v=V21J0_RMbJo
+  https://www.youtube.com/watch?v=7MYBGriURr4
+  https://www.youtube.com/watch?v=q8oQOovObfI
+  
+  Chapters:
+  0:00 - Overview
+  1:27 - Google Sheets Integration
+  3:05 - Perplexity Deep Research
+  4:40 - Text Parser
+  6:35 - Claude 3.7 Sonnet Integration
+  11:49 - ConvertKit Integration via HTTP
+  13:06 - Email Template Setup
+  15:12 - Sending Email Content
+  16:27 - HTML Cleaning
+  18:47 - Generating Email Title, Description, and Preview text
+  21:41 - Updating Google Sheet Status
+  24:03 - Auto-Publishing in ConvertKit
+  
+  This video demonstrates a powerful automation for generating full email broadcasts directly from a Google Sheet. It's built on Make.com. By inputting a newsletter topic into the sheet, the system uses Perplexity Deep Research to gather facts and insights, and Claude 3.7 Sonnet to create compelling newsletter text. The automation then formats the newsletter and sends it to Kit (formerly ConvertKit), though it's adaptable for any email service provider with API access for HTML. This approach simplifies email newsletter creation, making it accessible for various niches and content formats. The tutorial covers setting up a Google Sheet with statuses, connecting to Google Sheets, using Perplexity for research, parsing text, integrating Claude for text generation, and connecting to ConvertKit via HTTP. It also includes steps for cleaning HTML, generating email metadata, updating Google Sheet statuses, and optionally auto-publishing.
 
 yt_tags:
   []
