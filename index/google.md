@@ -1,7 +1,8 @@
 # Google
 
-Episodes discussing **Google** (9 episodes):
+Episodes discussing **Google** (10 episodes):
 
+- [Unknown](../episodes/unknown-c8itnxwtkpm/transcript.md) (unknown)
 - [How to Use Loop Over Items in n8n (With Examples)](../episodes/2025-05-20-how-to-use-loop-over-items-in-n8n-with-examples/transcript.md) (2025-05-20)
 - [How to Bulk Add Rows to Google Sheets with Make.com](../episodes/2025-04-28-how-to-bulk-add-rows-to-google-sheets-with-make-com/transcript.md) (2025-04-28)
 - [Understanding Bundles, Arrays & Collections in Make.com](../episodes/2025-04-25-understanding-bundles-arrays-collections-in-makecom/transcript.md) (2025-04-25)

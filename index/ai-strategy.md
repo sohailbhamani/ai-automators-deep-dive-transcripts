@@ -1,7 +1,8 @@
 # Ai Strategy
 
-Episodes discussing **Ai Strategy** (7 episodes):
+Episodes discussing **Ai Strategy** (8 episodes):
 
+- [Unknown](../episodes/unknown-c8itnxwtkpm/transcript.md) (unknown)
 - [How to Use Loop Over Items in n8n (With Examples)](../episodes/2025-05-20-how-to-use-loop-over-items-in-n8n-with-examples/transcript.md) (2025-05-20)
 - [MCP is Make's Most Underrated New Feature](../episodes/2025-05-11-mcp-is-make-s-most-underrated-new-feature/transcript.md) (2025-05-11)
 - [How to Bulk Add Rows to Google Sheets with Make.com](../episodes/2025-04-28-how-to-bulk-add-rows-to-google-sheets-with-make-com/transcript.md) (2025-04-28)
