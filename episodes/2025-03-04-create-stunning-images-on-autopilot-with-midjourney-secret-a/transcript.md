@@ -24,9 +24,11 @@ entities:
   companies:
     - "Google"
     - "X"
+    - "Midjourney"
   people:
     []
   products:
+    - "Midjourney"
     - "Make"
   models:
     []
@@ -44,6 +46,7 @@ keywords:
   - "frameworks"
   - "google"
   - "make"
+  - "midjourney"
   - "prompting"
   - "workflows"
   - "x"

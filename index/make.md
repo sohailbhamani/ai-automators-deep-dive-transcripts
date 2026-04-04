@@ -2,7 +2,6 @@
 
 Episodes discussing **Make** (15 episodes):
 
-- [Unknown](../episodes/unknown-c8itnxwtkpm/transcript.md) (unknown)
 - [How to Use Loop Over Items in n8n (With Examples)](../episodes/2025-05-20-how-to-use-loop-over-items-in-n8n-with-examples/transcript.md) (2025-05-20)
 - [MCP is Make's Most Underrated New Feature](../episodes/2025-05-11-mcp-is-make-s-most-underrated-new-feature/transcript.md) (2025-05-11)
 - [NEW Make.com MCP Update: Connect Anything in Minutes! (No-Code)](../episodes/2025-05-09-new-make-com-mcp-update-connect-anything-in-minutes-no-code/transcript.md) (2025-05-09)
@@ -17,3 +16,4 @@ Episodes discussing **Make** (15 episodes):
 - [How to Automate Your Email Newsletter With AI](../episodes/2025-04-01-how-to-automate-your-email-newsletter-with-ai/transcript.md) (2025-04-01)
 - [🤫 I Built an Advanced Backlink Report Tool Using Make.com](../episodes/2025-03-26-i-built-an-advanced-backlink-report-tool-using-makecom/transcript.md) (2025-03-26)
 - [How to Poll APIs in Make.com (Step-by-Step Guide!)](../episodes/2025-03-05-how-to-poll-apis-in-makecom-step-by-step-guide/transcript.md) (2025-03-05)
+- [Create Stunning Images on Autopilot with Midjourney (SECRET API!)](../episodes/2025-03-04-create-stunning-images-on-autopilot-with-midjourney-secret-a/transcript.md) (2025-03-04)

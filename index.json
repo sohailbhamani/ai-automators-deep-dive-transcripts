@@ -1,45 +1,10 @@
 {
   "total_videos": 16,
   "date_range": {
-    "newest": "unknown",
-    "oldest": "2025-03-05"
+    "newest": "2026-03-12",
+    "oldest": "2025-03-04"
   },
   "videos": [
-    {
-      "title": "Unknown",
-      "video_id": "C8itnXWtKpM",
-      "youtube_url": "https://www.youtube.com/watch?v=C8itnXWtKpM",
-      "publish_date": "unknown",
-      "duration": "unknown",
-      "duration_seconds": 0,
-      "view_count": 0,
-      "author": "Deep Dive With The AI Automators",
-      "description": "",
-      "yt_tags": [],
-      "content_type": "Framework",
-      "primary_topic": "AI Strategy",
-      "difficulty": "Intermediate",
-      "audience": [
-        "Engineers"
-      ],
-      "entities": {
-        "companies": [
-          "Google",
-          "X"
-        ],
-        "people": [],
-        "products": [
-          "Make"
-        ],
-        "models": []
-      },
-      "concepts": [],
-      "summary": [
-        "# Unknown\nhey Daniel here in today's video I'm going to show you how you can integrate mid Journey with your make"
-      ],
-      "transcript_chars": 15014,
-      "folder": "unknown-c8itnxwtkpm"
-    },
     {
       "title": "Claude Code Can Now Run On AUTOPILOT. But /loop Is Not Always The Best Way.",
       "video_id": "G7u9_oocPmM",
@@ -627,6 +592,43 @@
       ],
       "transcript_chars": 14739,
       "folder": "2025-03-05-how-to-poll-apis-in-makecom-step-by-step-guide"
+    },
+    {
+      "title": "Create Stunning Images on Autopilot with Midjourney (SECRET API!)",
+      "video_id": "C8itnXWtKpM",
+      "youtube_url": "https://www.youtube.com/watch?v=C8itnXWtKpM",
+      "publish_date": "2025-03-04",
+      "duration": "unknown",
+      "duration_seconds": 0,
+      "view_count": 0,
+      "author": "Deep Dive with The AI Automators",
+      "description": "",
+      "yt_tags": [],
+      "content_type": "Framework",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers"
+      ],
+      "entities": {
+        "companies": [
+          "Google",
+          "X",
+          "Midjourney"
+        ],
+        "people": [],
+        "products": [
+          "Midjourney",
+          "Make"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# Unknown\nhey Daniel here in today's video I'm going to show you how you can integrate mid Journey with your make"
+      ],
+      "transcript_chars": 15014,
+      "folder": "2025-03-04-create-stunning-images-on-autopilot-with-midjourney-secret-a"
     }
   ]
 }
