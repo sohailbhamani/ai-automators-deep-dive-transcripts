@@ -1,12 +1,12 @@
 ---
-title: "Unknown"
+title: "Create Stunning Images on Autopilot with Midjourney (SECRET API!)"
 video_id: "C8itnXWtKpM"
 youtube_url: "https://www.youtube.com/watch?v=C8itnXWtKpM"
-publish_date: "unknown"
+publish_date: "2025-03-04"
 duration: "unknown"
 duration_seconds: 0
 view_count: 0
-author: "Deep Dive With The AI Automators"
+author: "Deep Dive with The AI Automators"
 description: ""
 
 yt_tags:
