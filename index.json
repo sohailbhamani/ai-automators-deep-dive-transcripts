@@ -41,6 +41,23 @@
       "summary": [
         "# Unknown\nA new feature just dropped within clawed code that allows you to run tasks on autopilot"
       ],
+      "keywords": [
+        "ai-news",
+        "ai-tools",
+        "anthropic",
+        "career",
+        "claude",
+        "claude-code",
+        "coding",
+        "frameworks",
+        "github",
+        "leadership",
+        "opus",
+        "product-management",
+        "prompting",
+        "slack",
+        "workflows"
+      ],
       "transcript_chars": 7671,
       "folder": "2026-03-12-claude-code-can-now-run-on-autopilot-but-loop-is-not-always-"
     },
@@ -76,6 +93,16 @@
       "summary": [
         "# Unknown\nIn this video, I'll be explaining the flow of data and looping within NM"
       ],
+      "keywords": [
+        "ai-news",
+        "frameworks",
+        "google",
+        "make",
+        "n8n",
+        "prompting",
+        "tutorials",
+        "workflows"
+      ],
       "transcript_chars": 15668,
       "folder": "2025-05-20-how-to-use-loop-over-items-in-n8n-with-examples"
     },
@@ -109,6 +136,16 @@
       "concepts": [],
       "summary": [
         "# Unknown\nWhat if external agents like Claw Desktop were able to automatically discover, understand, and execute your make"
+      ],
+      "keywords": [
+        "ai-agents",
+        "ai-tools",
+        "anthropic",
+        "claude",
+        "coding",
+        "make",
+        "mcp",
+        "product-management"
       ],
       "transcript_chars": 1298,
       "folder": "2025-05-11-mcp-is-make-s-most-underrated-new-feature"
@@ -148,6 +185,23 @@
       "summary": [
         "com's new MCP feature allows you to connect external agents like Claude Desktop directly to your Make"
       ],
+      "keywords": [
+        "ai-agents",
+        "ai-news",
+        "ai-tools",
+        "anthropic",
+        "claude",
+        "coding",
+        "frameworks",
+        "leadership",
+        "make",
+        "mcp",
+        "model-context-protocol",
+        "product-management",
+        "prompting",
+        "tutorials",
+        "workflows"
+      ],
       "transcript_chars": 14354,
       "folder": "2025-05-09-new-make-com-mcp-update-connect-anything-in-minutes-no-code"
     },
@@ -181,6 +235,14 @@
       "concepts": [],
       "summary": [
         "# Unknown\nIn this video, I'm going to show you how you can bulk add rows to a Google sheet in one operation in make"
+      ],
+      "keywords": [
+        "ai-agents",
+        "google",
+        "make",
+        "product-management",
+        "tutorials",
+        "workflows"
       ],
       "transcript_chars": 6243,
       "folder": "2025-04-28-how-to-bulk-add-rows-to-google-sheets-with-make-com"
@@ -219,6 +281,17 @@
       "concepts": [],
       "summary": [
         "# Understanding Bundles, Arrays & Collections in Make"
+      ],
+      "keywords": [
+        "ai-tools",
+        "claude",
+        "coding",
+        "google",
+        "make",
+        "openai",
+        "product-management",
+        "slack",
+        "workflows"
       ],
       "transcript_chars": 15191,
       "folder": "2025-04-25-understanding-bundles-arrays-collections-in-makecom"
@@ -264,6 +337,21 @@
       "summary": [
         "com + Airtable)\nIn this video, I'll show you an automation that allows you to generate and schedule your social media posts across all platforms from one air table base"
       ],
+      "keywords": [
+        "ai-agents",
+        "ai-news",
+        "box",
+        "frameworks",
+        "linkedin",
+        "make",
+        "meta",
+        "openai",
+        "operator",
+        "perplexity",
+        "tutorials",
+        "twitter",
+        "workflows"
+      ],
       "transcript_chars": 24593,
       "folder": "2025-04-23-how-to-auto-post-to-all-your-socials-ai-makecom-airtable"
     },
@@ -301,6 +389,17 @@
       "summary": [
         "com (Beginner's Guide)\nIn this video, I'm hoping to demystify iterators and aggregators within make"
       ],
+      "keywords": [
+        "ai-tools",
+        "anthropic",
+        "claude",
+        "frameworks",
+        "google",
+        "make",
+        "slack",
+        "tutorials",
+        "workflows"
+      ],
       "transcript_chars": 16871,
       "folder": "2025-04-21-how-to-use-iterators-aggregators-in-makecom-beginners-guide"
     },
@@ -336,6 +435,17 @@
       "concepts": [],
       "summary": [
         "com's HUGE New Feature (I Got Early Access)\nIn this video, I'm going to show you a major new make"
+      ],
+      "keywords": [
+        "ai-agents",
+        "ai-tools",
+        "frameworks",
+        "google",
+        "make",
+        "openai",
+        "product-management",
+        "projects",
+        "workflows"
       ],
       "transcript_chars": 12113,
       "folder": "2025-04-18-makecoms-huge-new-feature-i-got-early-access"
@@ -383,6 +493,19 @@
       "summary": [
         "com issued a statement saying that they were removing the X app or the Twitter app from their platform due to X's API policy requirements and pricing"
       ],
+      "keywords": [
+        "ai-news",
+        "ai-strategy",
+        "box",
+        "leadership",
+        "make",
+        "n8n",
+        "tutorials",
+        "twitter",
+        "workflows",
+        "x",
+        "zapier"
+      ],
       "transcript_chars": 28640,
       "folder": "2025-04-17-how-to-auto-post-to-xtwitter-from-makecom-2025-methods"
     },
@@ -427,6 +550,24 @@
       "concepts": [],
       "summary": [
         "com + Replit Agent v2\nWith the recent rise of AI coding or vibe coding tools, I've set out to see if it's possible to use these to do the heavy lifting within our automation scenarios and potentially"
+      ],
+      "keywords": [
+        "ai-agents",
+        "ai-news",
+        "ai-tools",
+        "anthropic",
+        "anthropic-api",
+        "claude",
+        "coding",
+        "frameworks",
+        "linkedin",
+        "lovable",
+        "make",
+        "perplexity",
+        "product-management",
+        "replit",
+        "twitter",
+        "workflows"
       ],
       "transcript_chars": 45235,
       "folder": "2025-04-14-automate-anything-with-makecom-replit-agent-v2"
@@ -474,6 +615,24 @@
       "summary": [
         "1 Ultra and then upload that image and then pass it when we're creating the post so we're going to use a service called file"
       ],
+      "keywords": [
+        "ai-agents",
+        "ai-news",
+        "anthropic",
+        "box",
+        "claude",
+        "frameworks",
+        "gemini",
+        "google",
+        "make",
+        "perplexity",
+        "product-management",
+        "prompting",
+        "slack",
+        "tutorials",
+        "workflows",
+        "youtube"
+      ],
       "transcript_chars": 15879,
       "folder": "2025-04-04-how-to-automate-your-blog-with-makecom-beginner-guide"
     },
@@ -517,6 +676,23 @@
       "summary": [
         "com v4b broadcasts the method for this is going to be post to get your kit API key go to kit"
       ],
+      "keywords": [
+        "ai-agents",
+        "ai-news",
+        "anthropic",
+        "box",
+        "claude",
+        "frameworks",
+        "google",
+        "leadership",
+        "make",
+        "perplexity",
+        "prompting",
+        "sonnet",
+        "tutorials",
+        "workflows",
+        "x"
+      ],
       "transcript_chars": 28518,
       "folder": "2025-04-01-how-to-automate-your-email-newsletter-with-ai"
     },
@@ -552,6 +728,15 @@
       "concepts": [],
       "summary": [
         "# \ud83e\udd2b I Built an Advanced Backlink Report Tool Using Make"
+      ],
+      "keywords": [
+        "ai-agents",
+        "ai-news",
+        "ai-tools",
+        "google",
+        "make",
+        "tutorials",
+        "workflows"
       ],
       "transcript_chars": 13279,
       "folder": "2025-03-26-i-built-an-advanced-backlink-report-tool-using-makecom"
@@ -590,6 +775,20 @@
       "summary": [
         ")\nin this video I'm going to show you how you can Implement polling of a web service in make"
       ],
+      "keywords": [
+        "ai-agents",
+        "ai-news",
+        "ai-tools",
+        "career",
+        "frameworks",
+        "google",
+        "make",
+        "n8n",
+        "operator",
+        "projects",
+        "tutorials",
+        "workflows"
+      ],
       "transcript_chars": 14739,
       "folder": "2025-03-05-how-to-poll-apis-in-makecom-step-by-step-guide"
     },
@@ -626,6 +825,19 @@
       "concepts": [],
       "summary": [
         "# Unknown\nhey Daniel here in today's video I'm going to show you how you can integrate mid Journey with your make"
+      ],
+      "keywords": [
+        "ai-agents",
+        "ai-news",
+        "career",
+        "coding",
+        "frameworks",
+        "google",
+        "make",
+        "midjourney",
+        "prompting",
+        "workflows",
+        "x"
       ],
       "transcript_chars": 15014,
       "folder": "2025-03-04-create-stunning-images-on-autopilot-with-midjourney-secret-a"
