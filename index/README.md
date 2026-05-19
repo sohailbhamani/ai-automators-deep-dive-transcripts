@@ -7,8 +7,8 @@ Index of 16 episodes across 44 topics.
 - [Make](make.md) (15 episodes)
 - [Workflows](workflows.md) (15 episodes)
 - [Frameworks](frameworks.md) (11 episodes)
-- [Ai News](ai-news.md) (11 episodes)
 - [Ai Agents](ai-agents.md) (11 episodes)
+- [Ai News](ai-news.md) (11 episodes)
 - [Google](google.md) (10 episodes)
 - [Tutorials](tutorials.md) (10 episodes)
 - [Ai Tools](ai-tools.md) (9 episodes)
@@ -39,15 +39,15 @@ Index of 16 episodes across 44 topics.
 - [Sonnet](sonnet.md) (1 episodes)
 - [Youtube](youtube.md) (1 episodes)
 - [Gemini](gemini.md) (1 episodes)
-- [Lovable](lovable.md) (1 episodes)
 - [Replit](replit.md) (1 episodes)
+- [Lovable](lovable.md) (1 episodes)
 - [Anthropic Api](anthropic-api.md) (1 episodes)
 - [Zapier](zapier.md) (1 episodes)
 - [Meta](meta.md) (1 episodes)
 - [Model Context Protocol](model-context-protocol.md) (1 episodes)
 - [Claude Code](claude-code.md) (1 episodes)
-- [Opus](opus.md) (1 episodes)
 - [Github](github.md) (1 episodes)
+- [Opus](opus.md) (1 episodes)
 
 ## Search
 
