@@ -1,6 +1,6 @@
 # Ai Strategy
 
-Episodes discussing **Ai Strategy** (12 episodes):
+Episodes discussing **Ai Strategy** (15 episodes):
 
 - [How to Use Loop Over Items in n8n (With Examples)](../episodes/2025-05-20-how-to-use-loop-over-items-in-n8n-with-examples/transcript.md) (2025-05-20)
 - [MCP is Make's Most Underrated New Feature](../episodes/2025-05-11-mcp-is-make-s-most-underrated-new-feature/transcript.md) (2025-05-11)
@@ -14,3 +14,6 @@ Episodes discussing **Ai Strategy** (12 episodes):
 - [How to Reprocess Rows in Make (Beginners Guide)](../episodes/2025-02-28-how-to-reprocess-rows-in-make-beginners-guide/transcript.md) (2025-02-28)
 - [Self-Host N8N in Minutes! (No Code and Super Easy!)](../episodes/2025-02-26-self-host-n8n-in-minutes-no-code-and-super-easy/transcript.md) (2025-02-26)
 - [Make.com Variables Explained (And Mistakes to Avoid!)](../episodes/2025-02-23-makecom-variables-explained-and-mistakes-to-avoid/transcript.md) (2025-02-23)
+- [How to Trigger Make.com from Google Sheets (WITHOUT the Sheets Add-On!)](../episodes/2025-02-14-how-to-trigger-makecom-from-google-sheets-without-the-sheets-add-on/transcript.md) (2025-02-14)
+- [How to Extract Data from Hidden APIs with Make.com (Step-by-Step)](../episodes/2025-02-10-how-to-extract-data-from-hidden-apis-with-makecom-step-by-step/transcript.md) (2025-02-10)
+- ["deepseek R1 hosted in the US?" How to Connect via Make.com](../episodes/2025-01-29-deepseek-r1-hosted-in-the-us-how-to-connect-via-makecom/transcript.md) (2025-01-29)

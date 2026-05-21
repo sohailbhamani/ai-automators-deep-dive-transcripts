@@ -1,8 +1,8 @@
 {
-  "total_videos": 21,
+  "total_videos": 26,
   "date_range": {
     "newest": "2026-03-12",
-    "oldest": "2025-02-23"
+    "oldest": "2025-01-29"
   },
   "videos": [
     {
@@ -803,6 +803,191 @@
       ],
       "transcript_chars": 13470,
       "folder": "2025-02-23-makecom-variables-explained-and-mistakes-to-avoid"
+    },
+    {
+      "title": "Make.com Just Released a NEW AI Feature...",
+      "video_id": "O1lUCLR4WIg",
+      "youtube_url": "https://www.youtube.com/watch?v=O1lUCLR4WIg",
+      "publish_date": "2025-02-18",
+      "duration": "15:34",
+      "duration_seconds": 934,
+      "view_count": 5485,
+      "author": "Deep Dive with The AI Automators",
+      "description": "\ud83d\udc49 Get all of our make.com templates, courses, and resources here: https://www.theaiautomators.com/?utm_source=youtube&utm_medium=video&utm_campaign=tutorial&utm_content=c2_make_com_ai_tools_feature\n\nChapters:\n0:00 - Overview\n0:49 - Initial test\n1:27 - Setting Up a Basic AI Workflow and Request Anything feature\n2:50 - Automating AI Responses with Google Sheets\n4:00 - Exploring the \"Analyze Sentiment\" Tool\n5:34 - Categorizing Text with AI\n6:45 - Identifying Languages Automatically\n7:11 - Extracting Information from Text\n9:15 - Standardizing Text for Consistency\n10:40 - Summarizing Text with AI\n11:15 - Translating Text to Different Languages\n11:38 - Text Chunking for Advanced Use Cases\n12:48 - Final Thoughts and Verdict\n\nMake.com has just introduced a new AI feature that makes it super easy for beginners to integrate AI into their workflows\u2014without the need for external APIs like OpenAI or Claude. This feature is currently a Beta feature available to invited users, so log in to Make.com and check if you have access. In this video, I take a deep dive into all of the Make AI tools, demonstrating how they work, testing their capabilities, and sharing my verdict on whether they\u2019re worth using.\n\nI start with a basic example by setting up an automation that watches for new rows in a Google Sheet, processes prompts through Make\u2019s \"Request Anything\" tool, and writes the AI-generated response back to the sheet. Then, I move on to testing every single AI tool Make offers, including sentiment analysis, text categorization, language identification, text extraction, summarization, translation, and more. Along the way, I point out some interesting quirks, such as caching that leads to repeated AI responses and occasional inaccuracies in data extraction.\n\nHave you tried these Make AI tools yet? What do you think? Let me know in the comments!\n",
+      "yt_tags": [],
+      "content_type": "Framework",
+      "primary_topic": "Prompting",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers"
+      ],
+      "entities": {
+        "companies": [
+          "Google"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Gemini",
+          "Make",
+          "n8n"
+        ],
+        "models": [
+          "Gemini"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "com have released a new AI feature that makes it really easy for beginners to integrate AI into their workflows this feature is only available to invited guests so log into your make"
+      ],
+      "transcript_chars": 17150,
+      "folder": "2025-02-18-makecom-just-released-a-new-ai-feature"
+    },
+    {
+      "title": "How to Trigger Make.com from Google Sheets (WITHOUT the Sheets Add-On!)",
+      "video_id": "iQF2U3pKPIM",
+      "youtube_url": "https://www.youtube.com/watch?v=iQF2U3pKPIM",
+      "publish_date": "2025-02-14",
+      "duration": "4:59",
+      "duration_seconds": 299,
+      "view_count": 5808,
+      "author": "Deep Dive with The AI Automators",
+      "description": "\ud83d\udc49 Get all of our make.com templates here: https://www.theaiautomators.com/?utm_source=youtube&utm_medium=video&utm_campaign=tutorial&utm_content=c2_google_sheets_webhook_trigger\n\nAs of recording this, the make.com for Google Sheets extension is not available. You can use the approach in this video to instantly trigger webhooks from Google sheets to Make.com. Or as mentioned in the video, you can create an AppScript to trigger your scenario alternatively! I created this video as it's an easier way for people to get up and running quickly if their scenarios are currently broken!\n",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "General"
+      ],
+      "entities": {
+        "companies": [
+          "Google",
+          "YouTube"
+        ],
+        "people": [],
+        "products": [
+          "Make"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        ")\nthis is a very quick walk through for how to instantly trigger make"
+      ],
+      "transcript_chars": 5308,
+      "folder": "2025-02-14-how-to-trigger-makecom-from-google-sheets-without-the-sheets-add-on"
+    },
+    {
+      "title": "How to Extract Data from Hidden APIs with Make.com (Step-by-Step)",
+      "video_id": "nfYWRnm_9KY",
+      "youtube_url": "https://www.youtube.com/watch?v=nfYWRnm_9KY",
+      "publish_date": "2025-02-10",
+      "duration": "11:15",
+      "duration_seconds": 675,
+      "view_count": 1033,
+      "author": "Deep Dive with The AI Automators",
+      "description": "\ud83d\udc49 Access our No-Code Scraping & Browser Automation Course, along with all of our make.com templates here: https://www.theaiautomators.com/?utm_source=youtube&utm_medium=video&utm_campaign=tutorial&utm_content=c2_hidden_api_form\n\nUnlock Hidden APIs for Data Extraction with Make.com! \ud83d\ude80\n\nIn this video, I\u2019ll show you how to access hidden APIs from a website and automate data extraction using Make.com. Whether you're looking to scrape data, integrate with apps, or automate workflows, this step-by-step tutorial will guide you through the entire process.\n\nWhat You\u2019ll Learn:\n\u2705 How to identify hidden APIs using browser developer tools\n\u2705 How to replicate API requests in Make.com\n\u2705 Automating data extraction with Make.com & ChatGPT\n\u2705 Handling pagination for large datasets\n\nThis method works even when URLs don\u2019t change or APIs aren\u2019t publicly documented. Perfect for automating property data, e-commerce listings, and more!\n\nWebsite Scraped in this Video: https://eservice.ura.gov.sg/property-market-information/pmiResidentialTransactionSearch\n\n\ud83d\udc4d If you found this helpful, don\u2019t forget to LIKE, SUBSCRIBE, and hit the \ud83d\udd14 bell to stay updated with more automation tutorials!\n\n#Make #HiddenAPIs #Automation #DataExtraction #WebScraping\n",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers"
+      ],
+      "entities": {
+        "companies": [
+          "Google"
+        ],
+        "people": [],
+        "products": [
+          "Make"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "com (Step-by-Step)\nhey there Daniel here in this video I'm going to go through how to extract data using hidden apis with make"
+      ],
+      "transcript_chars": 12285,
+      "folder": "2025-02-10-how-to-extract-data-from-hidden-apis-with-makecom-step-by-step"
+    },
+    {
+      "title": "How to Build AI Agents with Human-In-The-Loop",
+      "video_id": "vyuenkJQpX8",
+      "youtube_url": "https://www.youtube.com/watch?v=vyuenkJQpX8",
+      "publish_date": "2025-02-05",
+      "duration": "7:22",
+      "duration_seconds": 442,
+      "view_count": 3034,
+      "author": "Deep Dive with The AI Automators",
+      "description": "\ud83d\udc49 Get all of our templates, courses, and resources here: https://www.theaiautomators.com/?utm_source=youtube&utm_medium=video&utm_campaign=tutorial&utm_content=c2_agent_human_in_the_loop_safeguard\n\nhttps://www.youtube.com/watch?v=juiWBu5m-Jg\nhttps://www.youtube.com/watch?v=8TMKfSDORAc\n\nChapters:\n0:00 - Introduction\n1:10 - Demonstration\n2:38 - Safeguard Workflow Explained\n6:15 - When to use this\n\nAI agents are transforming workflows, but they come with risks\u2014like unintended actions or dangerous feedback loops. In this video, I introduce a powerful AI agent human-in-the-loop technique, which we're calling an Agent Safeguard, to ensure human oversight in critical actions, such as publishing to social media or sending emails to client.\n\nWe demonstrate how to implement this safeguard using Make.com and OpenAI, interacting with the agent through Telegram. You\u2019ll learn how to enable approval workflows that prevent errors by requiring a human to verify key actions before they execute.\n\nThe workflow includes features like:\nResearching topics using AI.\nGenerating images with AI tools.\nDrafting and publishing Facebook posts, while integrating a safeguard to ensure intentionality.\n\nThrough a step-by-step breakdown, I show how the approval mechanism stores requests, sends secure links for validation via Telegram, and prevents unauthorized actions. This approach guarantees reliability and mitigates risks in your AI automations.\n",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Agents",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Perplexity"
+        ],
+        "people": [],
+        "products": [
+          "Perplexity",
+          "Make"
+        ],
+        "models": [
+          "Flux"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "com and open AI assistance on this channel we're interacting with this agent via Telegram we can ask this bot to research topics generate images and publish to Facebook the make"
+      ],
+      "transcript_chars": 8602,
+      "folder": "2025-02-05-how-to-build-ai-agents-with-human-in-the-loop"
+    },
+    {
+      "title": "\"deepseek R1 hosted in the US?\" How to Connect via Make.com",
+      "video_id": "DEWIPPe5LlY",
+      "youtube_url": "https://www.youtube.com/watch?v=DEWIPPe5LlY",
+      "publish_date": "2025-01-29",
+      "duration": "7:57",
+      "duration_seconds": 477,
+      "view_count": 914,
+      "author": "Deep Dive with The AI Automators",
+      "description": "\ud83d\udc49 Get all of our make.com templates here: https://www.theaiautomators.com/?utm_source=youtube&utm_medium=video&utm_campaign=tutorial&utm_content=c2_deepseek_connection_make\n\nOur openrouter video: https://www.youtube.com/watch?v=EsGniZ7Sl8k\nEscaping JSON: https://www.youtube.com/watch?v=18wgBZxOp0U\nDeepseek blogging system: https://youtu.be/T54TIvCOCpY\n\nChapters:\n0:00 - Overview\n0:34 - Deepseek API options\n1:42 - Connecting via Fireworks AI\n2:10 - Setting up Fireworks API Key\n4:34 - Handling Chain of Thought responses\n6:09 - Direct connection to Deepseek API\n6:46 - Using OpenRouter for flexible integrations\n\nIn this video, you'll learn how to connect Deep Seek R1 (using a USA-based service) to your Make.com scenarios. We start by demonstrating a simple example using Google Sheets to trigger a response from Deepseek R1, excluding its \"Chain of Thought\".\n\nWe explore various connection options, including direct API usage, Fireworks AI for enhanced privacy and security, and OpenRouter for flexibility when switching between models.\n",
+      "yt_tags": [],
+      "content_type": "Framework",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers"
+      ],
+      "entities": {
+        "companies": [
+          "Google",
+          "AWS"
+        ],
+        "people": [],
+        "products": [
+          "Make",
+          "o1"
+        ],
+        "models": [
+          "DeepSeek",
+          "o1"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "com\nin this video I'll show you exactly how to connect deep seek R1 to your make"
+      ],
+      "transcript_chars": 9308,
+      "folder": "2025-01-29-deepseek-r1-hosted-in-the-us-how-to-connect-via-makecom"
     }
   ]
 }

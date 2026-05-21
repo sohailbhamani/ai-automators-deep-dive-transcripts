@@ -1,6 +1,6 @@
 # Coding
 
-Episodes discussing **Coding** (7 episodes):
+Episodes discussing **Coding** (10 episodes):
 
 - [Claude Code Can Now Run On AUTOPILOT. But /loop Is Not Always The Best Way.](../episodes/2026-03-12-claude-code-can-now-run-on-autopilot-but-loop-is-not-always-/transcript.md) (2026-03-12)
 - [MCP is Make's Most Underrated New Feature](../episodes/2025-05-11-mcp-is-make-s-most-underrated-new-feature/transcript.md) (2025-05-11)
@@ -9,3 +9,6 @@ Episodes discussing **Coding** (7 episodes):
 - [Automate ANYTHING with Make.com + Replit Agent v2](../episodes/2025-04-14-automate-anything-with-makecom-replit-agent-v2/transcript.md) (2025-04-14)
 - [Create Stunning Images on Autopilot with Midjourney (SECRET API!)](../episodes/2025-03-04-create-stunning-images-on-autopilot-with-midjourney-secret-a/transcript.md) (2025-03-04)
 - [Self-Host N8N in Minutes! (No Code and Super Easy!)](../episodes/2025-02-26-self-host-n8n-in-minutes-no-code-and-super-easy/transcript.md) (2025-02-26)
+- [Make.com Just Released a NEW AI Feature...](../episodes/2025-02-18-makecom-just-released-a-new-ai-feature/transcript.md) (2025-02-18)
+- [How to Extract Data from Hidden APIs with Make.com (Step-by-Step)](../episodes/2025-02-10-how-to-extract-data-from-hidden-apis-with-makecom-step-by-step/transcript.md) (2025-02-10)
+- [How to Build AI Agents with Human-In-The-Loop](../episodes/2025-02-05-how-to-build-ai-agents-with-human-in-the-loop/transcript.md) (2025-02-05)

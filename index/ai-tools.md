@@ -1,6 +1,6 @@
 # Ai Tools
 
-Episodes discussing **Ai Tools** (12 episodes):
+Episodes discussing **Ai Tools** (14 episodes):
 
 - [Claude Code Can Now Run On AUTOPILOT. But /loop Is Not Always The Best Way.](../episodes/2026-03-12-claude-code-can-now-run-on-autopilot-but-loop-is-not-always-/transcript.md) (2026-03-12)
 - [MCP is Make's Most Underrated New Feature](../episodes/2025-05-11-mcp-is-make-s-most-underrated-new-feature/transcript.md) (2025-05-11)
@@ -14,3 +14,5 @@ Episodes discussing **Ai Tools** (12 episodes):
 - [Use This Free Google Sheets App Script to Trigger Make.com](../episodes/2025-02-27-use-this-free-google-sheets-app-script-to-trigger-makecom/transcript.md) (2025-02-27)
 - [Self-Host N8N in Minutes! (No Code and Super Easy!)](../episodes/2025-02-26-self-host-n8n-in-minutes-no-code-and-super-easy/transcript.md) (2025-02-26)
 - [Make.com Variables Explained (And Mistakes to Avoid!)](../episodes/2025-02-23-makecom-variables-explained-and-mistakes-to-avoid/transcript.md) (2025-02-23)
+- [Make.com Just Released a NEW AI Feature...](../episodes/2025-02-18-makecom-just-released-a-new-ai-feature/transcript.md) (2025-02-18)
+- [How to Build AI Agents with Human-In-The-Loop](../episodes/2025-02-05-how-to-build-ai-agents-with-human-in-the-loop/transcript.md) (2025-02-05)

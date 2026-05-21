@@ -1,6 +1,6 @@
 # Make
 
-Episodes discussing **Make** (20 episodes):
+Episodes discussing **Make** (25 episodes):
 
 - [How to Use Loop Over Items in n8n (With Examples)](../episodes/2025-05-20-how-to-use-loop-over-items-in-n8n-with-examples/transcript.md) (2025-05-20)
 - [MCP is Make's Most Underrated New Feature](../episodes/2025-05-11-mcp-is-make-s-most-underrated-new-feature/transcript.md) (2025-05-11)
@@ -22,3 +22,8 @@ Episodes discussing **Make** (20 episodes):
 - [Use This Free Google Sheets App Script to Trigger Make.com](../episodes/2025-02-27-use-this-free-google-sheets-app-script-to-trigger-makecom/transcript.md) (2025-02-27)
 - [Self-Host N8N in Minutes! (No Code and Super Easy!)](../episodes/2025-02-26-self-host-n8n-in-minutes-no-code-and-super-easy/transcript.md) (2025-02-26)
 - [Make.com Variables Explained (And Mistakes to Avoid!)](../episodes/2025-02-23-makecom-variables-explained-and-mistakes-to-avoid/transcript.md) (2025-02-23)
+- [Make.com Just Released a NEW AI Feature...](../episodes/2025-02-18-makecom-just-released-a-new-ai-feature/transcript.md) (2025-02-18)
+- [How to Trigger Make.com from Google Sheets (WITHOUT the Sheets Add-On!)](../episodes/2025-02-14-how-to-trigger-makecom-from-google-sheets-without-the-sheets-add-on/transcript.md) (2025-02-14)
+- [How to Extract Data from Hidden APIs with Make.com (Step-by-Step)](../episodes/2025-02-10-how-to-extract-data-from-hidden-apis-with-makecom-step-by-step/transcript.md) (2025-02-10)
+- [How to Build AI Agents with Human-In-The-Loop](../episodes/2025-02-05-how-to-build-ai-agents-with-human-in-the-loop/transcript.md) (2025-02-05)
+- ["deepseek R1 hosted in the US?" How to Connect via Make.com](../episodes/2025-01-29-deepseek-r1-hosted-in-the-us-how-to-connect-via-makecom/transcript.md) (2025-01-29)
