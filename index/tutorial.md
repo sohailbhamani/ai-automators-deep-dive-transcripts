@@ -1,6 +1,6 @@
 # Tutorial
 
-Episodes discussing **Tutorial** (14 episodes):
+Episodes discussing **Tutorial** (17 episodes):
 
 - [How to Bulk Add Rows to Google Sheets with Make.com](../episodes/2025-04-28-how-to-bulk-add-rows-to-google-sheets-with-make-com/transcript.md) (2025-04-28)
 - [Understanding Bundles, Arrays & Collections in Make.com](../episodes/2025-04-25-understanding-bundles-arrays-collections-in-makecom/transcript.md) (2025-04-25)
@@ -16,3 +16,6 @@ Episodes discussing **Tutorial** (14 episodes):
 - [How to Trigger Make.com from Google Sheets (WITHOUT the Sheets Add-On!)](../episodes/2025-02-14-how-to-trigger-makecom-from-google-sheets-without-the-sheets-add-on/transcript.md) (2025-02-14)
 - [How to Extract Data from Hidden APIs with Make.com (Step-by-Step)](../episodes/2025-02-10-how-to-extract-data-from-hidden-apis-with-makecom-step-by-step/transcript.md) (2025-02-10)
 - [How to Build AI Agents with Human-In-The-Loop](../episodes/2025-02-05-how-to-build-ai-agents-with-human-in-the-loop/transcript.md) (2025-02-05)
+- [How to Update ACF (Advanced Custom Fields) in WordPress Using Make.com](../episodes/2025-01-26-how-to-update-acf-advanced-custom-fields-in-wordpress-using-makecom/transcript.md) (2025-01-26)
+- [How to Connect a Telegram Bot to Make.com (Beginner Guide)](../episodes/2025-01-20-how-to-connect-a-telegram-bot-to-makecom-beginner-guide/transcript.md) (2025-01-20)
+- [How to Automatically Summarize Emails to Slack with AI (100% Automated)](../episodes/2025-01-13-how-to-automatically-summarize-emails-to-slack-with-ai-100-automated/transcript.md) (2025-01-13)

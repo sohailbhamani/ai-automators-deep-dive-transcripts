@@ -1,6 +1,6 @@
 # Tutorials
 
-Episodes discussing **Tutorials** (17 episodes):
+Episodes discussing **Tutorials** (21 episodes):
 
 - [How to Use Loop Over Items in n8n (With Examples)](../episodes/2025-05-20-how-to-use-loop-over-items-in-n8n-with-examples/transcript.md) (2025-05-20)
 - [NEW Make.com MCP Update: Connect Anything in Minutes! (No-Code)](../episodes/2025-05-09-new-make-com-mcp-update-connect-anything-in-minutes-no-code/transcript.md) (2025-05-09)
@@ -19,3 +19,7 @@ Episodes discussing **Tutorials** (17 episodes):
 - [How to Extract Data from Hidden APIs with Make.com (Step-by-Step)](../episodes/2025-02-10-how-to-extract-data-from-hidden-apis-with-makecom-step-by-step/transcript.md) (2025-02-10)
 - [How to Build AI Agents with Human-In-The-Loop](../episodes/2025-02-05-how-to-build-ai-agents-with-human-in-the-loop/transcript.md) (2025-02-05)
 - ["deepseek R1 hosted in the US?" How to Connect via Make.com](../episodes/2025-01-29-deepseek-r1-hosted-in-the-us-how-to-connect-via-makecom/transcript.md) (2025-01-29)
+- [How to Update ACF (Advanced Custom Fields) in WordPress Using Make.com](../episodes/2025-01-26-how-to-update-acf-advanced-custom-fields-in-wordpress-using-makecom/transcript.md) (2025-01-26)
+- [How to Connect a Telegram Bot to Make.com (Beginner Guide)](../episodes/2025-01-20-how-to-connect-a-telegram-bot-to-makecom-beginner-guide/transcript.md) (2025-01-20)
+- [How to Fetch Wikimedia Commons Images with Make.com (with Attributions)](../episodes/2025-01-20-how-to-fetch-wikimedia-commons-images-with-makecom-with-attributions/transcript.md) (2025-01-20)
+- [How to Automatically Summarize Emails to Slack with AI (100% Automated)](../episodes/2025-01-13-how-to-automatically-summarize-emails-to-slack-with-ai-100-automated/transcript.md) (2025-01-13)

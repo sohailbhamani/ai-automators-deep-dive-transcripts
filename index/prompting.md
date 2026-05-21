@@ -1,6 +1,6 @@
 # Prompting
 
-Episodes discussing **Prompting** (10 episodes):
+Episodes discussing **Prompting** (13 episodes):
 
 - [Claude Code Can Now Run On AUTOPILOT. But /loop Is Not Always The Best Way.](../episodes/2026-03-12-claude-code-can-now-run-on-autopilot-but-loop-is-not-always-/transcript.md) (2026-03-12)
 - [How to Use Loop Over Items in n8n (With Examples)](../episodes/2025-05-20-how-to-use-loop-over-items-in-n8n-with-examples/transcript.md) (2025-05-20)
@@ -12,3 +12,6 @@ Episodes discussing **Prompting** (10 episodes):
 - [Make.com Just Released a NEW AI Feature...](../episodes/2025-02-18-makecom-just-released-a-new-ai-feature/transcript.md) (2025-02-18)
 - [How to Build AI Agents with Human-In-The-Loop](../episodes/2025-02-05-how-to-build-ai-agents-with-human-in-the-loop/transcript.md) (2025-02-05)
 - ["deepseek R1 hosted in the US?" How to Connect via Make.com](../episodes/2025-01-29-deepseek-r1-hosted-in-the-us-how-to-connect-via-makecom/transcript.md) (2025-01-29)
+- [I Built a Deepseek AI Blogging System (Internal Links + Social Media)](../episodes/2025-01-27-i-built-a-deepseek-ai-blogging-system-internal-links-social-media/transcript.md) (2025-01-27)
+- [How to Fetch Wikimedia Commons Images with Make.com (with Attributions)](../episodes/2025-01-20-how-to-fetch-wikimedia-commons-images-with-makecom-with-attributions/transcript.md) (2025-01-20)
+- [How to Automatically Summarize Emails to Slack with AI (100% Automated)](../episodes/2025-01-13-how-to-automatically-summarize-emails-to-slack-with-ai-100-automated/transcript.md) (2025-01-13)

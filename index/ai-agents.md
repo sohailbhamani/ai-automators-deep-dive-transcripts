@@ -1,6 +1,6 @@
 # Ai Agents
 
-Episodes discussing **Ai Agents** (19 episodes):
+Episodes discussing **Ai Agents** (23 episodes):
 
 - [MCP is Make's Most Underrated New Feature](../episodes/2025-05-11-mcp-is-make-s-most-underrated-new-feature/transcript.md) (2025-05-11)
 - [NEW Make.com MCP Update: Connect Anything in Minutes! (No-Code)](../episodes/2025-05-09-new-make-com-mcp-update-connect-anything-in-minutes-no-code/transcript.md) (2025-05-09)
@@ -21,3 +21,7 @@ Episodes discussing **Ai Agents** (19 episodes):
 - [How to Extract Data from Hidden APIs with Make.com (Step-by-Step)](../episodes/2025-02-10-how-to-extract-data-from-hidden-apis-with-makecom-step-by-step/transcript.md) (2025-02-10)
 - [How to Build AI Agents with Human-In-The-Loop](../episodes/2025-02-05-how-to-build-ai-agents-with-human-in-the-loop/transcript.md) (2025-02-05)
 - ["deepseek R1 hosted in the US?" How to Connect via Make.com](../episodes/2025-01-29-deepseek-r1-hosted-in-the-us-how-to-connect-via-makecom/transcript.md) (2025-01-29)
+- [I Built a Deepseek AI Blogging System (Internal Links + Social Media)](../episodes/2025-01-27-i-built-a-deepseek-ai-blogging-system-internal-links-social-media/transcript.md) (2025-01-27)
+- [How to Connect a Telegram Bot to Make.com (Beginner Guide)](../episodes/2025-01-20-how-to-connect-a-telegram-bot-to-makecom-beginner-guide/transcript.md) (2025-01-20)
+- [How to Fetch Wikimedia Commons Images with Make.com (with Attributions)](../episodes/2025-01-20-how-to-fetch-wikimedia-commons-images-with-makecom-with-attributions/transcript.md) (2025-01-20)
+- [How to Automatically Summarize Emails to Slack with AI (100% Automated)](../episodes/2025-01-13-how-to-automatically-summarize-emails-to-slack-with-ai-100-automated/transcript.md) (2025-01-13)

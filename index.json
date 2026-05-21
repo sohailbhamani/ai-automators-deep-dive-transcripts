@@ -1,8 +1,8 @@
 {
-  "total_videos": 26,
+  "total_videos": 31,
   "date_range": {
     "newest": "2026-03-12",
-    "oldest": "2025-01-29"
+    "oldest": "2025-01-13"
   },
   "videos": [
     {
@@ -988,6 +988,186 @@
       ],
       "transcript_chars": 9308,
       "folder": "2025-01-29-deepseek-r1-hosted-in-the-us-how-to-connect-via-makecom"
+    },
+    {
+      "title": "I Built a Deepseek AI Blogging System (Internal Links + Social Media)",
+      "video_id": "T54TIvCOCpY",
+      "youtube_url": "https://www.youtube.com/watch?v=T54TIvCOCpY",
+      "publish_date": "2025-01-27",
+      "duration": "4:48",
+      "duration_seconds": 288,
+      "view_count": 3984,
+      "author": "Deep Dive with The AI Automators",
+      "description": "\ud83d\udc49 Get all of our make.com templates here: https://www.theaiautomators.com/?utm_source=youtube&utm_medium=video&utm_campaign=tutorial&utm_content=c2_deepseek_blogging\n\nOur blogging system walkthrough: https://www.youtube.com/watch?v=6wJaqpJyswA\nOur more complex blogging system: https://www.youtube.com/watch?v=XoDuyqeX4tU\nOur openrouter video: https://www.youtube.com/watch?v=EsGniZ7Sl8k\nHow to connect to wordpress: https://www.youtube.com/watch?v=SQsFd6xIyY0\nHow to post images to wordpress: https://www.youtube.com/watch?v=P58OvNdpPYk\n\n0:00 - Introduction\n0:46 - Using OpenRouter and comparing models\n2:17 - Comparison and Verdict - Deepseek vs Claude writing\n4:09 - Perplexity Improved Citations\n\nIn this video, we dive into an innovative AI blogging system powered by DeepSeek. With its affordability and impressive capabilities, DeepSeek is making waves in the AI world. We'll demonstrate how to create an automated workflow using Airtable, Perplexity, and DeepSeek V3 to generate fully formatted WordPress posts.\n\nYou'll see examples of AI-generated blog posts with structured intros, key takeaways, internal links, and accurate source citations. We'll also compare the performance of DeepSeek V3 to Anthropic Claude 3.5 Sonnet, analyzing writing style, tone, and cost-effectiveness.\n\nYou'll also see how OpenRouter enables seamless switching between models like DeepSeek, OpenAI, and others within your automation setup. Plus, learn how recent updates, such as enhanced citation reliability through Perplexity, make the system even more robust.\n\nIf you're looking to scale your content creation while keeping costs low, Deepseek could be a game-changer. Though, if you really want the best writing, I still think Claude is a better option if you're willing to pay for it!\n",
+      "yt_tags": [],
+      "content_type": "Framework",
+      "primary_topic": "AI Agents",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers"
+      ],
+      "entities": {
+        "companies": [
+          "Anthropic",
+          "Box",
+          "Perplexity"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Perplexity",
+          "Make"
+        ],
+        "models": [
+          "Claude 3",
+          "Claude 3.5",
+          "DeepSeek",
+          "Flux"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "5 Sonet for this you can add topics to an air table base this automation will pick it up use perplexity to research the topic and then create a fully formatted WordPress pulse with flux 1"
+      ],
+      "transcript_chars": 5570,
+      "folder": "2025-01-27-i-built-a-deepseek-ai-blogging-system-internal-links-social-media"
+    },
+    {
+      "title": "How to Update ACF (Advanced Custom Fields) in WordPress Using Make.com",
+      "video_id": "4sv-GlnaBKk",
+      "youtube_url": "https://www.youtube.com/watch?v=4sv-GlnaBKk",
+      "publish_date": "2025-01-26",
+      "duration": "12:50",
+      "duration_seconds": 770,
+      "view_count": 3226,
+      "author": "Deep Dive with The AI Automators",
+      "description": "\ud83d\udc49 Get all of our make.com templates here: https://www.theaiautomators.com/?utm_source=youtube&utm_medium=video&utm_campaign=tutorial&utm_content=c2_acf_wordpress\n\nhttps://www.youtube.com/watch?v=SQsFd6xIyY0\nhttps://www.youtube.com/watch?v=P58OvNdpPYk\n\nFormula to escape JSON:\n{{replace(replace(replace(replace(replace(replace(replace(YOUR_DATA; \"/\\n/g\"; space); \"/\\r/g\"; space); \"/\\t/g\"; space); \"/\\f/g\"; space); \"/\\//g\"; \"/\"); \"/\\\\/g\"; \"\\\\\"); \"/\"\"/g\"; \"\\\"\"\")}}\n\nChapters:\n0:00 - Overview\n1:01 - Creating and Updating Posts in WordPress\n2:18 - Using JSON for ACF Fields\n3:57 - Importing Data from Airtable\n6:29 - Handling Repeater Fields with Iterators\n\nIn this video, you\u2019ll learn how to integrate Make.com with Advanced Custom Fields (ACF) in WordPress, enabling you to populate custom fields dynamically. The tutorial starts with the basics of creating and updating text fields in WordPress posts and progressively dives into more complex scenarios like handling images and repeater fields.\n\nKey highlights include setting up ACF with REST API enabled, building and testing JSON structures, and linking Airtable data to WordPress. You'll also explore how to handle repeating groups using Airtable tables, iterators, and text aggregators to build dynamic JSON structures for ACF.\n\nBy the end, you\u2019ll have a fully automated workflow to create and update posts in WordPress, complete with text, images, and dynamic repeater data within Advanced Custom Fields.\n\nFor additional guidance, join our community where you\u2019ll get access to automation templates, live workshops, and expert support to take your AI automation skills to the next level! \ud83d\ude80\n",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI News",
+      "difficulty": "Advanced",
+      "audience": [
+        "Engineers"
+      ],
+      "entities": {
+        "companies": [],
+        "people": [],
+        "products": [
+          "Make"
+        ],
+        "models": []
+      },
+      "concepts": [
+        "You need to go down to group settings and select show and rest api this is only an option with acf since version 5"
+      ],
+      "summary": [
+        "# How to Update ACF (Advanced Custom Fields) in WordPress Using Make"
+      ],
+      "transcript_chars": 14347,
+      "folder": "2025-01-26-how-to-update-acf-advanced-custom-fields-in-wordpress-using-makecom"
+    },
+    {
+      "title": "How to Connect a Telegram Bot to Make.com (Beginner Guide)",
+      "video_id": "8TMKfSDORAc",
+      "youtube_url": "https://www.youtube.com/watch?v=8TMKfSDORAc",
+      "publish_date": "2025-01-20",
+      "duration": "5:22",
+      "duration_seconds": 322,
+      "view_count": 46226,
+      "author": "Deep Dive with The AI Automators",
+      "description": "\ud83d\udc49 Get all of our make.com templates here: https://www.theaiautomators.com/?utm_source=youtube&utm_medium=video&utm_campaign=tutorial&utm_content=c2_telegram_bot_connection\n\nHow to create an AI agent with Telegram + Make.com: https://www.youtube.com/watch?v=juiWBu5m-Jg\n\nChapters:\n0:00 - Introduction\n0:36 - Creating a Telegram Bot\n1:09 - Connecting the Bot to Make.com\n1:45 - Testing the Bot with a Channel\n3:08 - Testing the Bot with a Group\n4:39 - Troubleshooting and Next Steps\n\nIn this tutorial, you'll learn how to create a Telegram bot and connect it to Make.com for instant automation. We'll guide you through the setup process, from creating a bot in Telegram and obtaining the necessary API token, to integrating it with Make.com to automate your workflows. You'll also discover how to configure an authorization filter to restrict access to specific channels or groups.\n\nBy the end of the video, you'll understand how to:\n\n- Create a bot using Telegram's BotFather.\n- Integrate the bot with Make.com to trigger workflows automatically.\n- Set up and test the bot in both channels and groups.\n- Add custom authorization filters for enhanced control.\n- Troubleshoot common issues, such as using bots across multiple scenarios.\n",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Beginner",
+      "audience": [
+        "General"
+      ],
+      "entities": {
+        "companies": [],
+        "people": [],
+        "products": [
+          "Make"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "com (Beginner Guide)\nin this video I'm going to show you how to create a telegram bot in Telegram and then connect it to me"
+      ],
+      "transcript_chars": 5907,
+      "folder": "2025-01-20-how-to-connect-a-telegram-bot-to-makecom-beginner-guide"
+    },
+    {
+      "title": "How to Fetch Wikimedia Commons Images with Make.com (with Attributions)",
+      "video_id": "46m7FE16d98",
+      "youtube_url": "https://www.youtube.com/watch?v=46m7FE16d98",
+      "publish_date": "2025-01-20",
+      "duration": "11:15",
+      "duration_seconds": 675,
+      "view_count": 589,
+      "author": "Deep Dive with The AI Automators",
+      "description": "\ud83d\udc49 Get all of our make.com templates here: https://www.theaiautomators.com/?utm_source=youtube&utm_medium=video&utm_campaign=tutorial&utm_content=c2_wikimedia_commons\n\nConnect make to Wordpress: https://www.youtube.com/watch?v=SQsFd6xIyY0\nHow to upload images to Wordpress: https://youtu.be/P58OvNdpPYk\n\nOur more advanced blogging automation tutorials:\nhttps://www.youtube.com/watch?v=6wJaqpJyswA\nhttps://www.youtube.com/watch?v=sJ4QrtWwkBA\n\nURL for HTTP module (I've added spaces after the \"https://  \" here so the URL shows up correctly, remove these spaces when pasting into Make.com!)\nhttps://  commons.wikimedia.org/w/api.php?action=query&generator=search&gsrsearch={{1.query}}&gsrnamespace=6&prop=imageinfo&iiprop=url|user|extmetadata&format=json\n\nChapters:\n0:00 - Introduction\n0:50 - Setting up a Wikipedia Commons query\n1:30 - Parsing the response\n3:00 - Filtering results\n3:43 - Integrating OpenAI GPT for attribution\n6:20 - Uploading images to WordPress\n7:00 - Adding attributions to blog post\n\nIn this video, you'll learn how to integrate Wikipedia Commons photos into your Make.com scenarios and upload them to WordPress as featured and in-content images. We'll explore handling attribution, which often comes in various formats, by leveraging OpenAI's GPT-4o to standardize and simplify the process.\n\nStarting with a basic Make.com scenario, you'll see how to fetch and parse image data, set up dynamic queries, and convert collections to arrays for more precise results. The tutorial covers creating robust workflows with filters to ensure only valid results pass through.\n\nDiscover how to automate attribution formatting using OpenAI and implement SEO-friendly features like \"nofollow\" links. The process also includes using Make.com to map data for WordPress media uploads, preventing file overwrites by appending timestamps to filenames, and constructing HTML for embedding images and attributions in blog posts.\n\nBy the end of this video, you'll have a comprehensive workflow to dynamically pull Wikipedia Commons images and metadata into your WordPress site.\n",
+      "yt_tags": [],
+      "content_type": "News Roundup",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers"
+      ],
+      "entities": {
+        "companies": [
+          "Google"
+        ],
+        "people": [],
+        "products": [
+          "Make"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "com (with Attributions)\nin this video I'm going to show you how you can fetch Wikipedia Commons photos within your make"
+      ],
+      "transcript_chars": 12514,
+      "folder": "2025-01-20-how-to-fetch-wikimedia-commons-images-with-makecom-with-attributions"
+    },
+    {
+      "title": "How to Automatically Summarize Emails to Slack with AI (100% Automated)",
+      "video_id": "4xeQ4l1NosU",
+      "youtube_url": "https://www.youtube.com/watch?v=4xeQ4l1NosU",
+      "publish_date": "2025-01-13",
+      "duration": "4:30",
+      "duration_seconds": 270,
+      "view_count": 1859,
+      "author": "Deep Dive with The AI Automators",
+      "description": "\ud83d\udc49 Get all of our make.com templates here: https://www.theaiautomators.com/?utm_source=youtube&utm_medium=video&utm_campaign=tutorial&utm_content=c2_summarize_emails_to_slack\n\nOther videos from us:\nhttps://www.youtube.com/watch?v=_i_le35pOJk\nhttps://www.youtube.com/watch?v=tbjCe6a7sV0\nhttps://www.youtube.com/watch?v=dGkRrrb3Qos\n\nChapters:\n0:00 - Overview\n0:16 - Setting up Gmail integration in Make.com\n1:11 - Configuring OpenAI module for email summarization\n2:38 - Adding Slack integration and sending messages\n3:00 - Testing the automation with sample emails\n\nIn this video, we demonstrate how to create a simple but effective automation using Make.com that connects Gmail to Slack with the help of OpenAI. The automation monitors your Gmail inbox for new emails, summarizes them, and sends a Slack message containing key details like the sender, subject, and a concise summary.\n\nWe start with a blank Make.com scenario and set up Gmail's \"Watch Emails\" module to filter incoming messages based on your preferences. Next, we integrate OpenAI to generate email summaries, guiding you on how to retrieve and input API keys for seamless functionality. The Slack module is then added to ensure these summaries are delivered to your chosen channel, along with sender details and direct message links for quick access.\n\nThroughout the tutorial, we share tips for customizing the workflow, such as adding filters for specific email types, incorporating OpenAI-generated JSON objects for advanced data extraction, and even detecting spam emails.\n",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Agents",
+      "difficulty": "Intermediate",
+      "audience": [
+        "General"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Google",
+          "Slack",
+          "Box"
+        ],
+        "people": [],
+        "products": [
+          "Make"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# How to Automatically Summarize Emails to Slack with AI (100% Automated)\nin this video I'm going to show you an automation that watches out for new emails in your Gmail inbox and automatically sends"
+      ],
+      "transcript_chars": 5067,
+      "folder": "2025-01-13-how-to-automatically-summarize-emails-to-slack-with-ai-100-automated"
     }
   ]
 }

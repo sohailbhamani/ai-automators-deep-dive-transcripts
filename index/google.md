@@ -1,6 +1,6 @@
 # Google
 
-Episodes discussing **Google** (17 episodes):
+Episodes discussing **Google** (19 episodes):
 
 - [How to Use Loop Over Items in n8n (With Examples)](../episodes/2025-05-20-how-to-use-loop-over-items-in-n8n-with-examples/transcript.md) (2025-05-20)
 - [How to Bulk Add Rows to Google Sheets with Make.com](../episodes/2025-04-28-how-to-bulk-add-rows-to-google-sheets-with-make-com/transcript.md) (2025-04-28)
@@ -19,3 +19,5 @@ Episodes discussing **Google** (17 episodes):
 - [How to Trigger Make.com from Google Sheets (WITHOUT the Sheets Add-On!)](../episodes/2025-02-14-how-to-trigger-makecom-from-google-sheets-without-the-sheets-add-on/transcript.md) (2025-02-14)
 - [How to Extract Data from Hidden APIs with Make.com (Step-by-Step)](../episodes/2025-02-10-how-to-extract-data-from-hidden-apis-with-makecom-step-by-step/transcript.md) (2025-02-10)
 - ["deepseek R1 hosted in the US?" How to Connect via Make.com](../episodes/2025-01-29-deepseek-r1-hosted-in-the-us-how-to-connect-via-makecom/transcript.md) (2025-01-29)
+- [How to Fetch Wikimedia Commons Images with Make.com (with Attributions)](../episodes/2025-01-20-how-to-fetch-wikimedia-commons-images-with-makecom-with-attributions/transcript.md) (2025-01-20)
+- [How to Automatically Summarize Emails to Slack with AI (100% Automated)](../episodes/2025-01-13-how-to-automatically-summarize-emails-to-slack-with-ai-100-automated/transcript.md) (2025-01-13)
