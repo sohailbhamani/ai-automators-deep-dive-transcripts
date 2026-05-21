@@ -1,6 +1,6 @@
 # Workflows
 
-Episodes discussing **Workflows** (15 episodes):
+Episodes discussing **Workflows** (18 episodes):
 
 - [Claude Code Can Now Run On AUTOPILOT. But /loop Is Not Always The Best Way.](../episodes/2026-03-12-claude-code-can-now-run-on-autopilot-but-loop-is-not-always-/transcript.md) (2026-03-12)
 - [How to Use Loop Over Items in n8n (With Examples)](../episodes/2025-05-20-how-to-use-loop-over-items-in-n8n-with-examples/transcript.md) (2025-05-20)
@@ -17,3 +17,6 @@ Episodes discussing **Workflows** (15 episodes):
 - [🤫 I Built an Advanced Backlink Report Tool Using Make.com](../episodes/2025-03-26-i-built-an-advanced-backlink-report-tool-using-makecom/transcript.md) (2025-03-26)
 - [How to Poll APIs in Make.com (Step-by-Step Guide!)](../episodes/2025-03-05-how-to-poll-apis-in-makecom-step-by-step-guide/transcript.md) (2025-03-05)
 - [Create Stunning Images on Autopilot with Midjourney (SECRET API!)](../episodes/2025-03-04-create-stunning-images-on-autopilot-with-midjourney-secret-a/transcript.md) (2025-03-04)
+- [How to Connect a Personal Google Account to Make.com](../episodes/2025-03-03-how-to-connect-a-personal-google-account-to-makecom/transcript.md) (2025-03-03)
+- [How to Reprocess Rows in Make (Beginners Guide)](../episodes/2025-02-28-how-to-reprocess-rows-in-make-beginners-guide/transcript.md) (2025-02-28)
+- [Self-Host N8N in Minutes! (No Code and Super Easy!)](../episodes/2025-02-26-self-host-n8n-in-minutes-no-code-and-super-easy/transcript.md) (2025-02-26)

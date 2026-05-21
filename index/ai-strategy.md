@@ -1,6 +1,6 @@
 # Ai Strategy
 
-Episodes discussing **Ai Strategy** (8 episodes):
+Episodes discussing **Ai Strategy** (12 episodes):
 
 - [How to Use Loop Over Items in n8n (With Examples)](../episodes/2025-05-20-how-to-use-loop-over-items-in-n8n-with-examples/transcript.md) (2025-05-20)
 - [MCP is Make's Most Underrated New Feature](../episodes/2025-05-11-mcp-is-make-s-most-underrated-new-feature/transcript.md) (2025-05-11)
@@ -10,3 +10,7 @@ Episodes discussing **Ai Strategy** (8 episodes):
 - [Make.com's HUGE New Feature (I Got Early Access)](../episodes/2025-04-18-makecoms-huge-new-feature-i-got-early-access/transcript.md) (2025-04-18)
 - [How to Auto-post to X/Twitter from Make.com (2025 Methods)](../episodes/2025-04-17-how-to-auto-post-to-xtwitter-from-makecom-2025-methods/transcript.md) (2025-04-17)
 - [Create Stunning Images on Autopilot with Midjourney (SECRET API!)](../episodes/2025-03-04-create-stunning-images-on-autopilot-with-midjourney-secret-a/transcript.md) (2025-03-04)
+- [How to Connect a Personal Google Account to Make.com](../episodes/2025-03-03-how-to-connect-a-personal-google-account-to-makecom/transcript.md) (2025-03-03)
+- [How to Reprocess Rows in Make (Beginners Guide)](../episodes/2025-02-28-how-to-reprocess-rows-in-make-beginners-guide/transcript.md) (2025-02-28)
+- [Self-Host N8N in Minutes! (No Code and Super Easy!)](../episodes/2025-02-26-self-host-n8n-in-minutes-no-code-and-super-easy/transcript.md) (2025-02-26)
+- [Make.com Variables Explained (And Mistakes to Avoid!)](../episodes/2025-02-23-makecom-variables-explained-and-mistakes-to-avoid/transcript.md) (2025-02-23)

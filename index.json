@@ -1,8 +1,8 @@
 {
-  "total_videos": 16,
+  "total_videos": 21,
   "date_range": {
     "newest": "2026-03-12",
-    "oldest": "2025-03-04"
+    "oldest": "2025-02-23"
   },
   "videos": [
     {
@@ -629,6 +629,180 @@
       ],
       "transcript_chars": 15014,
       "folder": "2025-03-04-create-stunning-images-on-autopilot-with-midjourney-secret-a"
+    },
+    {
+      "title": "How to Connect a Personal Google Account to Make.com",
+      "video_id": "SH00Q8T-wQg",
+      "youtube_url": "https://www.youtube.com/watch?v=SH00Q8T-wQg",
+      "publish_date": "2025-03-03",
+      "duration": "6:04",
+      "duration_seconds": 364,
+      "view_count": 4414,
+      "author": "Deep Dive with The AI Automators",
+      "description": "\ud83d\udc49 Get all of our make.com templates, courses, and resources here: https://www.theaiautomators.com/?utm_source=youtube&utm_medium=video&utm_campaign=tutorial&utm_content=c2_personal_google_account_connection\n\nMake.com documentation for this:\nhttps://www.make.com/en/help/connections/connecting-to-google-services-using-a-custom-oauth-client\n\nThe redirect URI needed: https://www.integromat.com/oauth/cb/google-restricted\n\nScopes needed for Gmail and Google Drive\nGmail\nhttps:// mail.google.com\nhttps:// www.googleapis.com/auth/userinfo.email\n\nGoogle Drive\nhttps:// www.googleapis.com/auth/drive\nhttps:// www.googleapis.com/auth/drive.readonly\n\nIf connection a personal google account to make.com you might get the following error: It is not possible to use restricted scopes with customer @gmail.com accounts. For more information on how to connect restricted scopes visit our documentation.\n\nThis video gets around the issue by setting up a Google Cloud console project so that you can connect your accounts without any issues. There are some steps involved, but once you have it set up then it should work no problem!\n",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "Google"
+        ],
+        "people": [],
+        "products": [
+          "Make"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [],
+      "transcript_chars": 5172,
+      "folder": "2025-03-03-how-to-connect-a-personal-google-account-to-makecom"
+    },
+    {
+      "title": "How to Reprocess Rows in Make (Beginners Guide)",
+      "video_id": "VJWyL2t7RG0",
+      "youtube_url": "https://www.youtube.com/watch?v=VJWyL2t7RG0",
+      "publish_date": "2025-02-28",
+      "duration": "2:10",
+      "duration_seconds": 130,
+      "view_count": 429,
+      "author": "Deep Dive with The AI Automators",
+      "description": "\ud83d\udc49 Get all of our make.com templates, courses, and resources here: https://www.theaiautomators.com/?utm_source=youtube&utm_medium=video&utm_campaign=tutorial&utm_content=c2_reprocess_rows\n\nIn this video, we answer a common question: How do you reprocess data that's already been picked up in Make.com? If you\u2019ve used the \"Watch New Rows\" module during testing and need to run the same records again, we\u2019ll show you exactly how to do it.\n\nSteps to Reprocess Data:\nRight-click the module.\nSelect \"Choose where to start\" \u2192 \"Select all\" (or pick specific records).\nClick \"Run once\" to process the data again.\n\nThis method allows you to retrigger operations, whether it\u2019s updating rows, sending data to an external system (like OpenAI for AI text generation), or any other automation.\n\nBe careful! If connected to emails or external actions, reprocessing may resend messages or trigger unintended workflows.\n\nHope this helps! \ud83d\udc4d Let us know if you have any questions.\n",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "General"
+      ],
+      "entities": {
+        "companies": [],
+        "people": [],
+        "products": [
+          "Make"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# How to Reprocess Rows in Make (Beginners Guide)\na very common question we get asked is how do you reprocess data that's already been picked up within make"
+      ],
+      "transcript_chars": 2488,
+      "folder": "2025-02-28-how-to-reprocess-rows-in-make-beginners-guide"
+    },
+    {
+      "title": "Use This Free Google Sheets App Script to Trigger Make.com",
+      "video_id": "LTMvHKyrzLg",
+      "youtube_url": "https://www.youtube.com/watch?v=LTMvHKyrzLg",
+      "publish_date": "2025-02-27",
+      "duration": "5:09",
+      "duration_seconds": 309,
+      "view_count": 3007,
+      "author": "Deep Dive with The AI Automators",
+      "description": "\ud83d\udc49 Get all of our make.com templates, courses, and resources here: https://www.theaiautomators.com/?utm_source=youtube&utm_medium=video&utm_campaign=tutorial&utm_content=c2_make_google_sheets_app_script\n\nGet the App Script here (no signup required): https://www.theaiautomators.com/how-to-use-an-app-script-to-trigger-make-com-from-google-sheets/\n\nOur previous video using a hyperlink to trigger: https://www.youtube.com/watch?v=iQF2U3pKPIM\n\nIn this video, I'll show you how to create a Google Apps Script that triggers a Make.com scenario instantly from Google Sheets\u2014without using their extension, which isn't available at the time of recording. This is an improved version of a previous method where we used hyperlinks to trigger webhooks, but this approach prevents unnecessary new tabs from opening and offers a smoother automation experience.\n\nWe'll start by setting up a standard webhook in Make.com and then generate a Google Apps Script to send a POST request whenever a value in column D is updated. The script will pass all row values in a structured JSON format, ensuring easy integration with other tools. I'll walk you through copying the webhook URL, implementing the script in Apps Script, and setting up triggers to automate the process.\n\nNext, we'll test the trigger by changing values in Google Sheets and confirming the webhook fires correctly. I'll also demonstrate an OpenAI integration that processes data dynamically. Later, we'll refine the script to handle multiple row updates at once, ensuring efficiency for bulk data changes.\n\nFinally, we'll test the overall performance of this integration by measuring latency when external API calls are removed. The results show that this method is quick and reliable.\n",
+      "yt_tags": [],
+      "content_type": "News Roundup",
+      "primary_topic": "AI Tools",
+      "difficulty": "Intermediate",
+      "audience": [
+        "General"
+      ],
+      "entities": {
+        "companies": [
+          "Google",
+          "Box"
+        ],
+        "people": [],
+        "products": [
+          "Make"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# Use This Free Google Sheets App Script to Trigger Make"
+      ],
+      "transcript_chars": 5734,
+      "folder": "2025-02-27-use-this-free-google-sheets-app-script-to-trigger-makecom"
+    },
+    {
+      "title": "Self-Host N8N in Minutes! (No Code and Super Easy!)",
+      "video_id": "0nYS2XP44k8",
+      "youtube_url": "https://www.youtube.com/watch?v=0nYS2XP44k8",
+      "publish_date": "2025-02-26",
+      "duration": "7:30",
+      "duration_seconds": 450,
+      "view_count": 3108,
+      "author": "Deep Dive with The AI Automators",
+      "description": "\ud83d\udc49 Get all of our n8n & Make.com templates, courses, and resources here: https://www.theaiautomators.com/?utm_source=youtube&utm_medium=video&utm_campaign=tutorial&utm_content=elestio\n\nWant to self-host n8n without the hassle? In this video, I'll show you how to deploy n8n on Elest.io, a fully managed DevOps platform that makes self-hosting easy\u2014no coding or terminal required! \n\nElestio - https://elest.io/\n\n\ud83d\udd25 What You\u2019ll Learn:\nHow to deploy N8N on LSTO in minutes\nChoosing the right cloud provider (AWS, DigitalOcean, Hetzner, etc.)\nConfiguring and optimizing your N8N instance\nSetting up backups, security, and performance monitoring\nHow to manage software updates, logs, and more!\n",
+      "yt_tags": [],
+      "content_type": "News Roundup",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Beginner",
+      "audience": [
+        "Engineers",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "X",
+          "AWS"
+        ],
+        "people": [],
+        "products": [
+          "Make",
+          "n8n"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [],
+      "transcript_chars": 9544,
+      "folder": "2025-02-26-self-host-n8n-in-minutes-no-code-and-super-easy"
+    },
+    {
+      "title": "Make.com Variables Explained (And Mistakes to Avoid!)",
+      "video_id": "A9kdDr52SzY",
+      "youtube_url": "https://www.youtube.com/watch?v=A9kdDr52SzY",
+      "publish_date": "2025-02-23",
+      "duration": "12:40",
+      "duration_seconds": 760,
+      "view_count": 7693,
+      "author": "Deep Dive with The AI Automators",
+      "description": "\ud83d\udc49 Get all of our make.com templates, courses, and resources here: https://www.theaiautomators.com/?utm_source=youtube&utm_medium=video&utm_campaign=tutorial&utm_content=c2_make_variables\n\nChapters:\n0:00 - Introduction to Variable Modules in Make.com\n0:36 - Simple Google Sheets Example\n2:50 - Why Variables Are Useful in Large Workflows\n3:05 - Setting Multiple Variables in Make.com\n4:20 - Using a Router for Conditional Execution\n7:30 - Upserting Records in Google Sheets\n8:13 - Mistakes to avoid\n\nIn this video, we dive deep into how to use variable modules within Make.com to optimize and clean up your automation scenarios. Variables are powerful tools that allow you to handle routing, manage complex logic, and upsert records\u2014for example, checking if a Google Sheets row exists before adding or updating it.\n\nWe'll start with a simple Google Sheets example where Make.com picks up new rows, sends a prompt to an LLM (such as Claude, OpenAI, or Gemini), and logs the response back into the sheet. First, we run the scenario without variables, then implement them to demonstrate their value.\n\nNext, we explore why variables are especially useful in larger workflows. By setting a variable once (e.g., selecting an AI model like Claude 3.5), you can reference it across multiple modules without needing to update each instance manually\u2014making future updates much easier.\n\nWe also cover advanced use cases, such as using a router to conditionally generate images based on user input in Google Sheets. This involves integrating the File API, storing image URLs in variables, and ensuring that workflows execute correctly based on conditions.\n\nAn important concept in Make.com is that variables are module-dependent, not global. We illustrate this with a JSON iterator example, demonstrating how improper variable handling can lead to unexpected results. The key takeaway: always retrieve the latest variable state before updating it to maintain data integrity.\n\nBy the end of this video, you'll have a solid understanding of how to use variables effectively in Make.com, whether for simple automations or complex workflows. If you have any questions or unique use cases for variables, drop a comment below!\n",
+      "yt_tags": [],
+      "content_type": "News Roundup",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Advanced",
+      "audience": [
+        "Engineers"
+      ],
+      "entities": {
+        "companies": [
+          "Anthropic",
+          "Google",
+          "YouTube"
+        ],
+        "people": [],
+        "products": [
+          "Gemini",
+          "Make"
+        ],
+        "models": [
+          "Gemini",
+          "Flux"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        ")\nin this video I'm going to go through how to use variable modules within make"
+      ],
+      "transcript_chars": 13470,
+      "folder": "2025-02-23-makecom-variables-explained-and-mistakes-to-avoid"
     }
   ]
 }

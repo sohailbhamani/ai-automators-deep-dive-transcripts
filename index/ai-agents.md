@@ -1,6 +1,6 @@
 # Ai Agents
 
-Episodes discussing **Ai Agents** (11 episodes):
+Episodes discussing **Ai Agents** (14 episodes):
 
 - [MCP is Make's Most Underrated New Feature](../episodes/2025-05-11-mcp-is-make-s-most-underrated-new-feature/transcript.md) (2025-05-11)
 - [NEW Make.com MCP Update: Connect Anything in Minutes! (No-Code)](../episodes/2025-05-09-new-make-com-mcp-update-connect-anything-in-minutes-no-code/transcript.md) (2025-05-09)
@@ -13,3 +13,6 @@ Episodes discussing **Ai Agents** (11 episodes):
 - [🤫 I Built an Advanced Backlink Report Tool Using Make.com](../episodes/2025-03-26-i-built-an-advanced-backlink-report-tool-using-makecom/transcript.md) (2025-03-26)
 - [How to Poll APIs in Make.com (Step-by-Step Guide!)](../episodes/2025-03-05-how-to-poll-apis-in-makecom-step-by-step-guide/transcript.md) (2025-03-05)
 - [Create Stunning Images on Autopilot with Midjourney (SECRET API!)](../episodes/2025-03-04-create-stunning-images-on-autopilot-with-midjourney-secret-a/transcript.md) (2025-03-04)
+- [How to Connect a Personal Google Account to Make.com](../episodes/2025-03-03-how-to-connect-a-personal-google-account-to-makecom/transcript.md) (2025-03-03)
+- [How to Reprocess Rows in Make (Beginners Guide)](../episodes/2025-02-28-how-to-reprocess-rows-in-make-beginners-guide/transcript.md) (2025-02-28)
+- [Self-Host N8N in Minutes! (No Code and Super Easy!)](../episodes/2025-02-26-self-host-n8n-in-minutes-no-code-and-super-easy/transcript.md) (2025-02-26)

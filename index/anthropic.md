@@ -1,6 +1,6 @@
 # Anthropic
 
-Episodes discussing **Anthropic** (7 episodes):
+Episodes discussing **Anthropic** (8 episodes):
 
 - [Claude Code Can Now Run On AUTOPILOT. But /loop Is Not Always The Best Way.](../episodes/2026-03-12-claude-code-can-now-run-on-autopilot-but-loop-is-not-always-/transcript.md) (2026-03-12)
 - [MCP is Make's Most Underrated New Feature](../episodes/2025-05-11-mcp-is-make-s-most-underrated-new-feature/transcript.md) (2025-05-11)
@@ -9,3 +9,4 @@ Episodes discussing **Anthropic** (7 episodes):
 - [Automate ANYTHING with Make.com + Replit Agent v2](../episodes/2025-04-14-automate-anything-with-makecom-replit-agent-v2/transcript.md) (2025-04-14)
 - [How to Automate Your Blog with Make.com (Beginner Guide)](../episodes/2025-04-04-how-to-automate-your-blog-with-makecom-beginner-guide/transcript.md) (2025-04-04)
 - [How to Automate Your Email Newsletter With AI](../episodes/2025-04-01-how-to-automate-your-email-newsletter-with-ai/transcript.md) (2025-04-01)
+- [Make.com Variables Explained (And Mistakes to Avoid!)](../episodes/2025-02-23-makecom-variables-explained-and-mistakes-to-avoid/transcript.md) (2025-02-23)

@@ -1,6 +1,6 @@
 # Tutorials
 
-Episodes discussing **Tutorials** (10 episodes):
+Episodes discussing **Tutorials** (13 episodes):
 
 - [How to Use Loop Over Items in n8n (With Examples)](../episodes/2025-05-20-how-to-use-loop-over-items-in-n8n-with-examples/transcript.md) (2025-05-20)
 - [NEW Make.com MCP Update: Connect Anything in Minutes! (No-Code)](../episodes/2025-05-09-new-make-com-mcp-update-connect-anything-in-minutes-no-code/transcript.md) (2025-05-09)
@@ -12,3 +12,6 @@ Episodes discussing **Tutorials** (10 episodes):
 - [How to Automate Your Email Newsletter With AI](../episodes/2025-04-01-how-to-automate-your-email-newsletter-with-ai/transcript.md) (2025-04-01)
 - [🤫 I Built an Advanced Backlink Report Tool Using Make.com](../episodes/2025-03-26-i-built-an-advanced-backlink-report-tool-using-makecom/transcript.md) (2025-03-26)
 - [How to Poll APIs in Make.com (Step-by-Step Guide!)](../episodes/2025-03-05-how-to-poll-apis-in-makecom-step-by-step-guide/transcript.md) (2025-03-05)
+- [How to Connect a Personal Google Account to Make.com](../episodes/2025-03-03-how-to-connect-a-personal-google-account-to-makecom/transcript.md) (2025-03-03)
+- [How to Reprocess Rows in Make (Beginners Guide)](../episodes/2025-02-28-how-to-reprocess-rows-in-make-beginners-guide/transcript.md) (2025-02-28)
+- [Make.com Variables Explained (And Mistakes to Avoid!)](../episodes/2025-02-23-makecom-variables-explained-and-mistakes-to-avoid/transcript.md) (2025-02-23)

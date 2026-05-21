@@ -1,6 +1,6 @@
 # Tutorial
 
-Episodes discussing **Tutorial** (9 episodes):
+Episodes discussing **Tutorial** (11 episodes):
 
 - [How to Bulk Add Rows to Google Sheets with Make.com](../episodes/2025-04-28-how-to-bulk-add-rows-to-google-sheets-with-make-com/transcript.md) (2025-04-28)
 - [Understanding Bundles, Arrays & Collections in Make.com](../episodes/2025-04-25-understanding-bundles-arrays-collections-in-makecom/transcript.md) (2025-04-25)
@@ -11,3 +11,5 @@ Episodes discussing **Tutorial** (9 episodes):
 - [How to Automate Your Blog with Make.com (Beginner Guide)](../episodes/2025-04-04-how-to-automate-your-blog-with-makecom-beginner-guide/transcript.md) (2025-04-04)
 - [How to Automate Your Email Newsletter With AI](../episodes/2025-04-01-how-to-automate-your-email-newsletter-with-ai/transcript.md) (2025-04-01)
 - [How to Poll APIs in Make.com (Step-by-Step Guide!)](../episodes/2025-03-05-how-to-poll-apis-in-makecom-step-by-step-guide/transcript.md) (2025-03-05)
+- [How to Connect a Personal Google Account to Make.com](../episodes/2025-03-03-how-to-connect-a-personal-google-account-to-makecom/transcript.md) (2025-03-03)
+- [How to Reprocess Rows in Make (Beginners Guide)](../episodes/2025-02-28-how-to-reprocess-rows-in-make-beginners-guide/transcript.md) (2025-02-28)
