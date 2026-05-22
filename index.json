@@ -1,8 +1,8 @@
 {
-  "total_videos": 36,
+  "total_videos": 41,
   "date_range": {
     "newest": "2026-03-12",
-    "oldest": "2025-01-07"
+    "oldest": "2024-12-18"
   },
   "videos": [
     {
@@ -1342,6 +1342,189 @@
       "summary": [],
       "transcript_chars": 5684,
       "folder": "2025-01-07-how-to-fix-json-errors-in-makecom-escaping-json-validating-hidden-characters"
+    },
+    {
+      "title": "How to Automate Webflow with Make.com (Text + Images)",
+      "video_id": "qwZGai5vryw",
+      "youtube_url": "https://www.youtube.com/watch?v=qwZGai5vryw",
+      "publish_date": "2025-01-06",
+      "duration": "4:58",
+      "duration_seconds": 298,
+      "view_count": 2394,
+      "author": "Deep Dive with The AI Automators",
+      "description": "\ud83d\udc49 Get all of our make.com templates here: https://www.theaiautomators.com/?utm_source=youtube&utm_medium=video&utm_campaign=tutorial&utm_content=c2_make_to_webflow\n\nOur more advanced blogging automation tutorials:\nhttps://www.youtube.com/watch?v=6wJaqpJyswA\nhttps://www.youtube.com/watch?v=sJ4QrtWwkBA\n\nIn this tutorial, learn how to automate uploading text and images from Airtable to Webflow using Make.com. This straightforward process lays the foundation for more advanced automations.\n\nChapters:\n0:00 - Overview\n0:40 - Airtable\n1:29 - Webflow connection\n1:45 - Creating content item\n2:50 - Markdown conversion\n3:50 - Updating airtable status\n\nKey Takeaways:\n- Initial Setup: Use Airtable to manage article data (titles, text, images, and status). Configure a Webflow account and CMS collection for blog posts.\n- Automation Steps: Set up a Make.com scenario to filter Airtable records with \"Publish to Webflow\" - status. Create Webflow CMS items with data from Airtable (title, body, and image URLs).\n- Formatting Improvements: Convert markdown text from Airtable to HTML for better formatting in Webflow. Pass image URLs to Webflow for direct upload and storage.\n- Final Touches: Automate Airtable status updates to prevent duplicate uploads.\n\nStep-by-Step Process:\n- Prepare Airtable Base: Include fields for article title, text, featured image, and status (Open, Publish to Webflow).\n- Set Up Make.com Scenario: Filter records with status = \"Publish to Webflow\". Create CMS items in Webflow using Airtable data.\n- Improve Text Formatting: Use the markdown-to-HTML module in Make.com for cleaner text display.\n- Automate Status Update: Add a module to update the status in Airtable to Published after successful upload.\n",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "General"
+      ],
+      "entities": {
+        "companies": [
+          "YouTube"
+        ],
+        "people": [],
+        "products": [
+          "Make"
+        ],
+        "models": [
+          "Flux"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "com (Text + Images)\nin this video I'm going to show you how to connect make"
+      ],
+      "transcript_chars": 5545,
+      "folder": "2025-01-06-how-to-automate-webflow-with-makecom-text-images"
+    },
+    {
+      "title": "How to Generate Google Slides from Google Sheets",
+      "video_id": "GyQwN5z4YTE",
+      "youtube_url": "https://www.youtube.com/watch?v=GyQwN5z4YTE",
+      "publish_date": "2025-01-05",
+      "duration": "5:11",
+      "duration_seconds": 311,
+      "view_count": 7385,
+      "author": "Deep Dive with The AI Automators",
+      "description": "\ud83d\udc49 Get all of our make.com templates here: https://www.theaiautomators.com/?utm_source=youtube&utm_medium=video&utm_campaign=tutorial&utm_content=c2_google_sheets_to_slides\n\nOur more advanced google slides automation tutorial:\nhttps://www.youtube.com/watch?v=0ChgBZoTPcs\n\nChapters:\n0:00 - Overview\n0:55 - Sheet and template\n1:30 - Sheets module\n1:55 - Slides module\n4:07 - Extending the automation\n\nIn this video, you'll learn how to use Make.com, a no-code automation tool, to automatically generate Google Slides presentations directly from data in Google Sheets. This tutorial walks you through the setup process step-by-step, starting with a simple example that you can scale to handle larger datasets.\n\nThe process begins by preparing a Google Sheets file containing your data, such as company names and focus areas. You'll also need a Google Slides template with placeholders, formatted using curly brackets (e.g., {{Company Name}}), where your data will be inserted. Using Make.com, you'll create an automation scenario that links Google Sheets to Google Slides. This setup involves selecting the spreadsheet, mapping the data fields to the placeholders, and specifying where the generated presentations will be saved in Google Drive.\n\nThe tutorial demonstrates how to configure the scenario with just two modules and explains how to run the automation either on a schedule or using instant triggers. By the end of the example, you\u2019ll see how to generate multiple slide decks effortlessly and how to refine the setup to create presentations in bulk.\n\nFor advanced users, the video explores additional features such as integrating OpenAI GPT for text generation, creating custom content for slides, and adding connections to other tools like Slack, email, or Airtable to enhance your workflow. It also touches on scaling the workflow by integrating multiple data sources like SEO analytics, Google Analytics, and WordPress to create comprehensive reports.\n\nIf you\u2019re interested in diving deeper into automation, check out Daniel\u2019s video linked in the description. It shows how to create a more sophisticated SEO monthly report using similar principles.\n",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers"
+      ],
+      "entities": {
+        "companies": [
+          "Google",
+          "Slack"
+        ],
+        "people": [],
+        "products": [
+          "Make"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [],
+      "transcript_chars": 5981,
+      "folder": "2025-01-05-how-to-generate-google-slides-from-google-sheets"
+    },
+    {
+      "title": "I Built a Bing Keyword Research Tool Using Make.com and BuildShip",
+      "video_id": "6Dza9qf5Ny8",
+      "youtube_url": "https://www.youtube.com/watch?v=6Dza9qf5Ny8",
+      "publish_date": "2025-01-03",
+      "duration": "6:41",
+      "duration_seconds": 401,
+      "view_count": 505,
+      "author": "Deep Dive with The AI Automators",
+      "description": "\ud83d\udc49 Get all of our make.com templates here: https://www.theaiautomators.com/?utm_source=youtube&utm_medium=video&utm_campaign=tutorial&utm_content=c2_bing_keyword_research_tool\n\nOur original Google keyword research tool automation: https://www.youtube.com/watch?v=zn6Qiqkhf98\n\nIn this video, we dive into using Make.com alongside BuildShip to streamline keyword analysis and build comprehensive Bing keyword reports.\n\nFollow along as I demonstrate the process.\n\nSetting Up Your Workflow:\n\nStarting with a Google Sheet, we demonstrate how to list URLs for analysis and pull comprehensive Bing keyword data.\n\nUsing Google sheet's bulk mode, you'll learn how to save 1000's of Make operations when adding keywords to Google sheets.\n\nIntegration with Make.com: A step-by-step walkthrough of integrating BuildShip to collect keyword data from each URL.\n\nGenerating & Exporting Keyword Reports:\n\nExplore how reports are created in Google Sheets in a single operation, minimizing API calls and maximizing efficiency.\n\nSee how reports show keywords, search volume, and competition level using the Data for SEO API.\nCost Comparison: Understand the savings of using BuildShip and Data for SEO, with reports costing only a few cents each.\n\n\ud83d\udee0 Tools & APIs Used:\nBuildShip: For bulk automation and low-code customization.\nDataforSEO API: For ultra cheap, in-depth keyword data.\nGoogle Sheets: For report generation and storage.\nMake.com: To automate interactions between tools.\n",
+      "yt_tags": [],
+      "content_type": "News Roundup",
+      "primary_topic": "AI Tools",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers"
+      ],
+      "entities": {
+        "companies": [
+          "Google"
+        ],
+        "people": [],
+        "products": [
+          "Make"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "com and BuildShip\nin this video I'm showing you a powerful keyword research tool for Bing and it generates full keyword reports for every single one of those in an incredibly efficient manner we coul"
+      ],
+      "transcript_chars": 7301,
+      "folder": "2025-01-03-i-built-a-bing-keyword-research-tool-using-makecom-and-buildship"
+    },
+    {
+      "title": "How to Auto-post to LinkedIn from Make.com (Text, Images, Videos)",
+      "video_id": "YZQDu-h3sI0",
+      "youtube_url": "https://www.youtube.com/watch?v=YZQDu-h3sI0",
+      "publish_date": "2025-01-02",
+      "duration": "6:53",
+      "duration_seconds": 413,
+      "view_count": 18523,
+      "author": "Deep Dive with The AI Automators",
+      "description": "\ud83d\udc49 Get all of our make.com templates here: https://www.theaiautomators.com/?utm_source=youtube&utm_medium=video&utm_campaign=tutorial&utm_content=c2_linkedin_make_connection\n\nOur other tutorials mentioned in this video:\n\nBlogging + social media automation: https://www.youtube.com/watch?v=6wJaqpJyswA\nSocial media system: https://www.youtube.com/watch?v=00qppWuIW-g\nAirtable instant triggers: https://www.youtube.com/watch?v=JD48oemRUJk\n\nChapters:\n0:00 - Introduction\n1:25 - LinkedIn Connection and Text Posting\n2:50 - Image Posting\n5:30 - Video Posting\n\nIn this video, we\u2019re going to show you how to connect LinkedIn to Make.com.\n\nWe\u2019ll start by setting up an Airtable base with posts, images, and videos that are ready for publishing.\n\nConnecting Make.com to Airtable: Learn how to use the \u201cSearch Records\u201d module to filter out posts that are marked as \u201cReady for Posting\u201d in Airtable.\n\nCreating LinkedIn Posts: We\u2019ll guide you through connecting Make.com to LinkedIn and creating automated posts.\n\nHandling Different Post Types: Set up different workflows for text, image, and video posts.\n\nError Handling & Final Setup: Tips for troubleshooting and finalizing your automated workflow.\n\nStep-by-Step Guide\n\nSetting Up Airtable Base\n\nCreate a table in Airtable to store your post text, type (text, photo, video), and media URLs.\nMark posts as \u201cReady for Posting\u201d when they are ready to be published.\nConnecting Airtable to Make.com\n\nUse the \u201cSearch Records\u201d module in Make.com to filter records with the status \u201cReady for Posting.\u201d\nSet a limit of one to process posts individually.\n\nCreating LinkedIn Posts\n\nAdd a LinkedIn module in Make.com to create a post.\nIf it\u2019s your first time connecting, authenticate your LinkedIn account and select the page you want to post to.\n\nMap the post text from Airtable to the LinkedIn message field.\n\nHandling Different Post Types\n\nAdd a router to split the workflow based on post type.\nFor text posts, directly publish to LinkedIn.\nFor photo posts, use the HTTP module to download the image and then upload it to LinkedIn.\nFor video posts, use the video URL to upload directly to LinkedIn.\n",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "General"
+      ],
+      "entities": {
+        "companies": [
+          "Google",
+          "LinkedIn"
+        ],
+        "people": [],
+        "products": [
+          "Make"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "com (Text, Images, Videos)\nin this video I'm going to show you how to connect make"
+      ],
+      "transcript_chars": 7729,
+      "folder": "2025-01-02-how-to-auto-post-to-linkedin-from-makecom-text-images-videos"
+    },
+    {
+      "title": "How to Quickly Remap Scenarios to Use OpenRouter (Advanced Methods)",
+      "video_id": "WgaG_a7Vqfo",
+      "youtube_url": "https://www.youtube.com/watch?v=WgaG_a7Vqfo",
+      "publish_date": "2024-12-18",
+      "duration": "14:19",
+      "duration_seconds": 859,
+      "view_count": 572,
+      "author": "Deep Dive with The AI Automators",
+      "description": "\ud83d\udc49 Get all of our make.com templates here: https://www.theaiautomators.com/?utm_source=youtube&utm_medium=video&utm_campaign=tutorial&utm_content=c2_remap_scenarios\n\nConnecting to OpenRouter: https://www.youtube.com/watch?v=EsGniZ7Sl8k\nOur original blogging automation with Claude: https://www.youtube.com/watch?v=6wJaqpJyswA\n\nLearn how to remap and update your make.com scenarios efficiently using advanced techniques! This tutorial showcases how to adapt workflows with an example of swapping over many Claude modules within a scenario to use OpenRouter instead. It's perfect for those looking to update complex scenarios without the headache of manual updates.\n\nOf course, be careful when updating blueprints and make sure to back up your scenarios!\n\nIn this video, we\u2019re streamlining the process of updating make.com scenarios by swapping out modules (like Anthropic\u2019s Claude) for OpenRouter connections. Using advanced methods, we leverage tools like the make.com DevTools and blueprint exports to automate tedious tasks. By editing blueprints in a text editor and using find-and-replace, we efficiently update references, variables, and mappings without manually reconfiguring each module. This approach simplifies the transition and saves a LOT of time.\n",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Advanced",
+      "audience": [
+        "General"
+      ],
+      "entities": {
+        "companies": [
+          "Anthropic",
+          "Amazon",
+          "Perplexity",
+          "YouTube"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Perplexity",
+          "Make"
+        ],
+        "models": [
+          "Claude 3",
+          "Claude 3.5",
+          "Flux"
+        ]
+      },
+      "concepts": [
+        "You need to select the model name you're going to use and to enable automatic fallback if you're not using a variable you can just select each of these modules and then i'm going to type in cla 3"
+      ],
+      "summary": [
+        "5 Sonet through open router instead of calling it directly through anthropic which will allow us to very quickly switch between different models different providers and if open router cannot respond w"
+      ],
+      "transcript_chars": 15902,
+      "folder": "2024-12-18-how-to-quickly-remap-scenarios-to-use-openrouter-advanced-methods"
     }
   ]
 }

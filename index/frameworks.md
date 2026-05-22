@@ -1,6 +1,6 @@
 # Frameworks
 
-Episodes discussing **Frameworks** (23 episodes):
+Episodes discussing **Frameworks** (26 episodes):
 
 - [Claude Code Can Now Run On AUTOPILOT. But /loop Is Not Always The Best Way.](../episodes/2026-03-12-claude-code-can-now-run-on-autopilot-but-loop-is-not-always-/transcript.md) (2026-03-12)
 - [How to Use Loop Over Items in n8n (With Examples)](../episodes/2025-05-20-how-to-use-loop-over-items-in-n8n-with-examples/transcript.md) (2025-05-20)
@@ -25,3 +25,6 @@ Episodes discussing **Frameworks** (23 episodes):
 - [How to Automatically Summarize Emails to Slack with AI (100% Automated)](../episodes/2025-01-13-how-to-automatically-summarize-emails-to-slack-with-ai-100-automated/transcript.md) (2025-01-13)
 - [How to Save Gmail Attachments to Google Drive (100% Automated)](../episodes/2025-01-12-how-to-save-gmail-attachments-to-google-drive-100-automated/transcript.md) (2025-01-12)
 - [How to Save Emails to Google Sheets (100% Automated)](../episodes/2025-01-09-how-to-save-emails-to-google-sheets-100-automated/transcript.md) (2025-01-09)
+- [I Built a Bing Keyword Research Tool Using Make.com and BuildShip](../episodes/2025-01-03-i-built-a-bing-keyword-research-tool-using-makecom-and-buildship/transcript.md) (2025-01-03)
+- [How to Auto-post to LinkedIn from Make.com (Text, Images, Videos)](../episodes/2025-01-02-how-to-auto-post-to-linkedin-from-makecom-text-images-videos/transcript.md) (2025-01-02)
+- [How to Quickly Remap Scenarios to Use OpenRouter (Advanced Methods)](../episodes/2024-12-18-how-to-quickly-remap-scenarios-to-use-openrouter-advanced-methods/transcript.md) (2024-12-18)

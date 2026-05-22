@@ -1,6 +1,6 @@
 # Ai News
 
-Episodes discussing **Ai News** (29 episodes):
+Episodes discussing **Ai News** (33 episodes):
 
 - [Claude Code Can Now Run On AUTOPILOT. But /loop Is Not Always The Best Way.](../episodes/2026-03-12-claude-code-can-now-run-on-autopilot-but-loop-is-not-always-/transcript.md) (2026-03-12)
 - [How to Use Loop Over Items in n8n (With Examples)](../episodes/2025-05-20-how-to-use-loop-over-items-in-n8n-with-examples/transcript.md) (2025-05-20)
@@ -31,3 +31,7 @@ Episodes discussing **Ai News** (29 episodes):
 - [How to Save Emails to Google Sheets (100% Automated)](../episodes/2025-01-09-how-to-save-emails-to-google-sheets-100-automated/transcript.md) (2025-01-09)
 - [How to Upload Images to Wordpress Using Make.com (Featured + Content Images)](../episodes/2025-01-08-how-to-upload-images-to-wordpress-using-makecom-featured-content-images/transcript.md) (2025-01-08)
 - [How to Fix JSON Errors in Make.com (Escaping JSON, Validating, Hidden Characters)](../episodes/2025-01-07-how-to-fix-json-errors-in-makecom-escaping-json-validating-hidden-characters/transcript.md) (2025-01-07)
+- [How to Automate Webflow with Make.com (Text + Images)](../episodes/2025-01-06-how-to-automate-webflow-with-makecom-text-images/transcript.md) (2025-01-06)
+- [How to Generate Google Slides from Google Sheets](../episodes/2025-01-05-how-to-generate-google-slides-from-google-sheets/transcript.md) (2025-01-05)
+- [I Built a Bing Keyword Research Tool Using Make.com and BuildShip](../episodes/2025-01-03-i-built-a-bing-keyword-research-tool-using-makecom-and-buildship/transcript.md) (2025-01-03)
+- [How to Auto-post to LinkedIn from Make.com (Text, Images, Videos)](../episodes/2025-01-02-how-to-auto-post-to-linkedin-from-makecom-text-images-videos/transcript.md) (2025-01-02)

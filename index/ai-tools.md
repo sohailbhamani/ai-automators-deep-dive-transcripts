@@ -1,6 +1,6 @@
 # Ai Tools
 
-Episodes discussing **Ai Tools** (20 episodes):
+Episodes discussing **Ai Tools** (24 episodes):
 
 - [Claude Code Can Now Run On AUTOPILOT. But /loop Is Not Always The Best Way.](../episodes/2026-03-12-claude-code-can-now-run-on-autopilot-but-loop-is-not-always-/transcript.md) (2026-03-12)
 - [MCP is Make's Most Underrated New Feature](../episodes/2025-05-11-mcp-is-make-s-most-underrated-new-feature/transcript.md) (2025-05-11)
@@ -22,3 +22,7 @@ Episodes discussing **Ai Tools** (20 episodes):
 - [How to Generate Google Docs from Google Sheets](../episodes/2025-01-10-how-to-generate-google-docs-from-google-sheets/transcript.md) (2025-01-10)
 - [How to Upload Images to Wordpress Using Make.com (Featured + Content Images)](../episodes/2025-01-08-how-to-upload-images-to-wordpress-using-makecom-featured-content-images/transcript.md) (2025-01-08)
 - [How to Fix JSON Errors in Make.com (Escaping JSON, Validating, Hidden Characters)](../episodes/2025-01-07-how-to-fix-json-errors-in-makecom-escaping-json-validating-hidden-characters/transcript.md) (2025-01-07)
+- [How to Generate Google Slides from Google Sheets](../episodes/2025-01-05-how-to-generate-google-slides-from-google-sheets/transcript.md) (2025-01-05)
+- [I Built a Bing Keyword Research Tool Using Make.com and BuildShip](../episodes/2025-01-03-i-built-a-bing-keyword-research-tool-using-makecom-and-buildship/transcript.md) (2025-01-03)
+- [How to Auto-post to LinkedIn from Make.com (Text, Images, Videos)](../episodes/2025-01-02-how-to-auto-post-to-linkedin-from-makecom-text-images-videos/transcript.md) (2025-01-02)
+- [How to Quickly Remap Scenarios to Use OpenRouter (Advanced Methods)](../episodes/2024-12-18-how-to-quickly-remap-scenarios-to-use-openrouter-advanced-methods/transcript.md) (2024-12-18)

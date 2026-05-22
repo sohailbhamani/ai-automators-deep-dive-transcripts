@@ -1,6 +1,6 @@
 # Tutorial
 
-Episodes discussing **Tutorial** (22 episodes):
+Episodes discussing **Tutorial** (26 episodes):
 
 - [How to Bulk Add Rows to Google Sheets with Make.com](../episodes/2025-04-28-how-to-bulk-add-rows-to-google-sheets-with-make-com/transcript.md) (2025-04-28)
 - [Understanding Bundles, Arrays & Collections in Make.com](../episodes/2025-04-25-understanding-bundles-arrays-collections-in-makecom/transcript.md) (2025-04-25)
@@ -24,3 +24,7 @@ Episodes discussing **Tutorial** (22 episodes):
 - [How to Save Emails to Google Sheets (100% Automated)](../episodes/2025-01-09-how-to-save-emails-to-google-sheets-100-automated/transcript.md) (2025-01-09)
 - [How to Upload Images to Wordpress Using Make.com (Featured + Content Images)](../episodes/2025-01-08-how-to-upload-images-to-wordpress-using-makecom-featured-content-images/transcript.md) (2025-01-08)
 - [How to Fix JSON Errors in Make.com (Escaping JSON, Validating, Hidden Characters)](../episodes/2025-01-07-how-to-fix-json-errors-in-makecom-escaping-json-validating-hidden-characters/transcript.md) (2025-01-07)
+- [How to Automate Webflow with Make.com (Text + Images)](../episodes/2025-01-06-how-to-automate-webflow-with-makecom-text-images/transcript.md) (2025-01-06)
+- [How to Generate Google Slides from Google Sheets](../episodes/2025-01-05-how-to-generate-google-slides-from-google-sheets/transcript.md) (2025-01-05)
+- [How to Auto-post to LinkedIn from Make.com (Text, Images, Videos)](../episodes/2025-01-02-how-to-auto-post-to-linkedin-from-makecom-text-images-videos/transcript.md) (2025-01-02)
+- [How to Quickly Remap Scenarios to Use OpenRouter (Advanced Methods)](../episodes/2024-12-18-how-to-quickly-remap-scenarios-to-use-openrouter-advanced-methods/transcript.md) (2024-12-18)

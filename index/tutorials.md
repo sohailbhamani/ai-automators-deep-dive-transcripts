@@ -1,6 +1,6 @@
 # Tutorials
 
-Episodes discussing **Tutorials** (26 episodes):
+Episodes discussing **Tutorials** (30 episodes):
 
 - [How to Use Loop Over Items in n8n (With Examples)](../episodes/2025-05-20-how-to-use-loop-over-items-in-n8n-with-examples/transcript.md) (2025-05-20)
 - [NEW Make.com MCP Update: Connect Anything in Minutes! (No-Code)](../episodes/2025-05-09-new-make-com-mcp-update-connect-anything-in-minutes-no-code/transcript.md) (2025-05-09)
@@ -28,3 +28,7 @@ Episodes discussing **Tutorials** (26 episodes):
 - [How to Save Emails to Google Sheets (100% Automated)](../episodes/2025-01-09-how-to-save-emails-to-google-sheets-100-automated/transcript.md) (2025-01-09)
 - [How to Upload Images to Wordpress Using Make.com (Featured + Content Images)](../episodes/2025-01-08-how-to-upload-images-to-wordpress-using-makecom-featured-content-images/transcript.md) (2025-01-08)
 - [How to Fix JSON Errors in Make.com (Escaping JSON, Validating, Hidden Characters)](../episodes/2025-01-07-how-to-fix-json-errors-in-makecom-escaping-json-validating-hidden-characters/transcript.md) (2025-01-07)
+- [How to Automate Webflow with Make.com (Text + Images)](../episodes/2025-01-06-how-to-automate-webflow-with-makecom-text-images/transcript.md) (2025-01-06)
+- [How to Generate Google Slides from Google Sheets](../episodes/2025-01-05-how-to-generate-google-slides-from-google-sheets/transcript.md) (2025-01-05)
+- [How to Auto-post to LinkedIn from Make.com (Text, Images, Videos)](../episodes/2025-01-02-how-to-auto-post-to-linkedin-from-makecom-text-images-videos/transcript.md) (2025-01-02)
+- [How to Quickly Remap Scenarios to Use OpenRouter (Advanced Methods)](../episodes/2024-12-18-how-to-quickly-remap-scenarios-to-use-openrouter-advanced-methods/transcript.md) (2024-12-18)
