@@ -1,6 +1,6 @@
 # Ai Strategy
 
-Episodes discussing **Ai Strategy** (17 episodes):
+Episodes discussing **Ai Strategy** (22 episodes):
 
 - [How to Use Loop Over Items in n8n (With Examples)](../episodes/2025-05-20-how-to-use-loop-over-items-in-n8n-with-examples/transcript.md) (2025-05-20)
 - [MCP is Make's Most Underrated New Feature](../episodes/2025-05-11-mcp-is-make-s-most-underrated-new-feature/transcript.md) (2025-05-11)
@@ -19,3 +19,8 @@ Episodes discussing **Ai Strategy** (17 episodes):
 - ["deepseek R1 hosted in the US?" How to Connect via Make.com](../episodes/2025-01-29-deepseek-r1-hosted-in-the-us-how-to-connect-via-makecom/transcript.md) (2025-01-29)
 - [How to Connect a Telegram Bot to Make.com (Beginner Guide)](../episodes/2025-01-20-how-to-connect-a-telegram-bot-to-makecom-beginner-guide/transcript.md) (2025-01-20)
 - [How to Fetch Wikimedia Commons Images with Make.com (with Attributions)](../episodes/2025-01-20-how-to-fetch-wikimedia-commons-images-with-makecom-with-attributions/transcript.md) (2025-01-20)
+- [How to Save Gmail Attachments to Google Drive (100% Automated)](../episodes/2025-01-12-how-to-save-gmail-attachments-to-google-drive-100-automated/transcript.md) (2025-01-12)
+- [How to Generate Google Docs from Google Sheets](../episodes/2025-01-10-how-to-generate-google-docs-from-google-sheets/transcript.md) (2025-01-10)
+- [How to Save Emails to Google Sheets (100% Automated)](../episodes/2025-01-09-how-to-save-emails-to-google-sheets-100-automated/transcript.md) (2025-01-09)
+- [How to Upload Images to Wordpress Using Make.com (Featured + Content Images)](../episodes/2025-01-08-how-to-upload-images-to-wordpress-using-makecom-featured-content-images/transcript.md) (2025-01-08)
+- [How to Fix JSON Errors in Make.com (Escaping JSON, Validating, Hidden Characters)](../episodes/2025-01-07-how-to-fix-json-errors-in-makecom-escaping-json-validating-hidden-characters/transcript.md) (2025-01-07)

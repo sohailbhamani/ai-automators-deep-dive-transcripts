@@ -1,6 +1,6 @@
 # Product Management
 
-Episodes discussing **Product Management** (13 episodes):
+Episodes discussing **Product Management** (16 episodes):
 
 - [Claude Code Can Now Run On AUTOPILOT. But /loop Is Not Always The Best Way.](../episodes/2026-03-12-claude-code-can-now-run-on-autopilot-but-loop-is-not-always-/transcript.md) (2026-03-12)
 - [MCP is Make's Most Underrated New Feature](../episodes/2025-05-11-mcp-is-make-s-most-underrated-new-feature/transcript.md) (2025-05-11)
@@ -15,3 +15,6 @@ Episodes discussing **Product Management** (13 episodes):
 - [Make.com Just Released a NEW AI Feature...](../episodes/2025-02-18-makecom-just-released-a-new-ai-feature/transcript.md) (2025-02-18)
 - [How to Extract Data from Hidden APIs with Make.com (Step-by-Step)](../episodes/2025-02-10-how-to-extract-data-from-hidden-apis-with-makecom-step-by-step/transcript.md) (2025-02-10)
 - [How to Fetch Wikimedia Commons Images with Make.com (with Attributions)](../episodes/2025-01-20-how-to-fetch-wikimedia-commons-images-with-makecom-with-attributions/transcript.md) (2025-01-20)
+- [How to Save Gmail Attachments to Google Drive (100% Automated)](../episodes/2025-01-12-how-to-save-gmail-attachments-to-google-drive-100-automated/transcript.md) (2025-01-12)
+- [How to Generate Google Docs from Google Sheets](../episodes/2025-01-10-how-to-generate-google-docs-from-google-sheets/transcript.md) (2025-01-10)
+- [How to Upload Images to Wordpress Using Make.com (Featured + Content Images)](../episodes/2025-01-08-how-to-upload-images-to-wordpress-using-makecom-featured-content-images/transcript.md) (2025-01-08)

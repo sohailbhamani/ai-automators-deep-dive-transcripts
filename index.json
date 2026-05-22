@@ -1,8 +1,8 @@
 {
-  "total_videos": 31,
+  "total_videos": 36,
   "date_range": {
     "newest": "2026-03-12",
-    "oldest": "2025-01-13"
+    "oldest": "2025-01-07"
   },
   "videos": [
     {
@@ -1168,6 +1168,180 @@
       ],
       "transcript_chars": 5067,
       "folder": "2025-01-13-how-to-automatically-summarize-emails-to-slack-with-ai-100-automated"
+    },
+    {
+      "title": "How to Save Gmail Attachments to Google Drive (100% Automated)",
+      "video_id": "dGkRrrb3Qos",
+      "youtube_url": "https://www.youtube.com/watch?v=dGkRrrb3Qos",
+      "publish_date": "2025-01-12",
+      "duration": "4:13",
+      "duration_seconds": 253,
+      "view_count": 7808,
+      "author": "Deep Dive with The AI Automators",
+      "description": "\ud83d\udc49 Get all of our make.com templates here: https://www.theaiautomators.com/?utm_source=youtube&utm_medium=video&utm_campaign=tutorial&utm_content=c2_gmail_attachments_drive\n\nOther tutorials from us:\nhttps://www.youtube.com/watch?v=gPG5kjHEvkQ\nhttps://www.youtube.com/watch?v=4xeQ4l1NosU\nhttps://www.youtube.com/watch?v=tbjCe6a7sV0\n\nChapters:\n0:00 - Overview\n0:23 - Setting up Gmail connection in Make.com\n0:50 - Defining Gmail filters for automation\n1:49 - Processing attachments and limiting email selection\n2:10 - Uploading attachments to Google Drive\n2:31 - Using an iterator for multiple attachments\n3:05 - Testing the automation\n3:22 - Filtering for PDF file types\n3:41 - Advanced workflows and additional resources\n\nIn this video, learn how to automate the process of uploading email attachments from your Gmail inbox directly to a designated Google Drive folder using Make.com. This tutorial walks you through setting up a connection with Gmail, refining search filters to target specific emails with attachments (e.g., those labeled as invoices or containing PDFs), and configuring the automation to ensure it processes emails efficiently.\n\nYou'll discover how to use Gmail's search capabilities to customize filters, implement an iterator in Make.com for handling multiple attachments in a single email, and ensure only PDF files are uploaded to Google Drive. Additionally, the video provides insights on how to test and verify your automation to avoid processing unnecessary emails.\n",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "General"
+      ],
+      "entities": {
+        "companies": [
+          "Google"
+        ],
+        "people": [],
+        "products": [
+          "Make"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "com for this and you can also really refine your queries to only upload certain file types or where you have assigned a label to that invoice within Gmail so let's get started with a blank scenario in"
+      ],
+      "transcript_chars": 4806,
+      "folder": "2025-01-12-how-to-save-gmail-attachments-to-google-drive-100-automated"
+    },
+    {
+      "title": "How to Generate Google Docs from Google Sheets",
+      "video_id": "8LEP1bKY0LU",
+      "youtube_url": "https://www.youtube.com/watch?v=8LEP1bKY0LU",
+      "publish_date": "2025-01-10",
+      "duration": "4:43",
+      "duration_seconds": 283,
+      "view_count": 7007,
+      "author": "Deep Dive with The AI Automators",
+      "description": "\ud83d\udc49 Get all of our make.com templates here: https://www.theaiautomators.com/?utm_source=youtube&utm_medium=video&utm_campaign=tutorial&utm_content=c2_google_sheets_to_docs\n\nIn this video, learn how to automatically generate personalized Google Docs from rows in a Google Sheet using Make.com. This step-by-step tutorial covers setting up templates, automating the creation process, and saving the files to a specific Google Drive folder.\n\nChapters:\n0:00 Introduction\n0:50 Setting Up Google Sheet\n1:06 Creating a Google Docs Template\n1:58 Configuring Make.com\n3:10 Generating Documents\n4:06 Extending Automation\n\nKey Takeaways:\n- Use a Google Sheet to store data for generating documents.\n- Create a Google Docs template with placeholders for personalized fields.\n- Set up Make.com to automate document creation and storage.\n- Extend automation to download documents as PDFs, email them, or send notifications.\n",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives"
+      ],
+      "entities": {
+        "companies": [
+          "Google",
+          "Slack"
+        ],
+        "people": [],
+        "products": [
+          "Make"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "com for notes we want to just add in notes at the start and then the notes will show up after that okay that should be good enough for the moment we have this Guardian service response template I'm go"
+      ],
+      "transcript_chars": 5666,
+      "folder": "2025-01-10-how-to-generate-google-docs-from-google-sheets"
+    },
+    {
+      "title": "How to Save Emails to Google Sheets (100% Automated)",
+      "video_id": "tbjCe6a7sV0",
+      "youtube_url": "https://www.youtube.com/watch?v=tbjCe6a7sV0",
+      "publish_date": "2025-01-09",
+      "duration": "4:18",
+      "duration_seconds": 258,
+      "view_count": 3249,
+      "author": "Deep Dive with The AI Automators",
+      "description": "\ud83d\udc49 Get all of our make.com templates here: https://www.theaiautomators.com/?utm_source=youtube&utm_medium=video&utm_campaign=tutorial&utm_content=c2_gmail_to_google_sheets\n\nOther tutorials from us:\nhttps://www.youtube.com/watch?v=dGkRrrb3Qos\nhttps://www.youtube.com/watch?v=_i_le35pOJk\nhttps://www.youtube.com/watch?v=4xeQ4l1NosU\n\nChapters:\n0:00 - Introduction\n0:08 - Setting up Gmail integration with Make.com\n1:20 - Connecting Google Sheets to Make.com\n1:45 - Mapping email data to Google Sheets columns\n2:16 - Testing and verifying automation\n2:34 - Formatting date and time in Google Sheets\n3:07 - Exploring advanced automation options\n3:49 - Preview of Gmail to Google Drive automation\n\nIn this video, you'll learn how to automate the process of adding new rows to a Google Sheet whenever you receive emails. We'll use Make.com to set up this seamless integration. Starting with Gmail, we'll walk you through the simple authentication process and show you how to configure filters for capturing the right emails.\n\nNext, we'll connect Google Sheets, map email data to columns, and format dates for better readability. You'll also see how to test and verify your automation, ensuring everything works as expected.\n\nBy the end of this tutorial, you'll have a powerful tool for managing email data efficiently. Don\u2019t forget to check the description for links to more advanced guides, including how to upload Gmail attachments directly to Google Drive.\n\nJoin our community for exclusive templates, live workshops, and support to fast-track your AI automation journey.\n",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "General"
+      ],
+      "entities": {
+        "companies": [
+          "Google",
+          "Slack",
+          "Box"
+        ],
+        "people": [],
+        "products": [
+          "Make"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# How to Save Emails to Google Sheets (100% Automated)\nin this video I'll show you how to populate new roles in a Google sheet whenever you receive emails it's really easy to get set up with this and"
+      ],
+      "transcript_chars": 4958,
+      "folder": "2025-01-09-how-to-save-emails-to-google-sheets-100-automated"
+    },
+    {
+      "title": "How to Upload Images to Wordpress Using Make.com (Featured + Content Images)",
+      "video_id": "P58OvNdpPYk",
+      "youtube_url": "https://www.youtube.com/watch?v=P58OvNdpPYk",
+      "publish_date": "2025-01-08",
+      "duration": "8:04",
+      "duration_seconds": 484,
+      "view_count": 9576,
+      "author": "Deep Dive with The AI Automators",
+      "description": "\ud83d\udc49 Get all of our make.com templates here: https://www.theaiautomators.com/?utm_source=youtube&utm_medium=video&utm_campaign=tutorial&utm_content=c2_wordpress_images\n\nConnect make to Wordpress: https://www.youtube.com/watch?v=SQsFd6xIyY0\n\nOur more advanced blogging automation tutorials:\nhttps://www.youtube.com/watch?v=6wJaqpJyswA\nhttps://www.youtube.com/watch?v=sJ4QrtWwkBA\n\nIn this video, learn how to automate uploading both featured and in-content images to WordPress using Make.com. This simple setup uses Airtable to store images and builds the foundation for more advanced blog automation workflows.\n\nChapters:\n0:00 Introduction\n0:34 Setting Up Airtable\n1:50 Wordpress Post\n2:30 Featured Images\n5:30 In-Content Images\n7:21 Finalizing Automation\n\nKey Takeaways:\n- Initial Setup: Use Airtable to manage article titles, statuses, and image URLs.\n- Automating Featured Image Uploads: Configure Make.com to retrieve featured image URLs, map them to WordPress media items, and attach them to posts.\n- Handling In-Content Images: Automate the addition of in-content images with unique file names to avoid overwriting existing media.\n- Improving Post Content: Convert markdown text to HTML for better formatting and embed in-content images into the post body.\n- Automating Status Updates: Update Airtable statuses after successful uploads to prevent duplicate operations.\n\nStep-by-Step Process:\n- Prepare Airtable Base: Include fields for article title, text, image URLs, and status (e.g., Publish to WordPress).\n- Set Up Make.com Scenario: Create a scenario to fetch Airtable records with status \"Publish to WordPress\" and limit processing to one record at a time.\n- Automate Featured Image Upload: Use the HTTP module to retrieve image files, map them to WordPress media items, and attach them to posts.\n- Automate In-Content Image Upload: Follow the same process for in-content images and embed them in the post content using HTML img tags.\n- Update Airtable Status: Add a final step to update Airtable status to Published, preventing duplicate uploads.\n",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "General"
+      ],
+      "entities": {
+        "companies": [
+          "YouTube"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Make"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "com (Featured + Content Images)\nin this video I'm going to show you exactly how to upload images to Wordpress via make"
+      ],
+      "transcript_chars": 9072,
+      "folder": "2025-01-08-how-to-upload-images-to-wordpress-using-makecom-featured-content-images"
+    },
+    {
+      "title": "How to Fix JSON Errors in Make.com (Escaping JSON, Validating, Hidden Characters)",
+      "video_id": "18wgBZxOp0U",
+      "youtube_url": "https://www.youtube.com/watch?v=18wgBZxOp0U",
+      "publish_date": "2025-01-07",
+      "duration": "5:01",
+      "duration_seconds": 301,
+      "view_count": 2540,
+      "author": "Deep Dive with The AI Automators",
+      "description": "\ud83d\udc49 Get all of our make.com templates here: https://www.theaiautomators.com/?utm_source=youtube&utm_medium=video&utm_campaign=tutorial&utm_content=c2_fix_json_errors\n\nOur other video on parsing JSON lines: https://www.youtube.com/watch?v=QFMN1fJvH8k\n\nFormula to escape JSON:\n{{replace(replace(replace(replace(replace(replace(replace(YOUR_DATA; \"/\\n/g\"; space); \"/\\r/g\"; space); \"/\\t/g\"; space); \"/\\f/g\"; space); \"/\\//g\"; \"/\"); \"/\\\\/g\"; \"\\\\\"); \"/\"\"/g\"; \"\\\"\"\")}}\n\nJSON validator: https://jsonlint.com/\n\nChapters:\n0:00 - Introduction\n0:40 - Using JSON Validators to Identify Hidden Characters\n2:10 - Handling Special Characters in Dynamic data\n3:40 - Escaping JSON in Make.com\n4:37 - JSON Lines\n\nLearn how to resolve common JSON errors in your automation workflows with this step-by-step guide. In this video, we tackle issues such as \"Bad Request body,\" \"Failed to parse request body as json\", \"Validate input JSON,\" \"Unprocessable Entity,\" and others within Make.com. These errors often occur when dealing with tools like HTTP modules, Apify actors, or dynamic data from sources like Google Sheets or Airtable.\n\nWe begin by examining typical problems like hidden characters or unexpected whitespace in JSON and how to detect them using JSON validators. You\u2019ll see how small adjustments, such as removing hidden characters, can make your requests error-free. Next, we discuss escaping JSON characters to prevent breaking dynamic fields, especially when working with text generated by tools like OpenAI.\n",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives"
+      ],
+      "entities": {
+        "companies": [
+          "Google"
+        ],
+        "people": [],
+        "products": [
+          "Make"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [],
+      "transcript_chars": 5684,
+      "folder": "2025-01-07-how-to-fix-json-errors-in-makecom-escaping-json-validating-hidden-characters"
     }
   ]
 }

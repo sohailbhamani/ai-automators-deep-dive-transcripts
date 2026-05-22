@@ -1,6 +1,6 @@
 # Box
 
-Episodes discussing **Box** (7 episodes):
+Episodes discussing **Box** (8 episodes):
 
 - [How to Auto-Post to All Your Socials (AI + Make.com + Airtable)](../episodes/2025-04-23-how-to-auto-post-to-all-your-socials-ai-makecom-airtable/transcript.md) (2025-04-23)
 - [How to Auto-post to X/Twitter from Make.com (2025 Methods)](../episodes/2025-04-17-how-to-auto-post-to-xtwitter-from-makecom-2025-methods/transcript.md) (2025-04-17)
@@ -9,3 +9,4 @@ Episodes discussing **Box** (7 episodes):
 - [Use This Free Google Sheets App Script to Trigger Make.com](../episodes/2025-02-27-use-this-free-google-sheets-app-script-to-trigger-makecom/transcript.md) (2025-02-27)
 - [I Built a Deepseek AI Blogging System (Internal Links + Social Media)](../episodes/2025-01-27-i-built-a-deepseek-ai-blogging-system-internal-links-social-media/transcript.md) (2025-01-27)
 - [How to Automatically Summarize Emails to Slack with AI (100% Automated)](../episodes/2025-01-13-how-to-automatically-summarize-emails-to-slack-with-ai-100-automated/transcript.md) (2025-01-13)
+- [How to Save Emails to Google Sheets (100% Automated)](../episodes/2025-01-09-how-to-save-emails-to-google-sheets-100-automated/transcript.md) (2025-01-09)
