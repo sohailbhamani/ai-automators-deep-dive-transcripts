@@ -1,6 +1,6 @@
 # Google
 
-Episodes discussing **Google** (26 episodes):
+Episodes discussing **Google** (29 episodes):
 
 - [How to Use Loop Over Items in n8n (With Examples)](../episodes/2025-05-20-how-to-use-loop-over-items-in-n8n-with-examples/transcript.md) (2025-05-20)
 - [How to Bulk Add Rows to Google Sheets with Make.com](../episodes/2025-04-28-how-to-bulk-add-rows-to-google-sheets-with-make-com/transcript.md) (2025-04-28)
@@ -28,3 +28,6 @@ Episodes discussing **Google** (26 episodes):
 - [How to Generate Google Slides from Google Sheets](../episodes/2025-01-05-how-to-generate-google-slides-from-google-sheets/transcript.md) (2025-01-05)
 - [I Built a Bing Keyword Research Tool Using Make.com and BuildShip](../episodes/2025-01-03-i-built-a-bing-keyword-research-tool-using-makecom-and-buildship/transcript.md) (2025-01-03)
 - [How to Auto-post to LinkedIn from Make.com (Text, Images, Videos)](../episodes/2025-01-02-how-to-auto-post-to-linkedin-from-makecom-text-images-videos/transcript.md) (2025-01-02)
+- [Use This to Instantly Swap AI Models in Make (FREE Options!)](../episodes/2024-12-17-use-this-to-instantly-swap-ai-models-in-make-free-options/transcript.md) (2024-12-17)
+- [How to Use Scenario Inputs in Make.com (Quick Guide)](../episodes/2024-12-12-how-to-use-scenario-inputs-in-makecom-quick-guide/transcript.md) (2024-12-12)
+- [How to Test Scenarios in Make.com (Without Waiting for Trigger)](../episodes/2024-12-10-how-to-test-scenarios-in-makecom-without-waiting-for-trigger/transcript.md) (2024-12-10)

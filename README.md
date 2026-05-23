@@ -8,6 +8,6 @@ Automated transcript archive for the [Deep Dive With The AI Automators](https://
 
 ## Stats
 
-- **Videos Downloaded**: 41
-- **Date Range**: Dec 18, 2024 - Mar 12, 2026
-- **Last Updated**: May 22, 2026
+- **Videos Downloaded**: 45
+- **Date Range**: Dec 10, 2024 - Mar 12, 2026
+- **Last Updated**: May 23, 2026

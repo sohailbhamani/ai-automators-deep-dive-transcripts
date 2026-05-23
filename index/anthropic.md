@@ -1,6 +1,6 @@
 # Anthropic
 
-Episodes discussing **Anthropic** (11 episodes):
+Episodes discussing **Anthropic** (12 episodes):
 
 - [Claude Code Can Now Run On AUTOPILOT. But /loop Is Not Always The Best Way.](../episodes/2026-03-12-claude-code-can-now-run-on-autopilot-but-loop-is-not-always-/transcript.md) (2026-03-12)
 - [MCP is Make's Most Underrated New Feature](../episodes/2025-05-11-mcp-is-make-s-most-underrated-new-feature/transcript.md) (2025-05-11)
@@ -13,3 +13,4 @@ Episodes discussing **Anthropic** (11 episodes):
 - [I Built a Deepseek AI Blogging System (Internal Links + Social Media)](../episodes/2025-01-27-i-built-a-deepseek-ai-blogging-system-internal-links-social-media/transcript.md) (2025-01-27)
 - [How to Upload Images to Wordpress Using Make.com (Featured + Content Images)](../episodes/2025-01-08-how-to-upload-images-to-wordpress-using-makecom-featured-content-images/transcript.md) (2025-01-08)
 - [How to Quickly Remap Scenarios to Use OpenRouter (Advanced Methods)](../episodes/2024-12-18-how-to-quickly-remap-scenarios-to-use-openrouter-advanced-methods/transcript.md) (2024-12-18)
+- [Use This to Instantly Swap AI Models in Make (FREE Options!)](../episodes/2024-12-17-use-this-to-instantly-swap-ai-models-in-make-free-options/transcript.md) (2024-12-17)

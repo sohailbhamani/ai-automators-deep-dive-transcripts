@@ -1,8 +1,8 @@
 {
-  "total_videos": 41,
+  "total_videos": 45,
   "date_range": {
     "newest": "2026-03-12",
-    "oldest": "2024-12-18"
+    "oldest": "2024-12-10"
   },
   "videos": [
     {
@@ -1525,6 +1525,159 @@
       ],
       "transcript_chars": 15902,
       "folder": "2024-12-18-how-to-quickly-remap-scenarios-to-use-openrouter-advanced-methods"
+    },
+    {
+      "title": "Use This to Instantly Swap AI Models in Make (FREE Options!)",
+      "video_id": "EsGniZ7Sl8k",
+      "youtube_url": "https://www.youtube.com/watch?v=EsGniZ7Sl8k",
+      "publish_date": "2024-12-17",
+      "duration": "6:36",
+      "duration_seconds": 396,
+      "view_count": 1311,
+      "author": "Deep Dive with The AI Automators",
+      "description": "\ud83d\udc49 Get all of our make.com templates here: https://www.theaiautomators.com/?utm_source=youtube&utm_medium=video&utm_campaign=tutorial&utm_content=c2_open_router_connection\n\nNote: Our video to convert existing blueprints to use OpenRouter will be uploaded this week! Subscribe to the channel to get notified when it's available!\n\nLearn how to connect OpenRouter to Make.com and unlock access to ANY AI model, including free LLMs! \ud83d\ude80 In this step-by-step tutorial, I'll show you how to set up OpenRouter, integrate it with Make.com, and use AI models like GPT-4o, Claude, and more for your automations.\n\nThis is great for swapping back and forth between models, while OpenRouter also includes automatic fallback to different models in the event of an error, which can make your automations a lot more resiliant. \n\n\ud83d\udd17 What you'll learn:\nConnecting OpenRouter to Make.com\nUsing free & paid AI models in your workflows\n",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers"
+      ],
+      "entities": {
+        "companies": [
+          "Anthropic",
+          "Google",
+          "Amazon",
+          "Perplexity",
+          "X"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Gemini",
+          "Perplexity",
+          "Make"
+        ],
+        "models": [
+          "Claude 3",
+          "Claude 3.5",
+          "Gemini",
+          "Llama"
+        ]
+      },
+      "concepts": [
+        "Enabling that error handling auto retry fall back within open router so let's get started so first off just go to open router"
+      ],
+      "summary": [
+        "# Use This to Instantly Swap AI Models in Make (FREE Options"
+      ],
+      "transcript_chars": 7244,
+      "folder": "2024-12-17-use-this-to-instantly-swap-ai-models-in-make-free-options"
+    },
+    {
+      "title": "How to Automate Social Media for All Your Brands in One Place!",
+      "video_id": "om6KpSzTTlc",
+      "youtube_url": "https://www.youtube.com/watch?v=om6KpSzTTlc",
+      "publish_date": "2024-12-13",
+      "duration": "4:57",
+      "duration_seconds": 297,
+      "view_count": 670,
+      "author": "Deep Dive with The AI Automators",
+      "description": "\ud83d\udc49 Get all of our make.com templates here: https://www.theaiautomators.com/?utm_source=youtube&utm_medium=video&utm_campaign=tutorial&utm_content=c2_social_media_multiple_brands\n\nOur original social media blueprint: https://www.youtube.com/watch?v=00qppWuIW-g\n\nLet\u2019s say you\u2019re working with an automation such our social media blueprint, but you want the scenario to work for multiple brands.\n\nThe issue is that these modules are connected to a single social media account. How do we get around that? Cloning the scenario and adding filters to your starting Airtable trigger is the easiest approach to this.\n\nIn this video, we\u2019ll walk you through how to adapt our social media automation system to work with multiple brands and their respective social media accounts, all within one Airtable base. Follow along as I break down the process step by step!\n",
+      "yt_tags": [],
+      "content_type": "News Roundup",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "General"
+      ],
+      "entities": {
+        "companies": [
+          "Apple",
+          "Slack",
+          "Twitter"
+        ],
+        "people": [],
+        "products": [
+          "Make"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# How to Automate Social Media for All Your Brands in One Place"
+      ],
+      "transcript_chars": 5520,
+      "folder": "2024-12-13-how-to-automate-social-media-for-all-your-brands-in-one-place"
+    },
+    {
+      "title": "How to Use Scenario Inputs in Make.com (Quick Guide)",
+      "video_id": "yPET9I-0hsU",
+      "youtube_url": "https://www.youtube.com/watch?v=yPET9I-0hsU",
+      "publish_date": "2024-12-12",
+      "duration": "2:21",
+      "duration_seconds": 141,
+      "view_count": 5203,
+      "author": "Deep Dive with The AI Automators",
+      "description": "\ud83d\udc49 Get all of our make.com templates here: https://www.theaiautomators.com/?utm_source=youtube&utm_medium=video&utm_campaign=tutorial&utm_content=c2_scenario_inputs\n\nIn this tutorial, we\u2019ll explore how to use scenario inputs in Make.com to manually run scenarios with dynamic data\u2014without relying on tools like Airtable or Google Sheets. This method can simplify your workflow if you want to build something quickly without integrating with external systems for your starting trigger.\n",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers"
+      ],
+      "entities": {
+        "companies": [
+          "Google",
+          "Slack"
+        ],
+        "people": [],
+        "products": [
+          "Make"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "com (Quick Guide)\nin this video I'm going to quickly explain what these scenario inputs are in make"
+      ],
+      "transcript_chars": 2694,
+      "folder": "2024-12-12-how-to-use-scenario-inputs-in-makecom-quick-guide"
+    },
+    {
+      "title": "How to Test Scenarios in Make.com (Without Waiting for Trigger)",
+      "video_id": "UW5MVP5YAIU",
+      "youtube_url": "https://www.youtube.com/watch?v=UW5MVP5YAIU",
+      "publish_date": "2024-12-10",
+      "duration": "8:47",
+      "duration_seconds": 527,
+      "view_count": 3357,
+      "author": "Deep Dive with The AI Automators",
+      "description": "\ud83d\udc49 Get all of our make.com templates here: https://www.theaiautomators.com/?utm_source=youtube&utm_medium=video&utm_campaign=tutorial&utm_content=c2_test_scenarios\n\nDiscover how to test automations in Make.com by using previously processed data. No need to wait for external events\u2014learn how to simulate triggers like webhooks and Make.com app integrations with ease.\n\nEasily transition between testing and production without altering the original workflow.\n\nSave time and ensure robust scenarios for critical automations like external payments or task management systems.\n",
+      "yt_tags": [],
+      "content_type": "News Roundup",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers"
+      ],
+      "entities": {
+        "companies": [
+          "Google",
+          "Slack"
+        ],
+        "people": [],
+        "products": [
+          "Make",
+          "Projects"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [],
+      "transcript_chars": 9502,
+      "folder": "2024-12-10-how-to-test-scenarios-in-makecom-without-waiting-for-trigger"
     }
   ]
 }
