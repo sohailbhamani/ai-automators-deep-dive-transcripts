@@ -1,6 +1,6 @@
 # Ai Agents
 
-Episodes discussing **Ai Agents** (36 episodes):
+Episodes discussing **Ai Agents** (39 episodes):
 
 - [MCP is Make's Most Underrated New Feature](../episodes/2025-05-11-mcp-is-make-s-most-underrated-new-feature/transcript.md) (2025-05-11)
 - [NEW Make.com MCP Update: Connect Anything in Minutes! (No-Code)](../episodes/2025-05-09-new-make-com-mcp-update-connect-anything-in-minutes-no-code/transcript.md) (2025-05-09)
@@ -38,3 +38,6 @@ Episodes discussing **Ai Agents** (36 episodes):
 - [Use This to Instantly Swap AI Models in Make (FREE Options!)](../episodes/2024-12-17-use-this-to-instantly-swap-ai-models-in-make-free-options/transcript.md) (2024-12-17)
 - [How to Automate Social Media for All Your Brands in One Place!](../episodes/2024-12-13-how-to-automate-social-media-for-all-your-brands-in-one-place/transcript.md) (2024-12-13)
 - [How to Use Scenario Inputs in Make.com (Quick Guide)](../episodes/2024-12-12-how-to-use-scenario-inputs-in-makecom-quick-guide/transcript.md) (2024-12-12)
+- [Resume Error Handler Explained (With A Real-Life Example)](../episodes/2024-12-09-resume-error-handler-explained-with-a-real-life-example/transcript.md) (2024-12-09)
+- [How to Post To Pinterest Using Make.com (Beginner Guide)](../episodes/2024-12-02-how-to-post-to-pinterest-using-makecom-beginner-guide/transcript.md) (2024-12-02)
+- [How to Automatically Select a Random File from a Folder on Make.com](../episodes/2024-11-26-how-to-automatically-select-a-random-file-from-a-folder-on-makecom/transcript.md) (2024-11-26)

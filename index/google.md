@@ -1,6 +1,6 @@
 # Google
 
-Episodes discussing **Google** (29 episodes):
+Episodes discussing **Google** (33 episodes):
 
 - [How to Use Loop Over Items in n8n (With Examples)](../episodes/2025-05-20-how-to-use-loop-over-items-in-n8n-with-examples/transcript.md) (2025-05-20)
 - [How to Bulk Add Rows to Google Sheets with Make.com](../episodes/2025-04-28-how-to-bulk-add-rows-to-google-sheets-with-make-com/transcript.md) (2025-04-28)
@@ -31,3 +31,7 @@ Episodes discussing **Google** (29 episodes):
 - [Use This to Instantly Swap AI Models in Make (FREE Options!)](../episodes/2024-12-17-use-this-to-instantly-swap-ai-models-in-make-free-options/transcript.md) (2024-12-17)
 - [How to Use Scenario Inputs in Make.com (Quick Guide)](../episodes/2024-12-12-how-to-use-scenario-inputs-in-makecom-quick-guide/transcript.md) (2024-12-12)
 - [How to Test Scenarios in Make.com (Without Waiting for Trigger)](../episodes/2024-12-10-how-to-test-scenarios-in-makecom-without-waiting-for-trigger/transcript.md) (2024-12-10)
+- [Resume Error Handler Explained (With A Real-Life Example)](../episodes/2024-12-09-resume-error-handler-explained-with-a-real-life-example/transcript.md) (2024-12-09)
+- [Stop Duplicating Workflows! Try This Make.com Solution](../episodes/2024-12-05-stop-duplicating-workflows-try-this-makecom-solution/transcript.md) (2024-12-05)
+- [How to Post To Pinterest Using Make.com (Beginner Guide)](../episodes/2024-12-02-how-to-post-to-pinterest-using-makecom-beginner-guide/transcript.md) (2024-12-02)
+- [How to Automatically Select a Random File from a Folder on Make.com](../episodes/2024-11-26-how-to-automatically-select-a-random-file-from-a-folder-on-makecom/transcript.md) (2024-11-26)

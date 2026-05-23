@@ -1,6 +1,6 @@
 # Tutorials
 
-Episodes discussing **Tutorials** (34 episodes):
+Episodes discussing **Tutorials** (36 episodes):
 
 - [How to Use Loop Over Items in n8n (With Examples)](../episodes/2025-05-20-how-to-use-loop-over-items-in-n8n-with-examples/transcript.md) (2025-05-20)
 - [NEW Make.com MCP Update: Connect Anything in Minutes! (No-Code)](../episodes/2025-05-09-new-make-com-mcp-update-connect-anything-in-minutes-no-code/transcript.md) (2025-05-09)
@@ -36,3 +36,5 @@ Episodes discussing **Tutorials** (34 episodes):
 - [How to Automate Social Media for All Your Brands in One Place!](../episodes/2024-12-13-how-to-automate-social-media-for-all-your-brands-in-one-place/transcript.md) (2024-12-13)
 - [How to Use Scenario Inputs in Make.com (Quick Guide)](../episodes/2024-12-12-how-to-use-scenario-inputs-in-makecom-quick-guide/transcript.md) (2024-12-12)
 - [How to Test Scenarios in Make.com (Without Waiting for Trigger)](../episodes/2024-12-10-how-to-test-scenarios-in-makecom-without-waiting-for-trigger/transcript.md) (2024-12-10)
+- [How to Post To Pinterest Using Make.com (Beginner Guide)](../episodes/2024-12-02-how-to-post-to-pinterest-using-makecom-beginner-guide/transcript.md) (2024-12-02)
+- [How to Automatically Select a Random File from a Folder on Make.com](../episodes/2024-11-26-how-to-automatically-select-a-random-file-from-a-folder-on-makecom/transcript.md) (2024-11-26)

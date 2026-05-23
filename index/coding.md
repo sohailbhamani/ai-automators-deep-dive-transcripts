@@ -1,6 +1,6 @@
 # Coding
 
-Episodes discussing **Coding** (18 episodes):
+Episodes discussing **Coding** (19 episodes):
 
 - [Claude Code Can Now Run On AUTOPILOT. But /loop Is Not Always The Best Way.](../episodes/2026-03-12-claude-code-can-now-run-on-autopilot-but-loop-is-not-always-/transcript.md) (2026-03-12)
 - [MCP is Make's Most Underrated New Feature](../episodes/2025-05-11-mcp-is-make-s-most-underrated-new-feature/transcript.md) (2025-05-11)
@@ -20,3 +20,4 @@ Episodes discussing **Coding** (18 episodes):
 - [I Built a Bing Keyword Research Tool Using Make.com and BuildShip](../episodes/2025-01-03-i-built-a-bing-keyword-research-tool-using-makecom-and-buildship/transcript.md) (2025-01-03)
 - [Use This to Instantly Swap AI Models in Make (FREE Options!)](../episodes/2024-12-17-use-this-to-instantly-swap-ai-models-in-make-free-options/transcript.md) (2024-12-17)
 - [How to Use Scenario Inputs in Make.com (Quick Guide)](../episodes/2024-12-12-how-to-use-scenario-inputs-in-makecom-quick-guide/transcript.md) (2024-12-12)
+- [How to Post To Pinterest Using Make.com (Beginner Guide)](../episodes/2024-12-02-how-to-post-to-pinterest-using-makecom-beginner-guide/transcript.md) (2024-12-02)

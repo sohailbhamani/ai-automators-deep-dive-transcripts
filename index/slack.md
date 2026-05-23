@@ -1,6 +1,6 @@
 # Slack
 
-Episodes discussing **Slack** (11 episodes):
+Episodes discussing **Slack** (12 episodes):
 
 - [Claude Code Can Now Run On AUTOPILOT. But /loop Is Not Always The Best Way.](../episodes/2026-03-12-claude-code-can-now-run-on-autopilot-but-loop-is-not-always-/transcript.md) (2026-03-12)
 - [Understanding Bundles, Arrays & Collections in Make.com](../episodes/2025-04-25-understanding-bundles-arrays-collections-in-makecom/transcript.md) (2025-04-25)
@@ -13,3 +13,4 @@ Episodes discussing **Slack** (11 episodes):
 - [How to Automate Social Media for All Your Brands in One Place!](../episodes/2024-12-13-how-to-automate-social-media-for-all-your-brands-in-one-place/transcript.md) (2024-12-13)
 - [How to Use Scenario Inputs in Make.com (Quick Guide)](../episodes/2024-12-12-how-to-use-scenario-inputs-in-makecom-quick-guide/transcript.md) (2024-12-12)
 - [How to Test Scenarios in Make.com (Without Waiting for Trigger)](../episodes/2024-12-10-how-to-test-scenarios-in-makecom-without-waiting-for-trigger/transcript.md) (2024-12-10)
+- [How to Automatically Select a Random File from a Folder on Make.com](../episodes/2024-11-26-how-to-automatically-select-a-random-file-from-a-folder-on-makecom/transcript.md) (2024-11-26)

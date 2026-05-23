@@ -1,6 +1,6 @@
 # Ai News
 
-Episodes discussing **Ai News** (36 episodes):
+Episodes discussing **Ai News** (37 episodes):
 
 - [Claude Code Can Now Run On AUTOPILOT. But /loop Is Not Always The Best Way.](../episodes/2026-03-12-claude-code-can-now-run-on-autopilot-but-loop-is-not-always-/transcript.md) (2026-03-12)
 - [How to Use Loop Over Items in n8n (With Examples)](../episodes/2025-05-20-how-to-use-loop-over-items-in-n8n-with-examples/transcript.md) (2025-05-20)
@@ -38,3 +38,4 @@ Episodes discussing **Ai News** (36 episodes):
 - [Use This to Instantly Swap AI Models in Make (FREE Options!)](../episodes/2024-12-17-use-this-to-instantly-swap-ai-models-in-make-free-options/transcript.md) (2024-12-17)
 - [How to Automate Social Media for All Your Brands in One Place!](../episodes/2024-12-13-how-to-automate-social-media-for-all-your-brands-in-one-place/transcript.md) (2024-12-13)
 - [How to Test Scenarios in Make.com (Without Waiting for Trigger)](../episodes/2024-12-10-how-to-test-scenarios-in-makecom-without-waiting-for-trigger/transcript.md) (2024-12-10)
+- [Stop Duplicating Workflows! Try This Make.com Solution](../episodes/2024-12-05-stop-duplicating-workflows-try-this-makecom-solution/transcript.md) (2024-12-05)

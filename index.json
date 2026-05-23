@@ -1,8 +1,8 @@
 {
-  "total_videos": 45,
+  "total_videos": 49,
   "date_range": {
     "newest": "2026-03-12",
-    "oldest": "2024-12-10"
+    "oldest": "2024-11-26"
   },
   "videos": [
     {
@@ -1678,6 +1678,145 @@
       "summary": [],
       "transcript_chars": 9502,
       "folder": "2024-12-10-how-to-test-scenarios-in-makecom-without-waiting-for-trigger"
+    },
+    {
+      "title": "Resume Error Handler Explained (With A Real-Life Example)",
+      "video_id": "_63xxWCDMOo",
+      "youtube_url": "https://www.youtube.com/watch?v=_63xxWCDMOo",
+      "publish_date": "2024-12-09",
+      "duration": "4:29",
+      "duration_seconds": 269,
+      "view_count": 1047,
+      "author": "Deep Dive with The AI Automators",
+      "description": "\ud83d\udc49 Get all of our make.com templates here: https://www.theaiautomators.com/?utm_source=youtube&utm_medium=video&utm_campaign=tutorial&utm_content=c2_resume_error\n\nIn this video, I break down how the Resume Error Handler works in Make.com and show you how to use it with a real-life automation example! If you've ever had your automations fail due to errors failing third party modules, this guide will teach you how to handle it like a pro.\n\nYou'll learn how to:\n\u2705 Use the Resume Error Handler to substitute missing data.\n\u2705 Use Filters to Selectively Handle Make.com errors.\n\u2705 Keep your Make.com automations running smoothly without manual intervention.\n\nIn this example, I demonstrate how to fix a scenario that processes Instagram viral reels, even when the reel has no audio. You'll see exactly how to configure the Resume Error Handler, upload substitute data, and get your automations back on track.\n\n\ud83d\udd17 Resources\n\nFull build of the Instagram viral reels automation: https://www.youtube.com/watch?v=sXcVTS1P45M\nResume Error Handler documentation: https://www.make.com/en/help/errors/error-handlers/resume-error-handler\nJoin our community: https://www.theaiautomators.com/?utm_source=youtube&utm_medium=video&utm_campaign=tutorial&utm_content=c2_resume_error\n\nIf you found this video helpful, don\u2019t forget to like, comment, and subscribe for more automation tips and tricks! \ud83d\ude80\n",
+      "yt_tags": [],
+      "content_type": "Deep Dive",
+      "primary_topic": "Career",
+      "difficulty": "Intermediate",
+      "audience": [
+        "General"
+      ],
+      "entities": {
+        "companies": [
+          "Google"
+        ],
+        "people": [],
+        "products": [
+          "Make"
+        ],
+        "models": [
+          "Flux"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "# Resume Error Handler Explained (With A Real-Life Example)\nin this video I'm going to show you how the resume error Handler Works in make"
+      ],
+      "transcript_chars": 5345,
+      "folder": "2024-12-09-resume-error-handler-explained-with-a-real-life-example"
+    },
+    {
+      "title": "Stop Duplicating Workflows! Try This Make.com Solution",
+      "video_id": "yEk-y5DtRfk",
+      "youtube_url": "https://www.youtube.com/watch?v=yEk-y5DtRfk",
+      "publish_date": "2024-12-05",
+      "duration": "5:40",
+      "duration_seconds": 340,
+      "view_count": 5313,
+      "author": "Deep Dive with The AI Automators",
+      "description": "\ud83d\udc49 Get all of our make.com templates here: https://www.theaiautomators.com/?utm_source=youtube&utm_medium=video&utm_campaign=tutorial&utm_content=c2_converger\n\nIn this video, I show you how to stop duplicating workflows in Make.com and streamline your automations! If you\u2019ve ever struggled with adding or updating rows in Google Sheets or Airtable without creating messy, duplicated logic, this is the solution you need. \ud83d\ude80\n\nWith the Converger Pattern, you\u2019ll learn how to:\n\u2705 Check if a record exists in your database or Google Sheet.\n\u2705 Add new rows or update existing ones \u2013 all in one workflow.\n\u2705 Avoid duplicating modules and keep your automations clean and scalable.\n\nConverger Documentation: https://www.make.com/en/help/modules/converger\n\nMake.com doesn\u2019t have a native module to merge tracks, but with this clever workaround, you\u2019ll build smarter workflows that save you time and effort.\n\n\ud83d\udd27 What you\u2019ll learn:\n\n- How to use routers, variables, and iterators.\n- A step-by-step guide to implementing the Converger Pattern.\n\n\ud83d\ude80 Ready to level up your Make.com skills?\nJoin the AI Automators Community for advanced tutorials, system templates, and access to our Make.com Masterclass.\n\n\ud83d\udcac Got questions? Drop them in the comments! Don\u2019t forget to like and subscribe for more videos on AI, no-code, and automation.\n",
+      "yt_tags": [],
+      "content_type": "News Roundup",
+      "primary_topic": "AI News",
+      "difficulty": "Intermediate",
+      "audience": [
+        "General"
+      ],
+      "entities": {
+        "companies": [
+          "Google"
+        ],
+        "people": [],
+        "products": [
+          "Make"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "com or if you'd like access to boilerplate blueprints for full systems using air table using AI automations and make and we also have a make"
+      ],
+      "transcript_chars": 6482,
+      "folder": "2024-12-05-stop-duplicating-workflows-try-this-makecom-solution"
+    },
+    {
+      "title": "How to Post To Pinterest Using Make.com (Beginner Guide)",
+      "video_id": "D3jDQSCBzFo",
+      "youtube_url": "https://www.youtube.com/watch?v=D3jDQSCBzFo",
+      "publish_date": "2024-12-02",
+      "duration": "2:14",
+      "duration_seconds": 134,
+      "view_count": 6745,
+      "author": "Deep Dive with The AI Automators",
+      "description": "\ud83d\udc49 Get all of our make.com templates here: https://www.theaiautomators.com/?utm_source=youtube&utm_medium=video&utm_campaign=tutorial&utm_content=c2_pinterest_connection\n\nIn this video, you'll learn how to easily connect Pinterest to Make.com and I show you a quick example of how it works.\nThis is a good starting point, and once you know how the connection works, you can move onto our more advanced automations:\nVideo to our pinterest system: https://www.youtube.com/watch?v=0_Z-S4QB2LY\n",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Beginner",
+      "audience": [
+        "General"
+      ],
+      "entities": {
+        "companies": [
+          "Google"
+        ],
+        "people": [],
+        "products": [
+          "Make"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "com (Beginner Guide)\nin this video I'm going to show you how to connect Pinterest to make"
+      ],
+      "transcript_chars": 2499,
+      "folder": "2024-12-02-how-to-post-to-pinterest-using-makecom-beginner-guide"
+    },
+    {
+      "title": "How to Automatically Select a Random File from a Folder on Make.com",
+      "video_id": "Avzv6Gthol4",
+      "youtube_url": "https://www.youtube.com/watch?v=Avzv6Gthol4",
+      "publish_date": "2024-11-26",
+      "duration": "4:59",
+      "duration_seconds": 299,
+      "view_count": 2028,
+      "author": "Deep Dive with The AI Automators",
+      "description": "\ud83d\udc49 Get all of our make.com templates here: https://www.theaiautomators.com/?utm_source=youtube&utm_medium=video&utm_campaign=tutorial&utm_content=c2_random_folder_make\n\nIn this video, you\u2019ll learn how to select a random file from a folder in Google Drive\u2014a seemingly simple but surprisingly tricky task. Whether you need to grab a random image for a social media post, a file for a blog post, or any other automation use case, this tutorial has you covered.\n\nWhat You\u2019ll Learn in This Video\n\nSetting up your Google Drive module\nHow to create a folder and configure file retrieval.\nSetting limits on the number of files to process.\n\nWorking with arrays and bundles\nUsing the \u201cSearch for Files and Folders\u201d module to return an array of files.\nAggregating multiple bundles into a single array for easier handling.\n\nGenerating random file IDs\nHow to use random number generation and the floor function to create an array index.\nDynamically selecting a random file ID from the array.\n\nDownloading and using files\nHow to download the selected file for further use.\nExamples of automating tasks like uploading images to WordPress or posting on social media.\n\nExpanding the workflow\nConnecting with WordPress to embed media files directly into blog posts.\nAdapting the process for various automation use cases.\n\nKey Takeaways\n\nUse Make.com\u2019s modules to streamline Google Drive file management.\nLearn how random number logic can power dynamic automation workflows.\nEasily integrate downloaded files into platforms like WordPress or other tools for seamless automation.\n",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "General"
+      ],
+      "entities": {
+        "companies": [
+          "Google",
+          "Slack"
+        ],
+        "people": [],
+        "products": [
+          "Make"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# How to Automatically Select a Random File from a Folder on Make"
+      ],
+      "transcript_chars": 5596,
+      "folder": "2024-11-26-how-to-automatically-select-a-random-file-from-a-folder-on-makecom"
     }
   ]
 }

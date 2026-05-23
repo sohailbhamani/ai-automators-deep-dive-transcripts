@@ -1,6 +1,6 @@
 # Tutorial
 
-Episodes discussing **Tutorial** (28 episodes):
+Episodes discussing **Tutorial** (30 episodes):
 
 - [How to Bulk Add Rows to Google Sheets with Make.com](../episodes/2025-04-28-how-to-bulk-add-rows-to-google-sheets-with-make-com/transcript.md) (2025-04-28)
 - [Understanding Bundles, Arrays & Collections in Make.com](../episodes/2025-04-25-understanding-bundles-arrays-collections-in-makecom/transcript.md) (2025-04-25)
@@ -30,3 +30,5 @@ Episodes discussing **Tutorial** (28 episodes):
 - [How to Quickly Remap Scenarios to Use OpenRouter (Advanced Methods)](../episodes/2024-12-18-how-to-quickly-remap-scenarios-to-use-openrouter-advanced-methods/transcript.md) (2024-12-18)
 - [Use This to Instantly Swap AI Models in Make (FREE Options!)](../episodes/2024-12-17-use-this-to-instantly-swap-ai-models-in-make-free-options/transcript.md) (2024-12-17)
 - [How to Use Scenario Inputs in Make.com (Quick Guide)](../episodes/2024-12-12-how-to-use-scenario-inputs-in-makecom-quick-guide/transcript.md) (2024-12-12)
+- [How to Post To Pinterest Using Make.com (Beginner Guide)](../episodes/2024-12-02-how-to-post-to-pinterest-using-makecom-beginner-guide/transcript.md) (2024-12-02)
+- [How to Automatically Select a Random File from a Folder on Make.com](../episodes/2024-11-26-how-to-automatically-select-a-random-file-from-a-folder-on-makecom/transcript.md) (2024-11-26)
