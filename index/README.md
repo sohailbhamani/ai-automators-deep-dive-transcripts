@@ -52,8 +52,8 @@ Index of 49 episodes across 51 topics.
 - [Anthropic Api](anthropic-api.md) (1 episodes)
 - [Zapier](zapier.md) (1 episodes)
 - [Model Context Protocol](model-context-protocol.md) (1 episodes)
-- [Opus](opus.md) (1 episodes)
 - [Claude Code](claude-code.md) (1 episodes)
+- [Opus](opus.md) (1 episodes)
 - [Github](github.md) (1 episodes)
 
 ## Search
